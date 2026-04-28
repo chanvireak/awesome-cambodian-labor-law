@@ -32,8 +32,8 @@
 | *October 1, 1998* | Circular No. 40 SKO | Posting of Regulatory Instruments |  |
 | *September 22, 1999* | Circular No. 021 MOSALVY | Appointment of Liaison Personnel in Garment Factories |  |
 | *July 9, 2003* | Notification No. 11 MOSALVY | Requirements for Civil Status Documents in Job Applications to Verify Employee Minimum Age |  |
-| *March 27, 2020* | Inter-Ministerial Prakas No. 335 MEF.PrK | Provision of Public Services by MLVT |  |
 | *March 2, 2023* | Notification No. 004/23 MLVT/SJN.MH | Deadline and Procedures for Issuance and Renewal of Foreigner Work Permits and Employment Books |  |
+| *March 13, 2025* | Inter-Ministerial Prakas No. 193 MEF.PrK | Provision of Public Services by MLVT |  |
 
 ## 2\. Employment Contracts, Hiring & Staff Administration
 
