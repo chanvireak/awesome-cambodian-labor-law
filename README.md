@@ -271,7 +271,8 @@
 | *January 26, 2015* | Instruction No. 003/15 MLVT/SNN | Procedures for Requesting and Extending Foreigner Work Permits |  |
 | *March 29, 2019* | Instruction No. 043/19 MLVT/SNN.KhL | Registration of Foreigners' Employment Contracts |  |
 | *April 30, 2019* | Notification No. 012/19 MLVT/SJN.MH | Foreigner Work Permits and Employment Cards (New Format) |  |
-| *December 28, 2023* | Instruction No. 110/23 MLVT/SNN.MH | Work Permits for Foreign Employers |  |
+| *December 8, 2023* | Prakas No. 366/23 | Self-Employed Foreign Work Permits | |
+| *December 28, 2023* | Instruction No. 110/23 MLVT/SNN.MH | Work Permits for Foreign Employers/Shareholders named on a Patent Tax Certificate |  |
 | *May 06, 2025* | Notification (Unnumbered) | Extension of Deadline for 2025 Work Permits | Active |
 
 ### C. Enforcement & Penalties
