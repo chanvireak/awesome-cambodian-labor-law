@@ -19,10 +19,11 @@
  :---- | :---- | :---- | :---- |
 | *January 17, 2005* | Royal Kram No. NS/RKM/0105/003 | Establishment of the MLVT |  |
 | *May 11, 2006* | Sub-Decree No. 47 ANKr.BK | Composition and Functioning of the Labor Advisory Committee | Active |
-| *November 14, 2014* | Sub-Decree No. 283 ANKr.BK | Organization and Functioning of the MLVT | Active |
+| *November 14, 2014* | Sub-Decree No. 283 ANKr.BK | Organization and Functioning of the MLVT | Abrogated |
 | *September 22, 2015* | Sub-Decree No. 135 ANKr.BK | Revision of Article 7 of Sub-Decree No. 47 on the Labor Advisory Committee |  |
 | *April 20, 2017* | Sub-Decree No. 51 ANKr.BK | Revision of the National Training Board |  |
 | *April 2, 2019* | Prakas No. 125/19 MLVT/PrK.VK | Appointment of Members to the Labor Advisory Committee (9th Mandate) |  |
+| *December 3, 2025* | Sub-Decree No. 236 ANKr.BK | Organization and Functioning of the MLVT | Active |
 
 ### C. General Administration & Public Services
 
@@ -318,12 +319,13 @@
 | *July 5, 2002* | Circular No. 12 MOSALVY | Resolution of Labor Disputes |  |
 | *May 9, 2003* | Prakas No. 174 MOSALVY | Establishment of the Secretariat of the Arbitration Council |  |
 | *May 6, 2003* | Instruction No. 08 MOSALVY | Exhausting Means to Resolve Collective Labor Disputes |  |
-| *April 21, 2004* | Prakas No. 099 MOSALVY | Arbitration Council |  |
+| *April 21, 2004* | Prakas No. 099 MOSALVY | Arbitration Council | Abrogated |
 | *October 21, 2013* | Sub-Decree No. 489 ANKr.BK | Revision of the Committee for Resolving Strikes and Demonstrations |  |
 | *August 29, 2016* | Prakas No. 362 MLVT/PrK | Lodging Complaints on Collective Disputes and Recognizing Negotiation Delegates |  |
 | *October 2, 2019* | Sub-Decree No. 150 ANKr.BK | Revision of the Strike/Demonstration Resolution Committee |  |
 | *March 04, 2025* | Prakas No. 073/25 | Procedures for Resolving Individual Labor Disputes | Active |
 | *March 04, 2025* | Prakas No. 074/25 | Procedures for Resolving Collective Labor Disputes | Active |
+| *April 13, 2026* | Prakas No. 098 | Arbitration Council | Active |
 
 ## 9\. Special Categories of Workers & Protected Sectors
 
