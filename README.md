@@ -2,7 +2,7 @@
 
 ## 1\. Fundamental Labor Law & General Administration
 
-***Classification Rule:** Add new regulations here if they amend the core text of the Labor Law, establish or restructure MLVT government bodies/committees, or dictate general administrative frameworks and public service fees.
+**Classification Rule:** Add new regulations here if they amend the core text of the Labor Law, establish or restructure MLVT government bodies/committees, or dictate general administrative frameworks and public service fees.
 
 ### A. Primary Labor Law & Amendments
 
@@ -38,7 +38,7 @@
 
 ## 2\. Employment Contracts, Hiring & Staff Administration
 
-***Classification Rule:** Add new regulations here if they govern the paperwork and lifecycle of hiring local staff. This includes rules on fixed-duration vs. undetermined duration contracts, internal enterprise rules, apprenticeships, and company opening/closing declarations.
+**Classification Rule:** Add new regulations here if they govern the paperwork and lifecycle of hiring local staff. This includes rules on fixed-duration vs. undetermined duration contracts, internal enterprise rules, apprenticeships, and company opening/closing declarations.
 
 ### A. Company Declarations, Books & Record Keeping
 
@@ -75,7 +75,7 @@
 
 ## 3\. Remuneration, Seniority & Financial Benefits
 
-***Classification Rule:** Add new regulations here if they mandate how much, when, and how employees get paid. This covers annual minimum wage updates, seniority indemnity calculations, severance, and mandatory financial bonuses/allowances.
+**Classification Rule:** Add new regulations here if they mandate how much, when, and how employees get paid. This covers annual minimum wage updates, seniority indemnity calculations, severance, and mandatory financial bonuses/allowances.
 
 ### A. Minimum Wage Determination
 
@@ -113,7 +113,7 @@
 
 ## 4\. Working Hours, Leave & Holidays
 
-***Classification Rule:** Add new regulations here if they govern the calendar and clock of employment. This includes weekly time off, shift scheduling, limits on overtime, special leave, and the MLVT's annual paid public holiday calendar.
+**Classification Rule:** Add new regulations here if they govern the calendar and clock of employment. This includes weekly time off, shift scheduling, limits on overtime, special leave, and the MLVT's annual paid public holiday calendar.
 
 ### A. Working Hours & Overtime Protocols
 
@@ -147,7 +147,7 @@
 
 ## 5\. Occupational Safety and Health (OSH)
 
-***Classification Rule:** Add new regulations here if they dictate physical workplace standards to prevent injury or illness. This encompasses pre-employment medical check-ups, enterprise infirmaries, temperature/noise controls, sanitation, and hazard mitigation.
+**Classification Rule:** Add new regulations here if they dictate physical workplace standards to prevent injury or illness. This encompasses pre-employment medical check-ups, enterprise infirmaries, temperature/noise controls, sanitation, and hazard mitigation.
 
 ### A. Medical Infrastructure, Infirmaries & Medical Check-Ups
 
@@ -198,7 +198,7 @@
 
 ## 6\. National Social Security Fund (NSSF)
 
-***Classification Rule:** Add new regulations here if they are issued by or pertain directly to the National Social Security Fund (NSSF). This covers employer registrations, contribution wage caps, and the rules governing the three pillars: Occupational Risk, Health Care, and Pensions.
+**Classification Rule:** Add new regulations here if they are issued by or pertain directly to the National Social Security Fund (NSSF). This covers employer registrations, contribution wage caps, and the rules governing the three pillars: Occupational Risk, Health Care, and Pensions.
 
 ### A. General Framework, Registration & Administration
 
@@ -251,7 +251,7 @@
 
 ## 7\. Foreign Workforce Management
 
-***Classification Rule:** Add new regulations here if they apply exclusively to non-Cambodian nationals working in the Kingdom. This includes foreign quota applications, foreign work permits/employment cards, and rules restricting foreigners from certain occupations.
+**Classification Rule:** Add new regulations here if they apply exclusively to non-Cambodian nationals working in the Kingdom. This includes foreign quota applications, foreign work permits/employment cards, and rules restricting foreigners from certain occupations.
 
 ### A. Quotas & Prohibitions
 
@@ -284,7 +284,7 @@
 
 ## 8\. Labor Relations & Dispute Resolution
 
-***Classification Rule:** Add new regulations here if they govern collective representation or conflict resolution. This includes rules on trade unions, shop stewards, collective bargaining agreements (CBAs), strike procedures, and the Arbitration Council.
+**Classification Rule:** Add new regulations here if they govern collective representation or conflict resolution. This includes rules on trade unions, shop stewards, collective bargaining agreements (CBAs), strike procedures, and the Arbitration Council.
 
 ### A. Trade Unions & Representation
 
@@ -329,7 +329,7 @@
 
 ## 9\. Special Categories of Workers & Protected Sectors
 
-***Classification Rule:** Add new regulations here if they carve out unique legal protections for vulnerable demographics (e.g., minors, pregnant women, persons with disabilities) or establish custom working conditions for specialized industries (e.g., domestic work, agriculture, maritime, brick kilns).
+**Classification Rule:** Add new regulations here if they carve out unique legal protections for vulnerable demographics (e.g., minors, pregnant women, persons with disabilities) or establish custom working conditions for specialized industries (e.g., domestic work, agriculture, maritime, brick kilns).
 
 ### A. Child Labor & Minors
 
@@ -365,7 +365,7 @@
 
 ## 10\. Compliance, Labor Inspections & Penalties
 
-***Classification Rule:** Add new regulations here if they outline how the government enforces the labor law. This includes mechanisms for MLVT monitoring, inspector conduct, self-declaration auditing protocols, and punitive fine frameworks for non-compliance.
+**Classification Rule:** Add new regulations here if they outline how the government enforces the labor law. This includes mechanisms for MLVT monitoring, inspector conduct, self-declaration auditing protocols, and punitive fine frameworks for non-compliance.
 
 ### A. Inspection Frameworks & Inspector Conduct
 
@@ -394,7 +394,7 @@
 
 ## 11\. Crisis Management & COVID-19 Interventions
 
-***Classification Rule:** Add new regulations here if they are temporary, situational directives issued to manage economic or public health emergencies. This includes pandemic SOPs, state wage subsidies, emergency contract suspensions, and compliance leniency measures.
+**Classification Rule:** Add new regulations here if they are temporary, situational directives issued to manage economic or public health emergencies. This includes pandemic SOPs, state wage subsidies, emergency contract suspensions, and compliance leniency measures.
 
 ### A. Workplace Preventive Measures & SOPs
 
