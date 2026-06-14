@@ -209,9 +209,10 @@
 | *May 2, 2016* | Notification No. 127 MLVT/SJN | Registration of Employees in the NSSF |  |
 | *November 10, 2017* | Prakas No. 448 MLVT/PrK.NSSF | Registration of Enterprises and Employees in the NSSF |  |
 | *November 10, 2017* | Prakas No. 449 MLVT/PrK.NSSF | Contribution Rates and Procedures for Occupational Risk and Health Care |  |
-| *November 2, 2019* | Royal Kram No. NS/RKM/1119/018 | Law on Social Security Schemes |  |
-| *August 19, 2021* | Sub-Decree No. 144 ANKr.BK | Determination of Contribution-Subject Wage or Salary |  |
-| *July 5, 2022* | Prakas No. 168/22 MLVT/PrK.NSSF | Registration and Contribution Payment Formalities for NSSF |  |
+| *October 16, 2018* | Prakas No. 477 KB/Pr.K.NSSF | Rehabilitation Services for Occupational Risk and Healthcare | Active |
+| *November 2, 2019* | Royal Kram No. NS/RKM/1119/018 | Law on Social Security Schemes | Active |
+| *August 19, 2021* | Sub-Decree No. 144 ANKr.BK | Determination of Contribution-Subject Wage or Salary | Active |
+| *July 5, 2022* | Prakas No. 168/22 MLVT/PrK.NSSF | Registration and Contribution Payment Formalities for NSSF | Active |
 
 ### B. Occupational Risk Scheme
 
@@ -228,16 +229,18 @@
 | *January 6, 2016* | Sub-Decree No. 01 ANKr.BK | Establishment of the Health Care Scheme |  |
 | *March 7, 2016* | Prakas No. 093/16 MLVT/PrK | Phases and Dates for Health Care Scheme Implementation |  |
 | *March 17, 2016* | Prakas No. 109 MLVT/PrK | Health Care Benefits |  |
-| *June 21, 2016* | Prakas No. 238 MLVT/PrK | List of Chronic Diseases Under the Health Care Scheme |  |
+| *June 21, 2016* | Prakas No. 238 MLVT/PrK | List of Chronic Diseases Under the Health Care Scheme | Abrogated |
 | *July 25, 2016* | Inter-Ministerial Prakas No. 291 MLVT/PrK | Agreement Between NSSF and Health Facilities |  |
+| *February 8, 2017* | Prakas No. 049/17 KB/Pr.K | Inclusion of Health Prevention Services in Health Care Scheme | Active |
 | *August 26, 2017* | Sub-Decree No. 140 ANKr.BK | Revision of the Health Care Scheme Sub-Decree |  |
 | *October 11, 2017* | Inter-Ministerial Prakas No. 404 MLVT/PrK.NSSF | Health Equity Fund for Informal Workers and Maternity Allowances |  |
 | *April 25, 2018* | Prakas No. 184 MLVT/PrK.NSSF | Revision to Health Care Benefits Prakas |  |
 | *November 2, 2020* | Instruction No. 142/20 MLVT/SNN.NSSF | Registration of Informal Workers for Health Equity Fund |  |
-| *June 20, 2023* | Inter-Ministerial Prakas No. 166/23 MLVT/PrK.NSSF | Allowances for Sick Leave, Maternity, and Funeral Under Compulsory Health Care |  |
+| *June 20, 2023* | Prakas No. 166/23 KB/Pr.K.NSSF | Allowances for Sick Leave, Maternity, and Funeral Under Compulsory Health Care | Active |
 | *August 21, 2023* | Inter-Ministerial Prakas No. 252/23 MLVT/PrK.NSSF | Government Subsidy for Pregnant NSSF Members and Children Under 2 |  |
-| *August 21, 2023* | Inter-Ministerial Prakas No. 330/23 MLVT/PrK.NSSF | Health Care Scheme via Voluntary Contributions for Self-Employed & Dependents |  |
 | *August 28, 2023* | Sub-Decree No. 280 ANKr.BK | Implementation of Voluntary Health Care Scheme Contributions | Active |
+| *November 13, 2023* | Inter-Ministerial Prakas No. 330/23 KB/Pr.K.NSSF | Healthcare through Voluntary Contributions for Self-Employed & Dependents (Labor Law) | Active |
+| *November 5, 2024* | Prakas No. 235/24 KB/Pr.K.NSSF | Provision of Healthcare, Rehabilitation Services and List of Chronic Diseases | Active |
 
 ### D. Pension Scheme
 
@@ -248,6 +251,20 @@
 | *July 5, 2022* | Prakas No. 169/22 MLVT/PrK.NSSF | Funeral Allowance Under the Pension Scheme |  |
 | *July 5, 2022* | Prakas No. 170/22 MLVT/PrK.NSSF | Starting Date for Pension Scheme Contributions |  |
 | *October 2027* | Policy Target | NSSF Pension Scheme Phase 2 (8% Contribution) | Pending |
+
+### E. Public Sector Social Security
+
+**Classification Rule:** Add regulations here if they govern the Social Security Scheme for public officials, civil servants, veterans, and police/military students and trainees.
+
+| Date | Issue No. | Short Title | Status |
+ :---- | :---- | :---- | :---- |
+| *January 2, 2018* | Inter-Ministerial Prakas No. 006/18 KB/Pr.K.NSSF | Implementation Dates of Healthcare for Public Officials | Active |
+| *May 8, 2018* | Sub-Decree No. 59 ANKr.BK | Contribution Rates and Payment Procedures for Public Sector Healthcare | Active |
+| *October 21, 2022* | Sub-Decree No. 221 ANKr.BK | Modification of Contribution Rates and Payment Procedures (Sub-Decree 59) | Active |
+| *November 13, 2023* | Inter-Ministerial Prakas No. 331/23 KB/Pr.K.NSSF | Healthcare Voluntary Contributions for Dependents of Public Officials | Active |
+| *March 22, 2024* | Sub-Decree No. 62 ANKr.BK | Expansion of Occupational Risk and Healthcare to Public Sector | Active |
+| *May 10, 2024* | Sub-Decree No. 108 ANKr.BK | Continued Validity of Contribution Rates under Sub-Decree No. 221 | Active |
+| *December 27, 2024* | Sub-Decree No. 304 ANKr.BK | Expansion of Healthcare Scheme to Police Students and Trainees | Active |
 
 ## 7\. Foreign Workforce Management
 
