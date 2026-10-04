@@ -1,0 +1,29 @@
+---
+title: "Employment Cards for Cambodian Employees"
+aliases: ["Prakas No. 197 MLVT/PrK"]
+issue_no: "Prakas No. 197 MLVT/PrK"
+type: Prakas
+category: "Employment Contracts, Hiring & Staff Administration"
+subcategory: "A. Company Declarations, Books & Record Keeping"
+date: 2014-08-20
+status: Unknown
+jurisdiction: Cambodia
+ftk_doc_id: 
+ftk_indexed: false
+tags: [cambodia, labour-law]
+summary: "Not yet indexed in the FTK library — listed here for completeness."
+---
+# Employment Cards for Cambodian Employees
+
+> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+
+- **Issue No.:** Prakas No. 197 MLVT/PrK
+- **Date:** August 20, 2014
+- **Status:** —
+- **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
+- **FTK document ID:** — not yet indexed in the FTK library.
+
+## Notes
+
+This note is part of the **Awesome Cambodian Labour Law** index, generated from the FTK document library. The summary above is derived from the regulation's own text; see the repository README for scope and status conventions.
+
