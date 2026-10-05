@@ -1,27 +1,27 @@
 ---
-title: "Composition and Functioning of the Labor Advisory Committee"
-aliases: ["Sub-Decree No. 47 ANKr.BK"]
-issue_no: "Sub-Decree No. 47 ANKr.BK"
-type: Sub-Decree
+title: "Appointment of Members of the Labour Advisory Committee (12th Mandate)"
+aliases: ["Prakas No. 018/24"]
+issue_no: "Prakas No. 018/24"
+type: Prakas
 category: "Fundamental Labor Law & General Administration"
 subcategory: "B. Institutional & Committee Establishments"
-date: 2006-05-11
+date: 2024-01-18
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160754
+ftk_doc_id: 160788
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Appoints members of the Labour Advisory Committee for its 12th mandate."
 ---
-# Composition and Functioning of the Labor Advisory Committee
+# Appointment of Members of the Labour Advisory Committee (12th Mandate)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Appoints members of the Labour Advisory Committee for its 12th mandate.
 
-- **Issue No.:** Sub-Decree No. 47 ANKr.BK
-- **Date:** 2006-05-11
+- **Issue No.:** Prakas No. 018/24
+- **Date:** 2024-01-18
 - **Status:** Active
 - **Category:** Fundamental Labor Law & General Administration › B. Institutional & Committee Establishments
-- **FTK document ID:** `160754` — full text available in the FTK document library.
+- **FTK document ID:** `160788` — full text available in the FTK document library.
 
 ## Notes
 

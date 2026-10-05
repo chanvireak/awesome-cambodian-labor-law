@@ -1,27 +1,27 @@
 ---
-title: "Arbitration Council"
-aliases: ["Prakas No. 099 MOSALVY"]
-issue_no: "Prakas No. 099 MOSALVY"
-type: Prakas
+title: "Sale of Factory Equipment — Oufa Factory"
+aliases: ["Notification No. 39"]
+issue_no: "Notification No. 39"
+type: Notification
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
-date: 2004-04-21
-status: "Abrogated"
+date: 2018-05-04
+status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160768
+ftk_doc_id: 160806
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Notifies the sale of equipment of the Oufa factory."
 ---
-# Arbitration Council
+# Sale of Factory Equipment — Oufa Factory
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Notifies the sale of equipment of the Oufa factory.
 
-- **Issue No.:** Prakas No. 099 MOSALVY
-- **Date:** 2004-04-21
-- **Status:** Abrogated
+- **Issue No.:** Notification No. 39
+- **Date:** 2018-05-04
+- **Status:** Active
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `160768` — full text available in the FTK document library.
+- **FTK document ID:** `160806` — full text available in the FTK document library.
 
 ## Notes
 

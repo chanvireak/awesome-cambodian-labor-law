@@ -1,27 +1,27 @@
 ---
-title: "Composition and Functioning of the Labor Advisory Committee"
-aliases: ["Sub-Decree No. 47 ANKr.BK"]
-issue_no: "Sub-Decree No. 47 ANKr.BK"
+title: "Amendment to Article 7 of Sub-Decree No. 47 on the Labour Advisory Committee"
+aliases: ["Sub-Decree No. 135"]
+issue_no: "Sub-Decree No. 135"
 type: Sub-Decree
 category: "Fundamental Labor Law & General Administration"
 subcategory: "B. Institutional & Committee Establishments"
-date: 2006-05-11
+date: 2025-09-22
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160754
+ftk_doc_id: 160757
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Amends Article 7 of Sub-Decree No. 47 governing the Labour Advisory Committee."
 ---
-# Composition and Functioning of the Labor Advisory Committee
+# Amendment to Article 7 of Sub-Decree No. 47 on the Labour Advisory Committee
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Amends Article 7 of Sub-Decree No. 47 governing the Labour Advisory Committee.
 
-- **Issue No.:** Sub-Decree No. 47 ANKr.BK
-- **Date:** 2006-05-11
+- **Issue No.:** Sub-Decree No. 135
+- **Date:** 2025-09-22
 - **Status:** Active
 - **Category:** Fundamental Labor Law & General Administration › B. Institutional & Committee Establishments
-- **FTK document ID:** `160754` — full text available in the FTK document library.
+- **FTK document ID:** `160757` — full text available in the FTK document library.
 
 ## Notes
 

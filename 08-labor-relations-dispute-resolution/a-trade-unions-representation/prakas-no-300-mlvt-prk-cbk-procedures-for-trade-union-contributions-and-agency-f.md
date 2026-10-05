@@ -8,8 +8,8 @@ subcategory: "A. Trade Unions & Representation"
 date: 2018-07-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160776
+ftk_indexed: true
 tags: [cambodia, labour-law, trade-unions]
 summary: "Not yet indexed in the FTK library — listed here for completeness."
 ---
@@ -21,7 +21,7 @@ summary: "Not yet indexed in the FTK library — listed here for completeness."
 - **Date:** 2018-07-02
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › A. Trade Unions & Representation
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160776` — full text available in the FTK document library.
 
 ## Notes
 

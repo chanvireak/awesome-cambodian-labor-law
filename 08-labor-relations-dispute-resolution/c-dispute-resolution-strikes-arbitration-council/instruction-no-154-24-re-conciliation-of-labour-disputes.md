@@ -1,27 +1,27 @@
 ---
-title: "Procedures for Resolving Individual Labor Disputes"
-aliases: ["Prakas No. 073/25"]
-issue_no: "Prakas No. 073/25"
-type: Prakas
+title: "Re-conciliation of Labour Disputes"
+aliases: ["Instruction No. 154/24"]
+issue_no: "Instruction No. 154/24"
+type: Instruction
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
-date: 2025-03-04
+date: 2024-11-01
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160785
+ftk_doc_id: 160800
 ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
-summary: "Sets procedures for resolving individual labour disputes."
+summary: "Sets out re-conciliation of labour disputes before further escalation."
 ---
-# Procedures for Resolving Individual Labor Disputes
+# Re-conciliation of Labour Disputes
 
-> **Summary.** Sets procedures for resolving individual labour disputes.
+> **Summary.** Sets out re-conciliation of labour disputes before further escalation.
 
-- **Issue No.:** Prakas No. 073/25
-- **Date:** 2025-03-04
+- **Issue No.:** Instruction No. 154/24
+- **Date:** 2024-11-01
 - **Status:** Active
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `160785` — full text available in the FTK document library.
+- **FTK document ID:** `160800` — full text available in the FTK document library.
 
 ## Notes
 

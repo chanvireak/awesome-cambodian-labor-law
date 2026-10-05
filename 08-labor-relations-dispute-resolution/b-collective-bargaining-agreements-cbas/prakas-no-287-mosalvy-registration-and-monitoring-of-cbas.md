@@ -8,8 +8,8 @@ subcategory: "B. Collective Bargaining Agreements (CBAs)"
 date: 2001-11-05
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160763
+ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Not yet indexed in the FTK library — listed here for completeness."
 ---
@@ -21,7 +21,7 @@ summary: "Not yet indexed in the FTK library — listed here for completeness."
 - **Date:** 2001-11-05
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › B. Collective Bargaining Agreements (CBAs)
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160763` — full text available in the FTK document library.
 
 ## Notes
 

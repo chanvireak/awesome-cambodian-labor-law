@@ -8,8 +8,8 @@ subcategory: "C. General Administration & Public Services"
 date: 1999-09-22
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160795
+ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Not yet indexed in the FTK library — listed here for completeness."
 ---
@@ -21,7 +21,7 @@ summary: "Not yet indexed in the FTK library — listed here for completeness."
 - **Date:** 1999-09-22
 - **Status:** Unknown
 - **Category:** Fundamental Labor Law & General Administration › C. General Administration & Public Services
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160795` — full text available in the FTK document library.
 
 ## Notes
 

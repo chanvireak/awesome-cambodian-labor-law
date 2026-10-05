@@ -8,7 +8,7 @@ subcategory: "B. Collective Bargaining Agreements (CBAs)"
 date: 2000-02-29
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 121546
+ftk_doc_id: 160760
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets minimum working conditions for professions without a collective agreement."
@@ -21,7 +21,7 @@ summary: "Sets minimum working conditions for professions without a collective a
 - **Date:** 2000-02-29
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › B. Collective Bargaining Agreements (CBAs)
-- **FTK document ID:** `121546` — full text available in the FTK document library.
+- **FTK document ID:** `160760` — full text available in the FTK document library.
 
 ## Notes
 

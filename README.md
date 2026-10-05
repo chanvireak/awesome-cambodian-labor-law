@@ -23,18 +23,18 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**250 regulations · 116 indexed in FTK (46%) · snapshot 2026-10-04**
+**285 regulations · 167 indexed in FTK (59%) · snapshot 2026-10-05**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
-| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 17 |
+| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 26 |
 | 2 | [Employment Contracts, Hiring & Staff Administration](02-employment-contracts-hiring-staff-administration/README.md) | 3 | 19 |
 | 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 22 |
 | 4 | [Working Hours, Leave & Holidays](04-working-hours-leave-holidays/README.md) | 3 | 22 |
 | 5 | [Occupational Safety and Health (OSH)](05-occupational-safety-and-health-osh/README.md) | 3 | 37 |
 | 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 5 | 43 |
 | 7 | [Foreign Workforce Management](07-foreign-workforce-management/README.md) | 3 | 18 |
-| 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 28 |
+| 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 54 |
 | 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 19 |
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 14 |
 | 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 11 |

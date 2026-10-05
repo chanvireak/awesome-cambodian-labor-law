@@ -8,7 +8,7 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2025-03-04
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 142642
+ftk_doc_id: 160786
 ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
 summary: "Sets procedures for resolving collective labour disputes."
@@ -21,7 +21,7 @@ summary: "Sets procedures for resolving collective labour disputes."
 - **Date:** 2025-03-04
 - **Status:** Active
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `142642` — full text available in the FTK document library.
+- **FTK document ID:** `160786` — full text available in the FTK document library.
 
 ## Notes
 

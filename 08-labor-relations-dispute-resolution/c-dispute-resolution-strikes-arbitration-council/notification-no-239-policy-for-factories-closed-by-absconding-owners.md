@@ -1,27 +1,27 @@
 ---
-title: "Arbitration Council"
-aliases: ["Prakas No. 098"]
-issue_no: "Prakas No. 098"
-type: Prakas
+title: "Policy for Factories Closed by Absconding Owners"
+aliases: ["Notification No. 239"]
+issue_no: "Notification No. 239"
+type: Notification
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
-date: 2026-04-13
+date: 2018-02-23
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160787
+ftk_doc_id: 160805
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Re-establishes the Arbitration Council and its procedures (2026)."
+summary: "Requests a policy for handling factories closed by absconding owners."
 ---
-# Arbitration Council
+# Policy for Factories Closed by Absconding Owners
 
-> **Summary.** Re-establishes the Arbitration Council and its procedures (2026).
+> **Summary.** Requests a policy for handling factories closed by absconding owners.
 
-- **Issue No.:** Prakas No. 098
-- **Date:** 2026-04-13
+- **Issue No.:** Notification No. 239
+- **Date:** 2018-02-23
 - **Status:** Active
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `160787` — full text available in the FTK document library.
+- **FTK document ID:** `160805` — full text available in the FTK document library.
 
 ## Notes
 

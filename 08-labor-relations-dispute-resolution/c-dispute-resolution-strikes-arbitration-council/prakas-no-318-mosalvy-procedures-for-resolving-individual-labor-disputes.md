@@ -8,8 +8,8 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2001-11-29
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160766
+ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
 summary: "Not yet indexed in the FTK library — listed here for completeness."
 ---
@@ -21,7 +21,7 @@ summary: "Not yet indexed in the FTK library — listed here for completeness."
 - **Date:** 2001-11-29
 - **Status:** Abrogated
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160766` — full text available in the FTK document library.
 
 ## Notes
 

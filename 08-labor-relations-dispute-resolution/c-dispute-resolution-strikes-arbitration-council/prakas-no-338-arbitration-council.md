@@ -1,27 +1,27 @@
 ---
 title: "Arbitration Council"
-aliases: ["Prakas No. 099 MOSALVY"]
-issue_no: "Prakas No. 099 MOSALVY"
+aliases: ["Prakas No. 338"]
+issue_no: "Prakas No. 338"
 type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
-date: 2004-04-21
+date: 2002-12-11
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 160768
+ftk_doc_id: 160767
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Established the Arbitration Council; revoked by Prakas No. 009 (2004)."
 ---
 # Arbitration Council
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Established the Arbitration Council; revoked by Prakas No. 009 (2004).
 
-- **Issue No.:** Prakas No. 099 MOSALVY
-- **Date:** 2004-04-21
+- **Issue No.:** Prakas No. 338
+- **Date:** 2002-12-11
 - **Status:** Abrogated
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `160768` — full text available in the FTK document library.
+- **FTK document ID:** `160767` — full text available in the FTK document library.
 
 ## Notes
 

@@ -1,27 +1,27 @@
 ---
-title: "Arbitration Council"
-aliases: ["Prakas No. 098"]
-issue_no: "Prakas No. 098"
-type: Prakas
+title: "Sale of Factory Equipment — Bino Meral (Cambodia) Ltd"
+aliases: ["Notification No. 46"]
+issue_no: "Notification No. 46"
+type: Notification
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
-date: 2026-04-13
+date: 2018-05-22
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160787
+ftk_doc_id: 160807
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Re-establishes the Arbitration Council and its procedures (2026)."
+summary: "Notifies the sale of equipment of the Bino Meral (Cambodia) factory."
 ---
-# Arbitration Council
+# Sale of Factory Equipment — Bino Meral (Cambodia) Ltd
 
-> **Summary.** Re-establishes the Arbitration Council and its procedures (2026).
+> **Summary.** Notifies the sale of equipment of the Bino Meral (Cambodia) factory.
 
-- **Issue No.:** Prakas No. 098
-- **Date:** 2026-04-13
+- **Issue No.:** Notification No. 46
+- **Date:** 2018-05-22
 - **Status:** Active
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `160787` — full text available in the FTK document library.
+- **FTK document ID:** `160807` — full text available in the FTK document library.
 
 ## Notes
 

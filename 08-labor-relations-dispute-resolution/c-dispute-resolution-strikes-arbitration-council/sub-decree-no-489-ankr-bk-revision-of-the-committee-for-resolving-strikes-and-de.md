@@ -8,8 +8,8 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2013-10-21
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160756
+ftk_indexed: true
 tags: [cambodia, labour-law, strike]
 summary: "Not yet indexed in the FTK library — listed here for completeness."
 ---
@@ -21,7 +21,7 @@ summary: "Not yet indexed in the FTK library — listed here for completeness."
 - **Date:** 2013-10-21
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160756` — full text available in the FTK document library.
 
 ## Notes
 

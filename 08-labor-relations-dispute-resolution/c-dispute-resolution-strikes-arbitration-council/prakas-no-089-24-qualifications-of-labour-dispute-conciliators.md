@@ -1,27 +1,27 @@
 ---
-title: "Procedures for Resolving Individual Labor Disputes"
-aliases: ["Prakas No. 073/25"]
-issue_no: "Prakas No. 073/25"
+title: "Qualifications of Labour Dispute Conciliators"
+aliases: ["Prakas No. 089/24"]
+issue_no: "Prakas No. 089/24"
 type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
-date: 2025-03-04
+date: 2024-04-03
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 160785
+ftk_doc_id: 160783
 ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
-summary: "Sets procedures for resolving individual labour disputes."
+summary: "Sets the qualifications required of labour-dispute conciliators."
 ---
-# Procedures for Resolving Individual Labor Disputes
+# Qualifications of Labour Dispute Conciliators
 
-> **Summary.** Sets procedures for resolving individual labour disputes.
+> **Summary.** Sets the qualifications required of labour-dispute conciliators.
 
-- **Issue No.:** Prakas No. 073/25
-- **Date:** 2025-03-04
+- **Issue No.:** Prakas No. 089/24
+- **Date:** 2024-04-03
 - **Status:** Active
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** `160785` — full text available in the FTK document library.
+- **FTK document ID:** `160783` — full text available in the FTK document library.
 
 ## Notes
 

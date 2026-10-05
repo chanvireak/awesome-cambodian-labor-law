@@ -8,7 +8,7 @@ subcategory: "A. Trade Unions & Representation"
 date: 2018-07-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 131978
+ftk_doc_id: 160779
 ftk_indexed: true
 tags: [cambodia, labour-law, trade-unions]
 summary: "Sets how a trade union is recognised as 'most representative', and the related procedures."
@@ -21,7 +21,7 @@ summary: "Sets how a trade union is recognised as 'most representative', and the
 - **Date:** 2018-07-02
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › A. Trade Unions & Representation
-- **FTK document ID:** `131978` — full text available in the FTK document library.
+- **FTK document ID:** `160779` — full text available in the FTK document library.
 
 ## Notes
 
