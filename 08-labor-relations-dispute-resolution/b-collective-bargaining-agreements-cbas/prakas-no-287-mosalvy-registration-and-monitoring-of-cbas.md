@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160763
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the procedures for registering, publicising and monitoring collective bargaining agreements."
 ---
 # Registration and Monitoring of CBAs
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the procedures for registering, publicising and monitoring collective bargaining agreements.
 
 - **Issue No.:** Prakas No. 287 MOSALVY
 - **Date:** 2001-11-05

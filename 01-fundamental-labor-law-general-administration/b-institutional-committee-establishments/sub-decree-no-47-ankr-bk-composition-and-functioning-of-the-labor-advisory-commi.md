@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160754
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Establishes the tripartite Labour Advisory Committee and sets its composition and functioning."
 ---
 # Composition and Functioning of the Labor Advisory Committee
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Establishes the tripartite Labour Advisory Committee and sets its composition and functioning.
 
 - **Issue No.:** Sub-Decree No. 47 ANKr.BK
 - **Date:** 2006-05-11

@@ -5,6 +5,7 @@ issue_no: "Notification No. 06 SKO"
 type: Notification
 category: "Special Categories of Workers & Protected Sectors"
 subcategory: "C. Sector-Specific Conditions"
+date_text: Unknown
 status: "Unknown"
 jurisdiction: Cambodia
 ftk_doc_id: 

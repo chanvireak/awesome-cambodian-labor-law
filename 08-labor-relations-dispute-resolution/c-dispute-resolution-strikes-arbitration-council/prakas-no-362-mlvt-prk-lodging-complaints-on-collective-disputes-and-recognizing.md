@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160775
 ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets how complaints on collective disputes are lodged and negotiation delegates recognised."
 ---
 # Lodging Complaints on Collective Disputes and Recognizing Negotiation Delegates
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets how complaints on collective disputes are lodged and negotiation delegates recognised.
 
 - **Issue No.:** Prakas No. 362 MLVT/PrK
 - **Date:** 2016-08-29

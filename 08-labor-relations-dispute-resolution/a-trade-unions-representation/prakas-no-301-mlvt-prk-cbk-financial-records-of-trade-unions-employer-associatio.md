@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160777
 ftk_indexed: true
 tags: [cambodia, labour-law, trade-unions]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets how trade unions and employer associations must keep their financial records."
 ---
 # Financial Records of Trade Unions/Employer Associations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets how trade unions and employer associations must keep their financial records.
 
 - **Issue No.:** Prakas No. 301 MLVT/PrK.CBK
 - **Date:** 2018-07-02

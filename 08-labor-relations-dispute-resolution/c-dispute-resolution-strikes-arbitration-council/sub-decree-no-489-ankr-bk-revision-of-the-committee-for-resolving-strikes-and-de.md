@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160756
 ftk_indexed: true
 tags: [cambodia, labour-law, strike]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Revises the committee for resolving strikes and demonstrations across all sectors."
 ---
 # Revision of the Committee for Resolving Strikes and Demonstrations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Revises the committee for resolving strikes and demonstrations across all sectors.
 
 - **Issue No.:** Sub-Decree No. 489 ANKr.BK
 - **Date:** 2013-10-21

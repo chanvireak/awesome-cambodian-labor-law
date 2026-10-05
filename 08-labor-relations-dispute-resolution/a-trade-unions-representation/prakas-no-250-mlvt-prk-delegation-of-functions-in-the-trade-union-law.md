@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160773
 ftk_indexed: true
 tags: [cambodia, labour-law, trade-unions]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Delegates functions under the Law on Trade Unions to ministry officials."
 ---
 # Delegation of Functions in the Trade Union Law
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Delegates functions under the Law on Trade Unions to ministry officials.
 
 - **Issue No.:** Prakas No. 250 MLVT/PrK
 - **Date:** 2016-06-27

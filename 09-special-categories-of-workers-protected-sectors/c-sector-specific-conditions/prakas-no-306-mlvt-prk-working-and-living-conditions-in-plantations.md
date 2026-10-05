@@ -5,6 +5,7 @@ issue_no: "Prakas No. 306 MLVT/PrK"
 type: Prakas
 category: "Special Categories of Workers & Protected Sectors"
 subcategory: "C. Sector-Specific Conditions"
+date: 2007-12-14
 status: "Unknown"
 jurisdiction: Cambodia
 ftk_doc_id: 136529
@@ -17,6 +18,7 @@ summary: "Sets working and living conditions in agricultural plantations."
 > **Summary.** Sets working and living conditions in agricultural plantations.
 
 - **Issue No.:** Prakas No. 306 MLVT/PrK
+- **Date:** 2007-12-14
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › C. Sector-Specific Conditions
 - **FTK document ID:** `136529` — full text available in the FTK document library.

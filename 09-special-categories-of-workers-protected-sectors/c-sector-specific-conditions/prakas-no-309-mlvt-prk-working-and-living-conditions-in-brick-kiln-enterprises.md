@@ -5,6 +5,7 @@ issue_no: "Prakas No. 309 MLVT/PrK"
 type: Prakas
 category: "Special Categories of Workers & Protected Sectors"
 subcategory: "C. Sector-Specific Conditions"
+date: 2007-12-14
 status: "Active"
 jurisdiction: Cambodia
 ftk_doc_id: 136616
@@ -17,6 +18,7 @@ summary: "Sets working and living conditions in brick-kiln enterprises."
 > **Summary.** Sets working and living conditions in brick-kiln enterprises.
 
 - **Issue No.:** Prakas No. 309 MLVT/PrK
+- **Date:** 2007-12-14
 - **Status:** Active
 - **Category:** Special Categories of Workers & Protected Sectors › C. Sector-Specific Conditions
 - **FTK document ID:** `136616` — full text available in the FTK document library.

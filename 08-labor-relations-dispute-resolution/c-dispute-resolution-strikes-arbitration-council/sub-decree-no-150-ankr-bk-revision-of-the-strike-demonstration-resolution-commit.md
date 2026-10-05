@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160758
 ftk_indexed: true
 tags: [cambodia, labour-law, strike]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Amends Article 2 of Sub-Decree No. 489 on the strike and demonstration resolution committee."
 ---
 # Revision of the Strike/Demonstration Resolution Committee
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Amends Article 2 of Sub-Decree No. 489 on the strike and demonstration resolution committee.
 
 - **Issue No.:** Sub-Decree No. 150 ANKr.BK
 - **Date:** 2019-10-02

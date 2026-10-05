@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160768
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Established the Arbitration Council; abrogated by Prakas No. 098/26 (2026)."
 ---
 # Arbitration Council
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Established the Arbitration Council; abrogated by Prakas No. 098/26 (2026).
 
 - **Issue No.:** Prakas No. 099 MOSALVY
 - **Date:** 2004-04-21

@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160772
 ftk_indexed: true
 tags: [cambodia, labour-law, trade-unions]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the procedures for registering trade unions and employer associations."
 ---
 # Registration of Trade Unions and Employer Associations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the procedures for registering trade unions and employer associations.
 
 - **Issue No.:** Prakas No. 249 MLVT/PrK
 - **Date:** 2016-06-27

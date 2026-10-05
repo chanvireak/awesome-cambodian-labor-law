@@ -31,11 +31,11 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 |  | Notification No. 06 SKO | [Discussions to Determine Working Conditions for Garment Factory Employees](c-sector-specific-conditions/notification-no-06-sko-discussions-to-determine-working-conditions-for-garment-f.md) | Unknown | — |
-|  | Prakas No. 235 MLVT/PrK.MH | [Working Conditions for Domestic Workers](c-sector-specific-conditions/prakas-no-235-mlvt-prk-mh-working-conditions-for-domestic-workers.md) | Active | `131203` |
-|  | Prakas No. 305 MLVT/PrK | [Marine Fishing Work](c-sector-specific-conditions/prakas-no-305-mlvt-prk-marine-fishing-work.md) | Unknown | `136463` |
-|  | Prakas No. 306 MLVT/PrK | [Working and Living Conditions in Plantations](c-sector-specific-conditions/prakas-no-306-mlvt-prk-working-and-living-conditions-in-plantations.md) | Unknown | `136529` |
-|  | Prakas No. 308 MLVT/PrK | [Working and Living Conditions in Salt Field Enterprises](c-sector-specific-conditions/prakas-no-308-mlvt-prk-working-and-living-conditions-in-salt-field-enterprises.md) | Unknown | `136597` |
-|  | Prakas No. 309 MLVT/PrK | [Working and Living Conditions in Brick Kiln Enterprises](c-sector-specific-conditions/prakas-no-309-mlvt-prk-working-and-living-conditions-in-brick-kiln-enterprises.md) | Active | `136616` |
+| 2018-05-29 | Prakas No. 235 MLVT/PrK.MH | [Working Conditions for Domestic Workers](c-sector-specific-conditions/prakas-no-235-mlvt-prk-mh-working-conditions-for-domestic-workers.md) | Active | `131203` |
+| 2005-12-14 | Prakas No. 305 MLVT/PrK | [Marine Fishing Work](c-sector-specific-conditions/prakas-no-305-mlvt-prk-marine-fishing-work.md) | Unknown | `136463` |
+| 2007-12-14 | Prakas No. 306 MLVT/PrK | [Working and Living Conditions in Plantations](c-sector-specific-conditions/prakas-no-306-mlvt-prk-working-and-living-conditions-in-plantations.md) | Unknown | `136529` |
+| 2007-12-14 | Prakas No. 308 MLVT/PrK | [Working and Living Conditions in Salt Field Enterprises](c-sector-specific-conditions/prakas-no-308-mlvt-prk-working-and-living-conditions-in-salt-field-enterprises.md) | Unknown | `136597` |
+| 2007-12-14 | Prakas No. 309 MLVT/PrK | [Working and Living Conditions in Brick Kiln Enterprises](c-sector-specific-conditions/prakas-no-309-mlvt-prk-working-and-living-conditions-in-brick-kiln-enterprises.md) | Active | `136616` |
 
 ## D. Forced Labour & Responsible Sourcing
 

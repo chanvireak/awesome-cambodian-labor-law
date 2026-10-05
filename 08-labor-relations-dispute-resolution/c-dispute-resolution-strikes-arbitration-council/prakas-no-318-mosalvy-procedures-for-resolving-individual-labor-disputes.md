@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160766
 ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Set the procedure for resolving individual labour disputes; abrogated by Prakas No. 073/25 (2025)."
 ---
 # Procedures for Resolving Individual Labor Disputes
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Set the procedure for resolving individual labour disputes; abrogated by Prakas No. 073/25 (2025).
 
 - **Issue No.:** Prakas No. 318 MOSALVY
 - **Date:** 2001-11-29

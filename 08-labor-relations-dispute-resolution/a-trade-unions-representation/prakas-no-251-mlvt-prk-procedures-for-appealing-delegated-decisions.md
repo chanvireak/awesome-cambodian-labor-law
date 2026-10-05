@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160774
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the procedure for appealing decisions made under delegated authority."
 ---
 # Procedures for Appealing Delegated Decisions
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the procedure for appealing decisions made under delegated authority.
 
 - **Issue No.:** Prakas No. 251 MLVT/PrK
 - **Date:** 2016-06-27

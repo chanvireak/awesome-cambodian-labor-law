@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160778
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the rules on staff delegates (shop stewards) in enterprises and establishments."
 ---
 # Shop Stewards in Enterprises and Establishments
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the rules on staff delegates (shop stewards) in enterprises and establishments.
 
 - **Issue No.:** Prakas No. 302 MLVT/PrK.CBK
 - **Date:** 2018-07-02

@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160776
 ftk_indexed: true
 tags: [cambodia, labour-law, trade-unions]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets procedures for trade-union contribution (dues) payments and agency-fee deductions."
 ---
 # Procedures for Trade Union Contributions and Agency Fee Deductions
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets procedures for trade-union contribution (dues) payments and agency-fee deductions.
 
 - **Issue No.:** Prakas No. 300 MLVT/PrK.CBK
 - **Date:** 2018-07-02

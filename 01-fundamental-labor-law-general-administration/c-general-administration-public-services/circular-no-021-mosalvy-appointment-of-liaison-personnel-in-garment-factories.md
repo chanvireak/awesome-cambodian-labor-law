@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160795
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires garment factories to appoint liaison officers to work with the ministry."
 ---
 # Appointment of Liaison Personnel in Garment Factories
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires garment factories to appoint liaison officers to work with the ministry.
 
 - **Issue No.:** Circular No. 021 MOSALVY
 - **Date:** 1999-09-22
