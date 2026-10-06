@@ -8,20 +8,20 @@ subcategory: "C. Health Care Scheme"
 date: 2016-07-25
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160940
+ftk_indexed: true
 tags: [cambodia, labour-law, nssf]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the agreement for use and provision of health services between the NSSF and health facilities."
 ---
 # Agreement Between NSSF and Health Facilities
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the agreement for use and provision of health services between the NSSF and health facilities.
 
 - **Issue No.:** Inter-Ministerial Prakas No. 291 MLVT/PrK
 - **Date:** 2016-07-25
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160940` — full text available in the FTK document library.
 
 ## Notes
 

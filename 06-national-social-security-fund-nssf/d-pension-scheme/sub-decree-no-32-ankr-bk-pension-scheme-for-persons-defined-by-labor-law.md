@@ -8,7 +8,7 @@ subcategory: "D. Pension Scheme"
 date: 2021-03-04
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 121530
+ftk_doc_id: 160962
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Establishes the pension scheme for persons defined by the Labour Law."
@@ -21,7 +21,7 @@ summary: "Establishes the pension scheme for persons defined by the Labour Law."
 - **Date:** 2021-03-04
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › D. Pension Scheme
-- **FTK document ID:** `121530` — full text available in the FTK document library.
+- **FTK document ID:** `160962` — full text available in the FTK document library.
 
 ## Notes
 

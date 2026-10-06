@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2023-06-20
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 121604
+ftk_doc_id: 160950
 ftk_indexed: true
 tags: [cambodia, labour-law, maternity]
 summary: "Sets sick-leave, maternity and funeral allowances under compulsory health care."
@@ -21,7 +21,7 @@ summary: "Sets sick-leave, maternity and funeral allowances under compulsory hea
 - **Date:** 2023-06-20
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `121604` — full text available in the FTK document library.
+- **FTK document ID:** `160950` — full text available in the FTK document library.
 
 ## Notes
 

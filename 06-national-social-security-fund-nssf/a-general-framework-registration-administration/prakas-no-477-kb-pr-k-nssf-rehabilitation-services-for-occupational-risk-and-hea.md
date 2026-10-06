@@ -8,20 +8,20 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2018-10-16
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160916
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the rehabilitation services available under the employment-injury and health-care schemes."
 ---
 # Rehabilitation Services for Occupational Risk and Healthcare
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the rehabilitation services available under the employment-injury and health-care schemes.
 
 - **Issue No.:** Prakas No. 477 KB/Pr.K.NSSF
 - **Date:** 2018-10-16
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160916` — full text available in the FTK document library.
 
 ## Notes
 

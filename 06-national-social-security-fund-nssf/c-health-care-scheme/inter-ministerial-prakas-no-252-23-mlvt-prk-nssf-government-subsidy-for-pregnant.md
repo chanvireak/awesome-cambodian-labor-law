@@ -8,20 +8,20 @@ subcategory: "C. Health Care Scheme"
 date: 2023-08-21
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160986
+ftk_indexed: true
 tags: [cambodia, labour-law, nssf, child-labour, maternity]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets how the government allowance for pregnant NSSF members and children under two is paid."
 ---
 # Government Subsidy for Pregnant NSSF Members and Children Under 2
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets how the government allowance for pregnant NSSF members and children under two is paid.
 
 - **Issue No.:** Inter-Ministerial Prakas No. 252/23 MLVT/PrK.NSSF
 - **Date:** 2023-08-21
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160986` — full text available in the FTK document library.
 
 ## Notes
 

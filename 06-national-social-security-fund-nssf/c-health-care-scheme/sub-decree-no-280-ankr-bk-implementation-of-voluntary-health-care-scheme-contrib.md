@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2023-08-28
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 121531
+ftk_doc_id: 160971
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets conditions and procedures for voluntary health-care-scheme contributions."
@@ -21,7 +21,7 @@ summary: "Sets conditions and procedures for voluntary health-care-scheme contri
 - **Date:** 2023-08-28
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `121531` — full text available in the FTK document library.
+- **FTK document ID:** `160971` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "B. Occupational Risk Scheme"
 date: 2008-06-16
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160909
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets out the benefits payable under the occupational risk (employment injury) scheme."
 ---
 # Occupational Risk Benefits
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets out the benefits payable under the occupational risk (employment injury) scheme.
 
 - **Issue No.:** Prakas No. 109 MLVT/PrK
 - **Date:** 2008-06-16
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › B. Occupational Risk Scheme
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160909` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2020-11-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 79836
+ftk_doc_id: 160989
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets procedures to register informal-economy workers in the NSSF for the health-equity fund."
@@ -21,7 +21,7 @@ summary: "Sets procedures to register informal-economy workers in the NSSF for t
 - **Date:** 2020-11-02
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `79836` — full text available in the FTK document library.
+- **FTK document ID:** `160989` — full text available in the FTK document library.
 
 ## Notes
 

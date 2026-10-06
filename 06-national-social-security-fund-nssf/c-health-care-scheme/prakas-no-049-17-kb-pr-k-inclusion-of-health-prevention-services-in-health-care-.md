@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2017-02-08
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 132461
+ftk_doc_id: 160941
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Adds preventive health services to the health-care social-security scheme."
@@ -21,7 +21,7 @@ summary: "Adds preventive health services to the health-care social-security sch
 - **Date:** 2017-02-08
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `132461` — full text available in the FTK document library.
+- **FTK document ID:** `160941` — full text available in the FTK document library.
 
 ## Notes
 

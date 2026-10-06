@@ -8,20 +8,20 @@ subcategory: "C. Health Care Scheme"
 date: 2016-06-21
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160939
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Determines the list of chronic diseases covered by the health-care scheme."
 ---
 # List of Chronic Diseases Under the Health Care Scheme
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Determines the list of chronic diseases covered by the health-care scheme.
 
 - **Issue No.:** Prakas No. 238 MLVT/PrK
 - **Date:** 2016-06-21
 - **Status:** Abrogated
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160939` — full text available in the FTK document library.
 
 ## Notes
 

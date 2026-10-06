@@ -8,7 +8,7 @@ subcategory: "E. Public Sector Social Security"
 date: 2018-05-08
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 79638
+ftk_doc_id: 160928
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets contribution rates and payment procedures for public-sector health care."
@@ -21,7 +21,7 @@ summary: "Sets contribution rates and payment procedures for public-sector healt
 - **Date:** 2018-05-08
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** `79638` — full text available in the FTK document library.
+- **FTK document ID:** `160928` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,7 +8,7 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2022-07-05
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 121601
+ftk_doc_id: 160919
 ftk_indexed: true
 tags: [cambodia, labour-law, nssf]
 summary: "Sets NSSF registration and contribution-payment procedures for enterprises and workers."
@@ -21,7 +21,7 @@ summary: "Sets NSSF registration and contribution-payment procedures for enterpr
 - **Date:** 2022-07-05
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** `121601` — full text available in the FTK document library.
+- **FTK document ID:** `160919` — full text available in the FTK document library.
 
 ## Notes
 

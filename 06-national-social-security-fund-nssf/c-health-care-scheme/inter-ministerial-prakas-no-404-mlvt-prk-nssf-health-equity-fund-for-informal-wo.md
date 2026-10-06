@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2017-10-11
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 130167
+ftk_doc_id: 160944
 ftk_indexed: true
 tags: [cambodia, labour-law, maternity]
 summary: "Extends health-equity-fund health care and maternity allowances to informal workers."
@@ -21,7 +21,7 @@ summary: "Extends health-equity-fund health care and maternity allowances to inf
 - **Date:** 2017-10-11
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `130167` — full text available in the FTK document library.
+- **FTK document ID:** `160944` — full text available in the FTK document library.
 
 ## Notes
 

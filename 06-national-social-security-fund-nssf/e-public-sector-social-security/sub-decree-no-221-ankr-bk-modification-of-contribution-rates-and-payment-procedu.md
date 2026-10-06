@@ -8,7 +8,7 @@ subcategory: "E. Public Sector Social Security"
 date: 2022-10-21
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 143038
+ftk_doc_id: 160930
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Amends contribution-rate articles of Sub-Decree No. 59 on public-sector health care."
@@ -21,7 +21,7 @@ summary: "Amends contribution-rate articles of Sub-Decree No. 59 on public-secto
 - **Date:** 2022-10-21
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** `143038` — full text available in the FTK document library.
+- **FTK document ID:** `160930` — full text available in the FTK document library.
 
 ## Notes
 

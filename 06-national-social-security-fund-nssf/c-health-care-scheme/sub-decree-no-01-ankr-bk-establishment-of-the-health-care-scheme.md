@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2016-01-06
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 121523
+ftk_doc_id: 160925
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Establishes the health-care social security scheme for persons under the Labour Law."
@@ -21,7 +21,7 @@ summary: "Establishes the health-care social security scheme for persons under t
 - **Date:** 2016-01-06
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `121523` — full text available in the FTK document library.
+- **FTK document ID:** `160925` — full text available in the FTK document library.
 
 ## Notes
 

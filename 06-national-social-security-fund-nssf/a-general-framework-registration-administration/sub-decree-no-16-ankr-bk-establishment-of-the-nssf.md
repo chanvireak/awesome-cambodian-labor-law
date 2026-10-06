@@ -8,7 +8,7 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2007-03-02
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 133018
+ftk_doc_id: 160821
 ftk_indexed: true
 tags: [cambodia, labour-law, nssf]
 summary: "Establishes the National Social Security Fund (NSSF)."
@@ -21,7 +21,7 @@ summary: "Establishes the National Social Security Fund (NSSF)."
 - **Date:** 2007-03-02
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** `133018` — full text available in the FTK document library.
+- **FTK document ID:** `160821` — full text available in the FTK document library.
 
 ## Notes
 

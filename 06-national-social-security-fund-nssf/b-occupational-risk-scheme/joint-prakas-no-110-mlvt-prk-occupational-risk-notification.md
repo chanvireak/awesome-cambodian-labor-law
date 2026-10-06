@@ -8,7 +8,7 @@ subcategory: "B. Occupational Risk Scheme"
 date: 2008-06-16
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 136194
+ftk_doc_id: 160910
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets the procedure for notifying occupational risks/accidents to the NSSF."
@@ -21,7 +21,7 @@ summary: "Sets the procedure for notifying occupational risks/accidents to the N
 - **Date:** 2008-06-16
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › B. Occupational Risk Scheme
-- **FTK document ID:** `136194` — full text available in the FTK document library.
+- **FTK document ID:** `160910` — full text available in the FTK document library.
 
 ## Notes
 

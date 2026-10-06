@@ -8,7 +8,7 @@ subcategory: "E. Public Sector Social Security"
 date: 2024-03-22
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 80221
+ftk_doc_id: 160906
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Expands the occupational-risk and health-care schemes to public-sector employees."
@@ -21,7 +21,7 @@ summary: "Expands the occupational-risk and health-care schemes to public-sector
 - **Date:** 2024-03-22
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** `80221` — full text available in the FTK document library.
+- **FTK document ID:** `160906` — full text available in the FTK document library.
 
 ## Notes
 

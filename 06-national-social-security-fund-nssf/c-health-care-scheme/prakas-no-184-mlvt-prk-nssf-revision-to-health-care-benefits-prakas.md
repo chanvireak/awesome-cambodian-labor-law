@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2018-04-25
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 132300
+ftk_doc_id: 160946
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Amends articles of Prakas No. 109 on health-care benefits."
@@ -21,7 +21,7 @@ summary: "Amends articles of Prakas No. 109 on health-care benefits."
 - **Date:** 2018-04-25
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `132300` — full text available in the FTK document library.
+- **FTK document ID:** `160946` — full text available in the FTK document library.
 
 ## Notes
 

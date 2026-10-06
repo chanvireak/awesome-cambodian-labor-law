@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2017-08-26
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 121526
+ftk_doc_id: 160927
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Revises Article 7 of the health-care social security scheme Sub-Decree."
@@ -21,7 +21,7 @@ summary: "Revises Article 7 of the health-care social security scheme Sub-Decree
 - **Date:** 2017-08-26
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `121526` — full text available in the FTK document library.
+- **FTK document ID:** `160927` — full text available in the FTK document library.
 
 ## Notes
 

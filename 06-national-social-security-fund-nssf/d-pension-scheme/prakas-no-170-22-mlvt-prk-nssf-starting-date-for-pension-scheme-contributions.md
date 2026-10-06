@@ -8,7 +8,7 @@ subcategory: "D. Pension Scheme"
 date: 2022-07-05
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 121603
+ftk_doc_id: 160968
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets the start date for mandatory and voluntary pension contributions."
@@ -21,7 +21,7 @@ summary: "Sets the start date for mandatory and voluntary pension contributions.
 - **Date:** 2022-07-05
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › D. Pension Scheme
-- **FTK document ID:** `121603` — full text available in the FTK document library.
+- **FTK document ID:** `160968` — full text available in the FTK document library.
 
 ## Notes
 

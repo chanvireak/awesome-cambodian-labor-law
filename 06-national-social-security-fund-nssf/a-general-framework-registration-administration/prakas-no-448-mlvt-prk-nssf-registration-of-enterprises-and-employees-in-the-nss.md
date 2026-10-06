@@ -8,7 +8,7 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2017-11-10
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 79603
+ftk_doc_id: 160846
 ftk_indexed: true
 tags: [cambodia, labour-law, nssf]
 summary: "Sets registration of enterprises, establishments and workers in the NSSF."
@@ -21,7 +21,7 @@ summary: "Sets registration of enterprises, establishments and workers in the NS
 - **Date:** 2017-11-10
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** `79603` — full text available in the FTK document library.
+- **FTK document ID:** `160846` — full text available in the FTK document library.
 
 ## Notes
 

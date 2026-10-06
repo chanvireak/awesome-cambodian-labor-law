@@ -8,7 +8,7 @@ subcategory: "D. Pension Scheme"
 date: 2022-06-28
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 80057
+ftk_doc_id: 160965
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Implements the pension scheme (contribution rates and benefits)."
@@ -21,7 +21,7 @@ summary: "Implements the pension scheme (contribution rates and benefits)."
 - **Date:** 2022-06-28
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › D. Pension Scheme
-- **FTK document ID:** `80057` — full text available in the FTK document library.
+- **FTK document ID:** `160965` — full text available in the FTK document library.
 
 ## Notes
 

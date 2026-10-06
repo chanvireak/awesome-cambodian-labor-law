@@ -8,7 +8,7 @@ subcategory: "E. Public Sector Social Security"
 date: 2023-11-13
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 80183
+ftk_doc_id: 160973
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets voluntary health-care contributions for dependents of public officials and NSSF members."
@@ -21,7 +21,7 @@ summary: "Sets voluntary health-care contributions for dependents of public offi
 - **Date:** 2023-11-13
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** `80183` — full text available in the FTK document library.
+- **FTK document ID:** `160973` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "E. Public Sector Social Security"
 date: 2024-05-10
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160932
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Extends the validity of the contribution rates set by Sub-Decree No. 221 (2022)."
 ---
 # Continued Validity of Contribution Rates under Sub-Decree No. 221
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Extends the validity of the contribution rates set by Sub-Decree No. 221 (2022).
 
 - **Issue No.:** Sub-Decree No. 108 ANKr.BK
 - **Date:** 2024-05-10
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160932` — full text available in the FTK document library.
 
 ## Notes
 

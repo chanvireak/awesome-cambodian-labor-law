@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2023-11-13
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 80186
+ftk_doc_id: 160972
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets voluntary health-care contributions for self-employed persons and their dependents."
@@ -21,7 +21,7 @@ summary: "Sets voluntary health-care contributions for self-employed persons and
 - **Date:** 2023-11-13
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `80186` — full text available in the FTK document library.
+- **FTK document ID:** `160972` — full text available in the FTK document library.
 
 ## Notes
 

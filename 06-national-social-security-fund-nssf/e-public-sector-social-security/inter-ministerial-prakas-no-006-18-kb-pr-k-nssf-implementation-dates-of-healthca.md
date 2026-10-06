@@ -8,7 +8,7 @@ subcategory: "E. Public Sector Social Security"
 date: 2018-01-02
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 79612
+ftk_doc_id: 160945
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets the implementation dates of health care for public officials."
@@ -21,7 +21,7 @@ summary: "Sets the implementation dates of health care for public officials."
 - **Date:** 2018-01-02
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** `79612` — full text available in the FTK document library.
+- **FTK document ID:** `160945` — full text available in the FTK document library.
 
 ## Notes
 

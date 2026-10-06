@@ -23,7 +23,7 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**285 regulations · 167 indexed in FTK (59%) · snapshot 2026-10-05**
+**414 regulations · 305 indexed in FTK (74%) · snapshot 2026-10-06**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
@@ -32,7 +32,7 @@ This is the trust signal: the summary you read here was derived from the documen
 | 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 22 |
 | 4 | [Working Hours, Leave & Holidays](04-working-hours-leave-holidays/README.md) | 3 | 22 |
 | 5 | [Occupational Safety and Health (OSH)](05-occupational-safety-and-health-osh/README.md) | 3 | 37 |
-| 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 5 | 43 |
+| 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 7 | 172 |
 | 7 | [Foreign Workforce Management](07-foreign-workforce-management/README.md) | 3 | 18 |
 | 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 54 |
 | 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 19 |

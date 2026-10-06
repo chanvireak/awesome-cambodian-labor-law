@@ -8,7 +8,7 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2021-08-19
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 121529
+ftk_doc_id: 160905
 ftk_indexed: true
 tags: [cambodia, labour-law, wages]
 summary: "Defines the contribution-subject wage/salary used for social-security contributions."
@@ -21,7 +21,7 @@ summary: "Defines the contribution-subject wage/salary used for social-security 
 - **Date:** 2021-08-19
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** `121529` — full text available in the FTK document library.
+- **FTK document ID:** `160905` — full text available in the FTK document library.
 
 ## Notes
 

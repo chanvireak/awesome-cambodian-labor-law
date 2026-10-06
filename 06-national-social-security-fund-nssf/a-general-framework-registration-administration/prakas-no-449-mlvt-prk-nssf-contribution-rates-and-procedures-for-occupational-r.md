@@ -8,7 +8,7 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2017-11-10
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 132381
+ftk_doc_id: 160915
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets NSSF contribution rates and payment procedures for the occupational-risk and health-care schemes."
@@ -21,7 +21,7 @@ summary: "Sets NSSF contribution rates and payment procedures for the occupation
 - **Date:** 2017-11-10
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** `132381` — full text available in the FTK document library.
+- **FTK document ID:** `160915` — full text available in the FTK document library.
 
 ## Notes
 

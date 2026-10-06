@@ -8,20 +8,20 @@ subcategory: "B. Occupational Risk Scheme"
 date: 2018-10-18
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160917
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Amends Articles 2, 11 and 13 of Prakas No. 109 on occupational risk benefits."
 ---
 # Revision to Occupational Risk Benefits Prakas
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Amends Articles 2, 11 and 13 of Prakas No. 109 on occupational risk benefits.
 
 - **Issue No.:** Prakas No. 480 MLVT/PrK.NSSF
 - **Date:** 2018-10-18
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › B. Occupational Risk Scheme
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160917` — full text available in the FTK document library.
 
 ## Notes
 

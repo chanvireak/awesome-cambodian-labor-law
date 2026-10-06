@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2024-11-05
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 87345
+ftk_doc_id: 160951
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets medical/rehabilitation services, health prevention and the chronic-disease list under compulsory health care."
@@ -21,7 +21,7 @@ summary: "Sets medical/rehabilitation services, health prevention and the chroni
 - **Date:** 2024-11-05
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `87345` — full text available in the FTK document library.
+- **FTK document ID:** `160951` — full text available in the FTK document library.
 
 ## Notes
 

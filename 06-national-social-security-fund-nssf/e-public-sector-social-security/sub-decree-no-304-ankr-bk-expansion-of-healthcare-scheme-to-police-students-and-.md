@@ -8,20 +8,20 @@ subcategory: "E. Public Sector Social Security"
 date: 2024-12-27
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 160933
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Extends health-care social security coverage to students in vocational training."
 ---
 # Expansion of Healthcare Scheme to Police Students and Trainees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Extends health-care social security coverage to students in vocational training.
 
 - **Issue No.:** Sub-Decree No. 304 ANKr.BK
 - **Date:** 2024-12-27
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › E. Public Sector Social Security
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `160933` — full text available in the FTK document library.
 
 ## Notes
 

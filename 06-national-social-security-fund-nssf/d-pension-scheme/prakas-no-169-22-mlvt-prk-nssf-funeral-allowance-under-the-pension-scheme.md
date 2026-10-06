@@ -8,7 +8,7 @@ subcategory: "D. Pension Scheme"
 date: 2022-07-05
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 80064
+ftk_doc_id: 160967
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Sets the funeral allowance under the pension scheme."
@@ -21,7 +21,7 @@ summary: "Sets the funeral allowance under the pension scheme."
 - **Date:** 2022-07-05
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › D. Pension Scheme
-- **FTK document ID:** `80064` — full text available in the FTK document library.
+- **FTK document ID:** `160967` — full text available in the FTK document library.
 
 ## Notes
 

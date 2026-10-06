@@ -8,7 +8,7 @@ subcategory: "C. Health Care Scheme"
 date: 2025-07-04
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 142641
+ftk_doc_id: 160987
 ftk_indexed: true
 tags: [cambodia, labour-law, maternity]
 summary: "Expands the government benefit programme for pregnant women and children under 2 to police and prison officers."
@@ -21,7 +21,7 @@ summary: "Expands the government benefit programme for pregnant women and childr
 - **Date:** 2025-07-04
 - **Status:** Active
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
-- **FTK document ID:** `142641` — full text available in the FTK document library.
+- **FTK document ID:** `160987` — full text available in the FTK document library.
 
 ## Notes
 
