@@ -35,7 +35,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2007-12-14 | Prakas No. 308 MLVT/PrK | [Working and Living Conditions in Salt Field Enterprises](c-sector-specific-conditions/prakas-no-308-mlvt-prk-working-and-living-conditions-in-salt-field-enterprises.md) | Unknown | `136597` |
 | 2007-12-14 | Prakas No. 309 MLVT/PrK | [Working and Living Conditions in Brick Kiln Enterprises](c-sector-specific-conditions/prakas-no-309-mlvt-prk-working-and-living-conditions-in-brick-kiln-enterprises.md) | Active | `136616` |
 | 2018-05-29 | Prakas No. 235 MLVT/PrK.MH | [Working Conditions for Domestic Workers](c-sector-specific-conditions/prakas-no-235-mlvt-prk-mh-working-conditions-for-domestic-workers.md) | Active | `131203` |
-|  | Notification No. 06 SKO | [Discussions to Determine Working Conditions for Garment Factory Employees](c-sector-specific-conditions/notification-no-06-sko-discussions-to-determine-working-conditions-for-garment-f.md) | Unknown | — |
+| Unknown | Notification No. 06 SKO | [Discussions to Determine Working Conditions for Garment Factory Employees](c-sector-specific-conditions/notification-no-06-sko-discussions-to-determine-working-conditions-for-garment-f.md) | Unknown | — |
 
 ## D. Forced Labour & Responsible Sourcing
 
