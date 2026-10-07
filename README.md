@@ -23,11 +23,11 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**414 regulations · 305 indexed in FTK (74%) · snapshot 2026-10-06**
+**558 regulations · 449 indexed in FTK (80%) · snapshot 2026-10-07**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
-| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 26 |
+| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 25 |
 | 2 | [Employment Contracts, Hiring & Staff Administration](02-employment-contracts-hiring-staff-administration/README.md) | 3 | 19 |
 | 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 22 |
 | 4 | [Working Hours, Leave & Holidays](04-working-hours-leave-holidays/README.md) | 3 | 22 |
@@ -38,6 +38,7 @@ This is the trust signal: the summary you read here was derived from the documen
 | 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 19 |
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 14 |
 | 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 11 |
+| 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 145 |
 
 Each category folder has its own `README.md` index, and each sub-category folder holds one Markdown note per regulation.
 

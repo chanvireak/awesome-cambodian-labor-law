@@ -3,12 +3,12 @@ title: "Revision of the National Training Board"
 aliases: ["Sub-Decree No. 51 ANKr.BK"]
 issue_no: "Sub-Decree No. 51 ANKr.BK"
 type: Sub-Decree
-category: "Fundamental Labor Law & General Administration"
-subcategory: "B. Institutional & Committee Establishments"
+category: "Education & Vocational Training"
+subcategory: "F. Amendments to TVET Instruments"
 date: 2017-04-20
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 121524
+ftk_doc_id: 161042
 ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Revises the composition and functioning of the National Training Board."
@@ -20,8 +20,8 @@ summary: "Revises the composition and functioning of the National Training Board
 - **Issue No.:** Sub-Decree No. 51 ANKr.BK
 - **Date:** 2017-04-20
 - **Status:** Unknown
-- **Category:** Fundamental Labor Law & General Administration › B. Institutional & Committee Establishments
-- **FTK document ID:** `121524` — full text available in the FTK document library.
+- **Category:** Education & Vocational Training › F. Amendments to TVET Instruments
+- **FTK document ID:** `161042` — full text available in the FTK document library.
 
 ## Notes
 
