@@ -8,20 +8,20 @@ subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 2012-07-25
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161226
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns provision of various benefits to workers in the textile, garment and footwear sectors."
 ---
 # Providing Various Benefits to Textile/Garment/Footwear Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns provision of various benefits to workers in the textile, garment and footwear sectors.
 
 - **Issue No.:** Notification No. 230 MLVT/SJN
 - **Date:** 2012-07-25
 - **Status:** Unknown
 - **Category:** Remuneration, Seniority & Financial Benefits › C. Specific Allowances & Wage Payment Procedures
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161226` — full text available in the FTK document library.
 
 ## Notes
 

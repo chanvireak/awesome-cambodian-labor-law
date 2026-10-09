@@ -8,20 +8,20 @@ subcategory: "B. Women & Persons with Disabilities"
 date: 2017-09-27
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161227
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires factories and enterprises to allow Khmer-Islamic female workers to wear traditional Islamic attire at work."
 ---
 # Permitting Islamic Attire for Female Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires factories and enterprises to allow Khmer-Islamic female workers to wear traditional Islamic attire at work.
 
 - **Issue No.:** Notification No. 293 MLVT/SJN.KhL
 - **Date:** 2017-09-27
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › B. Women & Persons with Disabilities
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161227` — full text available in the FTK document library.
 
 ## Notes
 

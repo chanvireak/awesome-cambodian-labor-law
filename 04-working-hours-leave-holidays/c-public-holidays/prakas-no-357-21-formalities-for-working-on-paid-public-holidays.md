@@ -8,20 +8,20 @@ subcategory: "C. Public Holidays"
 date: 2021-12-30
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161185
+ftk_indexed: true
 tags: [cambodia, labour-law, public-holidays]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets formalities and procedures for working on paid public holidays; repealed in 2025 by Prakas No. 112/25."
 ---
 # Formalities for Working on Paid Public Holidays
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets formalities and procedures for working on paid public holidays; repealed in 2025 by Prakas No. 112/25.
 
 - **Issue No.:** Prakas No. 357/21
 - **Date:** 2021-12-30
 - **Status:** Abrogated
 - **Category:** Working Hours, Leave & Holidays › C. Public Holidays
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161185` — full text available in the FTK document library.
 
 ## Notes
 

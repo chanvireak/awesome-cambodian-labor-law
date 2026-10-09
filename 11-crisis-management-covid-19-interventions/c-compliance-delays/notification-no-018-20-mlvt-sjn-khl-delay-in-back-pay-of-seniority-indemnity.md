@@ -8,20 +8,20 @@ subcategory: "C. Compliance Delays"
 date: 2020-06-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161231
+ftk_indexed: true
 tags: [cambodia, labour-law, seniority-indemnity]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns postponement of back payment of pre-2019 seniority indemnity and the new 2020 seniority indemnity."
 ---
 # Delay in Back Pay of Seniority Indemnity
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns postponement of back payment of pre-2019 seniority indemnity and the new 2020 seniority indemnity.
 
 - **Issue No.:** Notification No. 018/20 MLVT/SJN.KhL
 - **Date:** 2020-06-02
 - **Status:** Unknown
 - **Category:** Crisis Management & COVID-19 Interventions › C. Compliance Delays
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161231` — full text available in the FTK document library.
 
 ## Notes
 

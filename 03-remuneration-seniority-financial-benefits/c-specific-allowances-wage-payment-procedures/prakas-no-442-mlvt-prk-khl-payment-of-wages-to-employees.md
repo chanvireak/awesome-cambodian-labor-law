@@ -8,20 +8,20 @@ subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 2018-09-21
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161175
+ftk_indexed: true
 tags: [cambodia, labour-law, wages]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns the payment of wages to workers and employees."
 ---
 # Payment of Wages to Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns the payment of wages to workers and employees.
 
 - **Issue No.:** Prakas No. 442 MLVT/PrK.KhL
 - **Date:** 2018-09-21
 - **Status:** Unknown
 - **Category:** Remuneration, Seniority & Financial Benefits › C. Specific Allowances & Wage Payment Procedures
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161175` — full text available in the FTK document library.
 
 ## Notes
 

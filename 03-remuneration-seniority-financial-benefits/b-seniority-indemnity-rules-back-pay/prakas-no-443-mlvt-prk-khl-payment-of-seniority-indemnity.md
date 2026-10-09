@@ -8,20 +8,20 @@ subcategory: "B. Seniority Indemnity (Rules & Back Pay)"
 date: 2018-09-21
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161176
+ftk_indexed: true
 tags: [cambodia, labour-law, seniority-indemnity]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns the payment of seniority indemnity to workers and employees."
 ---
 # Payment of Seniority Indemnity
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns the payment of seniority indemnity to workers and employees.
 
 - **Issue No.:** Prakas No. 443 MLVT/PrK.KhL
 - **Date:** 2018-09-21
 - **Status:** Active
 - **Category:** Remuneration, Seniority & Financial Benefits › B. Seniority Indemnity (Rules & Back Pay)
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161176` — full text available in the FTK document library.
 
 ## Notes
 

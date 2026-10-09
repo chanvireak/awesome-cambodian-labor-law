@@ -8,20 +8,20 @@ subcategory: "B. Contracts, Seniority Rules & Internal Regulations"
 date: 2025-04-28
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161197
+ftk_indexed: true
 tags: [cambodia, labour-law, employment-contracts]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Governs the management of labor contractors (ការិយភារី)."
 ---
 # Management of Labor Contractors
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Governs the management of labor contractors (ការិយភារី).
 
 - **Issue No.:** Prakas No. 103/25
 - **Date:** 2025-04-28
 - **Status:** Active
 - **Category:** Employment Contracts, Hiring & Staff Administration › B. Contracts, Seniority Rules & Internal Regulations
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161197` — full text available in the FTK document library.
 
 ## Notes
 

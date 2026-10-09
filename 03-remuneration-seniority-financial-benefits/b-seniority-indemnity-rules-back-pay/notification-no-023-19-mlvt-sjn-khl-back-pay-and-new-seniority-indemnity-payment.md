@@ -8,20 +8,20 @@ subcategory: "B. Seniority Indemnity (Rules & Back Pay)"
 date: 2019-07-08
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161229
+ftk_indexed: true
 tags: [cambodia, labour-law, seniority-indemnity]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns back payment of pre-2019 seniority indemnity and new seniority indemnity from 2019 for textile, garment and footwear enterprises."
 ---
 # Back Pay and New Seniority Indemnity Payments (Garment Sector)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns back payment of pre-2019 seniority indemnity and new seniority indemnity from 2019 for textile, garment and footwear enterprises.
 
 - **Issue No.:** Notification No. 023/19 MLVT/SJN.KhL
 - **Date:** 2019-07-08
 - **Status:** Unknown
 - **Category:** Remuneration, Seniority & Financial Benefits › B. Seniority Indemnity (Rules & Back Pay)
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161229` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 2019-04-05
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161208
+ftk_indexed: true
 tags: [cambodia, labour-law, seniority-indemnity, wages]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Applies Prakas No. 442 and 443 to staff of foreign missions, UN agencies and international organizations in Cambodia."
 ---
 # Application of Wage/Seniority for Diplomatic & UN Staff
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Applies Prakas No. 442 and 443 to staff of foreign missions, UN agencies and international organizations in Cambodia.
 
 - **Issue No.:** Instruction No. 044/19 MLVT/SNN.KhL
 - **Date:** 2019-04-05
 - **Status:** Unknown
 - **Category:** Remuneration, Seniority & Financial Benefits › C. Specific Allowances & Wage Payment Procedures
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161208` — full text available in the FTK document library.
 
 ## Notes
 

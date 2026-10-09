@@ -8,20 +8,20 @@ subcategory: "A. Company Declarations, Books & Record Keeping"
 date: 2001-11-05
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161156
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires enterprises and establishments to declare notification of their opening and closing; repealed in 2025."
 ---
 # Declaration of Opening and Closing of Enterprises
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires enterprises and establishments to declare notification of their opening and closing; repealed in 2025.
 
 - **Issue No.:** Prakas No. 288 MOSALVY
 - **Date:** 2001-11-05
 - **Status:** Abrogated
 - **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161156` — full text available in the FTK document library.
 
 ## Notes
 

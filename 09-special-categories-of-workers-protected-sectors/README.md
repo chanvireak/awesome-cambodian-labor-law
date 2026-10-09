@@ -22,8 +22,9 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | :---- | :---- | :---- | :---- | :---- |
 | 2009-07-03 | Royal Kram No. NS/RKM/0709/010 | [Law on the Rights of Persons with Disabilities](b-women-persons-with-disabilities/royal-kram-no-ns-rkm-0709-010-law-on-the-rights-of-persons-with-disabilities.md) | Unknown | — |
 | 2010-08-30 | Sub-Decree No. 108 ANKr.BK | [Quota and Formalities for Recruiting Persons with Disabilities](b-women-persons-with-disabilities/sub-decree-no-108-ankr-bk-quota-and-formalities-for-recruiting-persons-with-disa.md) | Unknown | — |
-| 2017-09-27 | Notification No. 293 MLVT/SJN.KhL | [Permitting Islamic Attire for Female Employees](b-women-persons-with-disabilities/notification-no-293-mlvt-sjn-khl-permitting-islamic-attire-for-female-employees.md) | Unknown | — |
-| 2017-09-27 | Notification No. 294 MLVT/SJN.KhL | [Permitting Early Leave for Pregnant Employees](b-women-persons-with-disabilities/notification-no-294-mlvt-sjn-khl-permitting-early-leave-for-pregnant-employees.md) | Unknown | — |
+| 2017-09-27 | Notification No. 293 MLVT/SJN.KhL | [Permitting Islamic Attire for Female Employees](b-women-persons-with-disabilities/notification-no-293-mlvt-sjn-khl-permitting-islamic-attire-for-female-employees.md) | Unknown | `161227` |
+| 2017-09-27 | Notification No. 294 MLVT/SJN.KhL | [Permitting Early Leave for Pregnant Employees](b-women-persons-with-disabilities/notification-no-294-mlvt-sjn-khl-permitting-early-leave-for-pregnant-employees.md) | Unknown | `161228` |
+| 2025-02-07 | Instruction No. 015/25 | [Special Protection for Pregnant Female Workers](b-women-persons-with-disabilities/instruction-no-015-25-special-protection-for-pregnant-female-workers.md) | Active | `161215` |
 | 2025-02-13 | Guideline No. 15/25 MLVT/SNN.KhL | [Special Protection for Pregnant Workers and Employees](b-women-persons-with-disabilities/guideline-no-15-25-mlvt-snn-khl-special-protection-for-pregnant-workers-and-empl.md) | Active | `143006` |
 
 ## C. Sector-Specific Conditions

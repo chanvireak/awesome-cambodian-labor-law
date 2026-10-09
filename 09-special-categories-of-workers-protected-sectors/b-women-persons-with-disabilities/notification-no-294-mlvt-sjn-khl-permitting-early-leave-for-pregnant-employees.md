@@ -8,20 +8,20 @@ subcategory: "B. Women & Persons with Disabilities"
 date: 2017-09-27
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161228
+ftk_indexed: true
 tags: [cambodia, labour-law, maternity]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires all workplaces to let pregnant female workers leave at least 15 minutes before their working hours end."
 ---
 # Permitting Early Leave for Pregnant Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires all workplaces to let pregnant female workers leave at least 15 minutes before their working hours end.
 
 - **Issue No.:** Notification No. 294 MLVT/SJN.KhL
 - **Date:** 2017-09-27
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › B. Women & Persons with Disabilities
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161228` — full text available in the FTK document library.
 
 ## Notes
 

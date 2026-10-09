@@ -8,20 +8,20 @@ subcategory: "C. Fines & Penalties"
 date: 2023-07-31
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161190
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Establishes penalties for individuals violating provisions of the Labor Law."
 ---
 # Penalties for Labor Law Violations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Establishes penalties for individuals violating provisions of the Labor Law.
 
 - **Issue No.:** Inter-Ministerial Prakas No. 498 MEF.PrK.ATC
 - **Date:** 2023-07-31
 - **Status:** Active
 - **Category:** Compliance, Labor Inspections & Penalties › C. Fines & Penalties
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161190` — full text available in the FTK document library.
 
 ## Notes
 

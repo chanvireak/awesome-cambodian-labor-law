@@ -8,20 +8,20 @@ subcategory: "A. Company Declarations, Books & Record Keeping"
 date: 2001-10-11
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161155
+ftk_indexed: true
 tags: [cambodia, labour-law, payroll]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Establishes the payroll ledger (wage book) requirement for enterprises; repealed in 2025 by Prakas No. 111/25."
 ---
 # Establishment of the Payroll Ledger
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Establishes the payroll ledger (wage book) requirement for enterprises; repealed in 2025 by Prakas No. 111/25.
 
 - **Issue No.:** Prakas No. 269 MOSALVY
 - **Date:** 2001-10-11
 - **Status:** Abrogated
 - **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161155` — full text available in the FTK document library.
 
 ## Notes
 

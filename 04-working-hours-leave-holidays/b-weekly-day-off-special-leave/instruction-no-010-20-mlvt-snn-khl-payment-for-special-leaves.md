@@ -8,20 +8,20 @@ subcategory: "B. Weekly Day Off & Special Leave"
 date: 2020-02-21
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161212
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns implementation of payment for special leave."
 ---
 # Payment for Special Leaves
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns implementation of payment for special leave.
 
 - **Issue No.:** Instruction No. 010/20 MLVT/SNN.KhL
 - **Date:** 2020-02-21
 - **Status:** Unknown
 - **Category:** Working Hours, Leave & Holidays › B. Weekly Day Off & Special Leave
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161212` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "B. Contracts, Seniority Rules & Internal Regulations"
 date: 2002-08-16
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161221
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Concerns preparation of internal regulations (បទបញ្ជាផ្ទៃក្នុង) for enterprises and establishments."
 ---
 # Preparation of Internal Regulations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Concerns preparation of internal regulations (បទបញ្ជាផ្ទៃក្នុង) for enterprises and establishments.
 
 - **Issue No.:** Notification No. 14 MOSALVY
 - **Date:** 2002-08-16
 - **Status:** Unknown
 - **Category:** Employment Contracts, Hiring & Staff Administration › B. Contracts, Seniority Rules & Internal Regulations
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161221` — full text available in the FTK document library.
 
 ## Notes
 

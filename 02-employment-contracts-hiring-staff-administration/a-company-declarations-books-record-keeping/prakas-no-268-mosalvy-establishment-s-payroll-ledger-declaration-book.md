@@ -8,20 +8,20 @@ subcategory: "A. Company Declarations, Books & Record Keeping"
 date: 2001-10-11
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161154
+ftk_indexed: true
 tags: [cambodia, labour-law, payroll]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires establishments to keep a payroll ledger and declaration book recording the wages paid to employees."
 ---
 # Establishment's Payroll Ledger/Declaration Book
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires establishments to keep a payroll ledger and declaration book recording the wages paid to employees.
 
 - **Issue No.:** Prakas No. 268 MOSALVY
 - **Date:** 2001-10-11
 - **Status:** Abrogated
 - **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161154` — full text available in the FTK document library.
 
 ## Notes
 

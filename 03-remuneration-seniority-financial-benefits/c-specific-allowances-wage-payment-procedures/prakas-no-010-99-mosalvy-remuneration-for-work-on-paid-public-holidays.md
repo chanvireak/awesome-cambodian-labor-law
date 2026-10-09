@@ -8,20 +8,20 @@ subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 1999-02-04
 status: "Abrogated"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161150
+ftk_indexed: true
 tags: [cambodia, labour-law, public-holidays]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets remuneration rules for work performed on paid public holidays; repealed in 2025 by Prakas No. 112/25."
 ---
 # Remuneration for Work on Paid Public Holidays
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets remuneration rules for work performed on paid public holidays; repealed in 2025 by Prakas No. 112/25.
 
 - **Issue No.:** Prakas No. 010/99 MOSALVY
 - **Date:** 1999-02-04
 - **Status:** Abrogated
 - **Category:** Remuneration, Seniority & Financial Benefits › C. Specific Allowances & Wage Payment Procedures
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161150` — full text available in the FTK document library.
 
 ## Notes
 

@@ -22,10 +22,10 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2022-01-18 | Notification | [Termination of Subsidy Payments (Textile/Garment/Footwear/Travel Goods Sectors)](b-contract-suspensions-state-subsidies/notification-termination-of-subsidy-payments-textile-garment-footwear-travel-goo.md) | Unknown | — |
 | 2022-06-14 | Notification | [Termination of Subsidy Payments (Tourism Sector)](b-contract-suspensions-state-subsidies/notification-termination-of-subsidy-payments-tourism-sector.md) | Unknown | — |
 | 2023-02-22 | Notification | [Disbursal of Subsidies to Tourism Employees (Final Round)](b-contract-suspensions-state-subsidies/notification-disbursal-of-subsidies-to-tourism-employees-final-round.md) | Unknown | — |
-| 2023-03-15 | Instruction No. 020/23 MLVT/SJN.KhL | [Suspension of Employment Contracts Due to Global Economic Crisis](b-contract-suspensions-state-subsidies/instruction-no-020-23-mlvt-sjn-khl-suspension-of-employment-contracts-due-to-glo.md) | Active | — |
+| 2023-03-15 | Instruction No. 020/23 MLVT/SJN.KhL | [Suspension of Employment Contracts Due to Global Economic Crisis](b-contract-suspensions-state-subsidies/instruction-no-020-23-mlvt-sjn-khl-suspension-of-employment-contracts-due-to-glo.md) | Active | `161214` |
 
 ## C. Compliance Delays
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 2020-06-02 | Notification No. 018/20 MLVT/SJN.KhL | [Delay in Back Pay of Seniority Indemnity](c-compliance-delays/notification-no-018-20-mlvt-sjn-khl-delay-in-back-pay-of-seniority-indemnity.md) | Unknown | — |
+| 2020-06-02 | Notification No. 018/20 MLVT/SJN.KhL | [Delay in Back Pay of Seniority Indemnity](c-compliance-delays/notification-no-018-20-mlvt-sjn-khl-delay-in-back-pay-of-seniority-indemnity.md) | Unknown | `161231` |
