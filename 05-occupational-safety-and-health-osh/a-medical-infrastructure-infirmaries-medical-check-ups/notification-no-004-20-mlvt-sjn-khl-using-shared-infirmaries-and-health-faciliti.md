@@ -8,20 +8,20 @@ subcategory: "A. Medical Infrastructure, Infirmaries & Medical Check-Ups"
 date: 2020-02-21
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161285
+ftk_indexed: true
 tags: [cambodia, labour-law, osh]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Permits use of shared infirmaries and alternative health facilities instead of enterprise-run infirmaries."
 ---
 # Using Shared Infirmaries and Health Facilities
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Permits use of shared infirmaries and alternative health facilities instead of enterprise-run infirmaries.
 
 - **Issue No.:** Notification No. 004/20 MLVT/SJN.KhL
 - **Date:** 2020-02-21
 - **Status:** Active
 - **Category:** Occupational Safety and Health (OSH) › A. Medical Infrastructure, Infirmaries & Medical Check-Ups
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161285` — full text available in the FTK document library.
 
 ## Notes
 

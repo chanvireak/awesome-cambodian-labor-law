@@ -8,20 +8,20 @@ subcategory: "C. Sector-Specific OSH Protocols"
 date: 2011-03-30
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161260
+ftk_indexed: true
 tags: [cambodia, labour-law, construction]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires proper material storage, waste disposal and cleanliness at construction sites."
 ---
 # Material Storage, Waste Disposal, Cleanliness of Construction Sites
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires proper material storage, waste disposal and cleanliness at construction sites.
 
 - **Issue No.:** Prakas No. 078/11 MLVT/PrK
 - **Date:** 2011-03-30
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › C. Sector-Specific OSH Protocols
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161260` — full text available in the FTK document library.
 
 ## Notes
 

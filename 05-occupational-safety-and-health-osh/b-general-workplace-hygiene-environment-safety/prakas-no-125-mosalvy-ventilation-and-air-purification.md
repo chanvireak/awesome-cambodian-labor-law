@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2001-06-15
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161246
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Obliges employers to ensure ventilation and clean air in the workplace."
 ---
 # Ventilation and Air Purification
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Obliges employers to ensure ventilation and clean air in the workplace.
 
 - **Issue No.:** Prakas No. 125 MOSALVY
 - **Date:** 2001-06-15
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161246` — full text available in the FTK document library.
 
 ## Notes
 

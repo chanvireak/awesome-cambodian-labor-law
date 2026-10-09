@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2000-02-10
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161243
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires provision of sanitary drinking water to workers at the workplace."
 ---
 # Provision of Sanitary Beverages
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires provision of sanitary drinking water to workers at the workplace.
 
 - **Issue No.:** Prakas No. 054 MOSALVY
 - **Date:** 2000-02-10
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161243` — full text available in the FTK document library.
 
 ## Notes
 

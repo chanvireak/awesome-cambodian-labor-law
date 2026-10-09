@@ -1,27 +1,27 @@
 ---
-title: "OSH Conditions in Garment and Footwear Factories"
-aliases: ["Prakas No. 307 MLVT/PrK"]
-issue_no: "Prakas No. 307 MLVT/PrK"
+title: "Occupational Safety and Health in Sea Fishing Work"
+aliases: ["Prakas No. 305"]
+issue_no: "Prakas No. 305"
 type: Prakas
 category: "Occupational Safety and Health (OSH)"
 subcategory: "C. Sector-Specific OSH Protocols"
 date: 2007-12-14
-status: "Unknown"
+status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 161254
+ftk_doc_id: 161252
 ftk_indexed: true
 tags: [cambodia, labour-law, osh]
-summary: "Sets hygiene and occupational safety conditions for garment and footwear factories."
+summary: "Sets occupational safety and health requirements for sea fishing work."
 ---
-# OSH Conditions in Garment and Footwear Factories
+# Occupational Safety and Health in Sea Fishing Work
 
-> **Summary.** Sets hygiene and occupational safety conditions for garment and footwear factories.
+> **Summary.** Sets occupational safety and health requirements for sea fishing work.
 
-- **Issue No.:** Prakas No. 307 MLVT/PrK
+- **Issue No.:** Prakas No. 305
 - **Date:** 2007-12-14
-- **Status:** Unknown
+- **Status:** Active
 - **Category:** Occupational Safety and Health (OSH) › C. Sector-Specific OSH Protocols
-- **FTK document ID:** `161254` — full text available in the FTK document library.
+- **FTK document ID:** `161252` — full text available in the FTK document library.
 
 ## Notes
 

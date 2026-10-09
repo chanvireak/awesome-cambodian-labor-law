@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2004-02-10
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161283
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Provides no stated subject; the source is a re-typed heading with no subject stated."
 ---
 # Incidents of Workers Dizziness and Fainting
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Provides no stated subject; the source is a re-typed heading with no subject stated.
 
 - **Issue No.:** Notification No. 003 MOSALVY
 - **Date:** 2004-02-10
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161283` — full text available in the FTK document library.
 
 ## Notes
 

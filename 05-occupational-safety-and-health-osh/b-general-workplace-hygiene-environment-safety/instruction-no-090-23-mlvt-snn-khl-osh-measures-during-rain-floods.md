@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2023-10-17
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161275
+ftk_indexed: true
 tags: [cambodia, labour-law, osh]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets out occupational safety and health measures for workers during flooding."
 ---
 # OSH Measures During Rain Floods
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets out occupational safety and health measures for workers during flooding.
 
 - **Issue No.:** Instruction No. 090/23 MLVT/SNN.KhL
 - **Date:** 2023-10-17
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161275` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "A. Medical Infrastructure, Infirmaries & Medical Check-Ups"
 date: 2020-12-31
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161263
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Provides for the physical and medical examination of Cambodian workers."
 ---
 # Physical/Medical Examination of Cambodian Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Provides for the physical and medical examination of Cambodian workers.
 
 - **Issue No.:** Prakas No. 429/20 MLVT/PrK.KhL
 - **Date:** 2020-12-31
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › A. Medical Infrastructure, Infirmaries & Medical Check-Ups
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161263` — full text available in the FTK document library.
 
 ## Notes
 

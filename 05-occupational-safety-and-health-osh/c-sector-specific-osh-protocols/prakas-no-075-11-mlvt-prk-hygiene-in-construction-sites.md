@@ -8,20 +8,20 @@ subcategory: "C. Sector-Specific OSH Protocols"
 date: 2011-03-30
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161257
+ftk_indexed: true
 tags: [cambodia, labour-law, construction]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets out hygiene requirements to be met at construction sites."
 ---
 # Hygiene in Construction Sites
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets out hygiene requirements to be met at construction sites.
 
 - **Issue No.:** Prakas No. 075/11 MLVT/PrK
 - **Date:** 2011-03-30
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › C. Sector-Specific OSH Protocols
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161257` — full text available in the FTK document library.
 
 ## Notes
 

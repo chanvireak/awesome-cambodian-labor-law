@@ -23,7 +23,7 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**604 regulations · 523 indexed in FTK (87%) · snapshot 2026-10-09**
+**623 regulations · 560 indexed in FTK (90%) · snapshot 2026-10-09**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
@@ -31,13 +31,13 @@ This is the trust signal: the summary you read here was derived from the documen
 | 2 | [Employment Contracts, Hiring & Staff Administration](02-employment-contracts-hiring-staff-administration/README.md) | 3 | 21 |
 | 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 28 |
 | 4 | [Working Hours, Leave & Holidays](04-working-hours-leave-holidays/README.md) | 3 | 38 |
-| 5 | [Occupational Safety and Health (OSH)](05-occupational-safety-and-health-osh/README.md) | 3 | 37 |
+| 5 | [Occupational Safety and Health (OSH)](05-occupational-safety-and-health-osh/README.md) | 3 | 49 |
 | 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 7 | 172 |
 | 7 | [Foreign Workforce Management](07-foreign-workforce-management/README.md) | 3 | 18 |
 | 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 54 |
 | 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 20 |
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 35 |
-| 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 11 |
+| 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 18 |
 | 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 145 |
 
 Each category folder has its own `README.md` index, and each sub-category folder holds one Markdown note per regulation.

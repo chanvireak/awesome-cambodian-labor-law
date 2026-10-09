@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2003-04-22
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161250
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets out requirements for work carried out in confined or enclosed spaces."
 ---
 # Work in Confined Spaces
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets out requirements for work carried out in confined or enclosed spaces.
 
 - **Issue No.:** Prakas No. 139 MOSALVY
 - **Date:** 2003-04-22
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161250` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2023-03-27
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161274
+ftk_indexed: true
 tags: [cambodia, labour-law, osh]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Obliges enterprises to strengthen fire prevention and promote worker occupational health."
 ---
 # Strengthening Fire Prevention and Occupational Health
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Obliges enterprises to strengthen fire prevention and promote worker occupational health.
 
 - **Issue No.:** Instruction No. 024/23 MLVT/SNN.AK
 - **Date:** 2023-03-27
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161274` — full text available in the FTK document library.
 
 ## Notes
 

@@ -8,20 +8,20 @@ subcategory: "C. Sector-Specific OSH Protocols"
 date: 2014-08-20
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161262
+ftk_indexed: true
 tags: [cambodia, labour-law, osh]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets working conditions and hygiene and safety rules for entertainment enterprises."
 ---
 # OSH Rules in the Entertainment Service Sector
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets working conditions and hygiene and safety rules for entertainment enterprises.
 
 - **Issue No.:** Prakas No. 194 MLVT/PrK
 - **Date:** 2014-08-20
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › C. Sector-Specific OSH Protocols
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161262` — full text available in the FTK document library.
 
 ## Notes
 

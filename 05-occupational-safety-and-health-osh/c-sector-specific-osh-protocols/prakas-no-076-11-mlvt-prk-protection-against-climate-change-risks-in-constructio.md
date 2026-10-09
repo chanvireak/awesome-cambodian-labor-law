@@ -8,20 +8,20 @@ subcategory: "C. Sector-Specific OSH Protocols"
 date: 2011-03-30
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161258
+ftk_indexed: true
 tags: [cambodia, labour-law, construction]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Obliges construction sites to protect workers against risks from changing weather conditions."
 ---
 # Protection Against Climate Change Risks in Construction
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Obliges construction sites to protect workers against risks from changing weather conditions.
 
 - **Issue No.:** Prakas No. 076/11 MLVT/PrK
 - **Date:** 2011-03-30
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › C. Sector-Specific OSH Protocols
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161258` — full text available in the FTK document library.
 
 ## Notes
 

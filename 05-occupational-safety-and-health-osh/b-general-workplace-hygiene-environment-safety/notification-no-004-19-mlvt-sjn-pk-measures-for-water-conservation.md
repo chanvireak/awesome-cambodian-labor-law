@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2019-01-18
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161284
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Obliges enterprise owners to take measures for maintaining stored water."
 ---
 # Measures for Water Conservation
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Obliges enterprise owners to take measures for maintaining stored water.
 
 - **Issue No.:** Notification No. 004/19 MLVT/SJN.PK
 - **Date:** 2019-01-18
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161284` — full text available in the FTK document library.
 
 ## Notes
 
