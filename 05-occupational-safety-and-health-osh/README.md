@@ -8,7 +8,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 1994-01-19 | Joint Prakas No. 08 SKO/94 | [Appointment of Occupational Medical Network](a-medical-infrastructure-infirmaries-medical-check-ups/joint-prakas-no-08-sko-94-appointment-of-occupational-medical-network.md) | Unknown | — |
+| 1994-01-19 | Joint Prakas No. 08 SKO/94 | [Appointment of Occupational Medical Network](a-medical-infrastructure-infirmaries-medical-check-ups/joint-prakas-no-08-sko-94-appointment-of-occupational-medical-network.md) | Unknown | `161409` |
 | 1994-01-19 | Joint Prakas No. 09 SKO/94 | [Physical Examinations for Local and Foreign Employees](a-medical-infrastructure-infirmaries-medical-check-ups/joint-prakas-no-09-sko-94-physical-examinations-for-local-and-foreign-employees.md) | Unknown | `121617` |
 | 2000-12-06 | Joint Prakas No. 330 MOSALVY | [Organization of Enterprise Infirmaries](a-medical-infrastructure-infirmaries-medical-check-ups/joint-prakas-no-330-mosalvy-organization-of-enterprise-infirmaries.md) | Active | `121573` |
 | 2001-06-28 | Joint Prakas No. 139 MOSALVY | [Conditions and Missions of Enterprise Medical Services](a-medical-infrastructure-infirmaries-medical-check-ups/joint-prakas-no-139-mosalvy-conditions-and-missions-of-enterprise-medical-servic.md) | Unknown | `121575` |
@@ -59,7 +59,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 2000-06-02 | Circular No. 012 MOSALVY | [OSH Measures in Brick Production Establishments](c-sector-specific-osh-protocols/circular-no-012-mosalvy-osh-measures-in-brick-production-establishments.md) | Unknown | — |
+| 2000-06-02 | Circular No. 012 MOSALVY | [OSH Measures in Brick Production Establishments](c-sector-specific-osh-protocols/circular-no-012-mosalvy-osh-measures-in-brick-production-establishments.md) | Unknown | `161423` |
 | 2007-12-14 | Prakas No. 305 | [Occupational Safety and Health in Sea Fishing Work](c-sector-specific-osh-protocols/prakas-no-305-occupational-safety-and-health-in-sea-fishing-work.md) | Active | `161252` |
 | 2007-12-14 | Prakas No. 307 MLVT/PrK | [OSH Conditions in Garment and Footwear Factories](c-sector-specific-osh-protocols/prakas-no-307-mlvt-prk-osh-conditions-in-garment-and-footwear-factories.md) | Unknown | `161254` |
 | 2011-03-30 | Prakas No. 075/11 MLVT/PrK | [Hygiene in Construction Sites](c-sector-specific-osh-protocols/prakas-no-075-11-mlvt-prk-hygiene-in-construction-sites.md) | Unknown | `161257` |

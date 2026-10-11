@@ -8,20 +8,20 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2003-05-09
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161415
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Establishes the Secretariat of the Arbitration Council."
 ---
 # Establishment of the Secretariat of the Arbitration Council
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Establishes the Secretariat of the Arbitration Council.
 
 - **Issue No.:** Prakas No. 174 MOSALVY
 - **Date:** 2003-05-09
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161415` — full text available in the FTK document library.
 
 ## Notes
 

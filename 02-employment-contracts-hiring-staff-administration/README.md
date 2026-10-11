@@ -8,7 +8,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 2000-12-27 | Instruction No. 26 MOSALVY | [Notification of Job Vacancies](a-company-declarations-books-record-keeping/instruction-no-26-mosalvy-notification-of-job-vacancies.md) | Unknown | — |
+| 2000-12-27 | Instruction No. 26 MOSALVY | [Notification of Job Vacancies](a-company-declarations-books-record-keeping/instruction-no-26-mosalvy-notification-of-job-vacancies.md) | Unknown | `161432` |
 | 2000-12-28 | Notification No. 27 MOSALVY | [Declaration of Staff Movements](a-company-declarations-books-record-keeping/notification-no-27-mosalvy-declaration-of-staff-movements.md) | Unknown | `161329` |
 | 2001-03-20 | Joint Prakas No. 56 MOSALVY | [Taxes for Work Permits and Employment Cards](a-company-declarations-books-record-keeping/joint-prakas-no-56-mosalvy-taxes-for-work-permits-and-employment-cards.md) | Unknown | `161299` |
 | 2001-10-11 | Prakas No. 268 MOSALVY | [Establishment's Payroll Ledger/Declaration Book](a-company-declarations-books-record-keeping/prakas-no-268-mosalvy-establishment-s-payroll-ledger-declaration-book.md) | Superseded | `161154` |
@@ -36,6 +36,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 2000-01-05 | Prakas No. 004 MOSALVY | [Apprenticeship Training](c-apprenticeships/prakas-no-004-mosalvy-apprenticeship-training.md) | Unknown | — |
-| 2001-03-03 | Instruction No. 003 MOSALVY | [Procedures for Implementing Apprenticeship Training](c-apprenticeships/instruction-no-003-mosalvy-procedures-for-implementing-apprenticeship-training.md) | Unknown | — |
-| 2002-03-26 | Notification No. 07 MOSALVY | [Continuing Implementation of Apprenticeship Obligations](c-apprenticeships/notification-no-07-mosalvy-continuing-implementation-of-apprenticeship-obligatio.md) | Unknown | — |
+| 1997-03-03 | Notice No. 06 SKA | [Wages and Conditions for Apprentice Garment Workers](c-apprenticeships/notice-no-06-ska-wages-and-conditions-for-apprentice-garment-workers.md) | Active | `161426` |
+| 2000-01-05 | Prakas No. 004 MOSALVY | [Apprenticeship Training](c-apprenticeships/prakas-no-004-mosalvy-apprenticeship-training.md) | Unknown | `161412` |
+| 2001-03-03 | Instruction No. 003 MOSALVY | [Procedures for Implementing Apprenticeship Training](c-apprenticeships/instruction-no-003-mosalvy-procedures-for-implementing-apprenticeship-training.md) | Unknown | `161433` |
+| 2002-03-26 | Notification No. 07 MOSALVY | [Continuing Implementation of Apprenticeship Obligations](c-apprenticeships/notification-no-07-mosalvy-continuing-implementation-of-apprenticeship-obligatio.md) | Unknown | `161436` |

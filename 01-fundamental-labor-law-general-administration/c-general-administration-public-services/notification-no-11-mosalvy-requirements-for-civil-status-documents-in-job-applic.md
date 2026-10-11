@@ -8,20 +8,20 @@ subcategory: "C. General Administration & Public Services"
 date: 2003-07-09
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161439
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires civil-status documents in job applications to verify an employee's minimum age."
 ---
 # Requirements for Civil Status Documents in Job Applications to Verify Employee Minimum Age
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires civil-status documents in job applications to verify an employee's minimum age.
 
 - **Issue No.:** Notification No. 11 MOSALVY
 - **Date:** 2003-07-09
 - **Status:** Unknown
 - **Category:** Fundamental Labor Law & General Administration › C. General Administration & Public Services
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161439` — full text available in the FTK document library.
 
 ## Notes
 

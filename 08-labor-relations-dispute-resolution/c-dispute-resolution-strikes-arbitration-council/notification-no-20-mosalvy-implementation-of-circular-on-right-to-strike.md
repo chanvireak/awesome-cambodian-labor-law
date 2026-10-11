@@ -8,20 +8,20 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2000-08-29
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161431
+ftk_indexed: true
 tags: [cambodia, labour-law, strike]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires implementation of the circular on the right to strike."
 ---
 # Implementation of Circular on Right to Strike
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires implementation of the circular on the right to strike.
 
 - **Issue No.:** Notification No. 20 MOSALVY
 - **Date:** 2000-08-29
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161431` — full text available in the FTK document library.
 
 ## Notes
 

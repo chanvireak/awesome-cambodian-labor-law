@@ -8,20 +8,20 @@ subcategory: "A. Minimum Wage Determination"
 date: 1996-12-26
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161425
+ftk_indexed: true
 tags: [cambodia, labour-law, wages]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Announces preparations to set appropriate wages for garment workers."
 ---
 # Preparing Appropriate Wages for Garment Workers Based on Effort
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Announces preparations to set appropriate wages for garment workers.
 
 - **Issue No.:** Inter-Ministerial Notification
 - **Date:** 1996-12-26
 - **Status:** Unknown
 - **Category:** Remuneration, Seniority & Financial Benefits › A. Minimum Wage Determination
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161425` — full text available in the FTK document library.
 
 ## Notes
 

@@ -20,10 +20,14 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
+| 1997-05-09 | Notice No. 13 SKA | [Employment Books for Cambodian Workers](b-work-permits-employment-cards/notice-no-13-ska-employment-books-for-cambodian-workers.md) | Active | `161428` |
+| 1997-05-29 | Notice No. 12 SKA | [Work Cards and Employment Books for Foreign Workers](b-work-permits-employment-cards/notice-no-12-ska-work-cards-and-employment-books-for-foreign-workers.md) | Active | `161427` |
 | 2001-07-02 | Prakas No. 147 | [Employment Books for Cambodian Workers and Employees](b-work-permits-employment-cards/prakas-no-147-employment-books-for-cambodian-workers-and-employees.md) | Active | `161300` |
 | 2001-07-16 | Prakas No. 161 | [Use of Foreign Labour](b-work-permits-employment-cards/prakas-no-161-use-of-foreign-labour.md) | Active | `161301` |
 | 2001-07-16 | Prakas No. 162 | [Work Permits and Employment Books for Foreigners](b-work-permits-employment-cards/prakas-no-162-work-permits-and-employment-books-for-foreigners.md) | Active | `161302` |
 | 2002-11-13 | Prakas No. 284 | [Creation of a Foreign Labour Unit](b-work-permits-employment-cards/prakas-no-284-creation-of-a-foreign-labour-unit.md) | Repealed | `161303` |
+| 2005-03-23 | Prakas No. 073 MLVT | [Work Cards and Employment Books for Foreigners](b-work-permits-employment-cards/prakas-no-073-mlvt-work-cards-and-employment-books-for-foreigners.md) | Active | `161417` |
+| 2005-03-23 | Prakas No. 074 MLVT | [Employment Books for Cambodian Workers](b-work-permits-employment-cards/prakas-no-074-mlvt-employment-books-for-cambodian-workers.md) | Active | `161418` |
 | 2008-03-28 | Royal Kret No. 0308/346 | [General Principles for Establishing and Operating Special Operating Agencies](b-work-permits-employment-cards/royal-kret-no-0308-346-general-principles-for-establishing-and-operating-special.md) | Active | `161292` |
 | 2013-09-23 | Prakas No. 249 | [Complaint Reception Mechanism for Migrant Workers](b-work-permits-employment-cards/prakas-no-249-complaint-reception-mechanism-for-migrant-workers.md) | Active | `161307` |
 | 2013-09-23 | Prakas No. 250 | [Inspection of Private Recruitment Agencies](b-work-permits-employment-cards/prakas-no-250-inspection-of-private-recruitment-agencies.md) | Active | `161308` |

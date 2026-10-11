@@ -8,20 +8,20 @@ subcategory: "C. Apprenticeships"
 date: 2001-03-03
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161433
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets procedures for implementing apprenticeship training."
 ---
 # Procedures for Implementing Apprenticeship Training
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets procedures for implementing apprenticeship training.
 
 - **Issue No.:** Instruction No. 003 MOSALVY
 - **Date:** 2001-03-03
 - **Status:** Unknown
 - **Category:** Employment Contracts, Hiring & Staff Administration › C. Apprenticeships
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161433` — full text available in the FTK document library.
 
 ## Notes
 

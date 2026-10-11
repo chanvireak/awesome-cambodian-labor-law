@@ -19,6 +19,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | :---- | :---- | :---- | :---- | :---- |
 | 2001-12-13 | Prakas No. 328 MOSALVY | [Appointment of Labor Advisory Committee Members (2001)](b-institutional-committee-establishments/prakas-no-328-mosalvy-appointment-of-labor-advisory-committee-members-2001.md) | Active | `161396` |
 | 2005-01-17 | Royal Kram No. NS/RKM/0105/003 | [Establishment of the MLVT](b-institutional-committee-establishments/royal-kram-no-ns-rkm-0105-003-establishment-of-the-mlvt.md) | Unknown | `161394` |
+| 2005-04-01 | Sub-Decree No. 52 ANKr.BK | [Organization and Functioning of the Ministry of Labour and Vocational Training](b-institutional-committee-establishments/sub-decree-no-52-ankr-bk-organization-and-functioning-of-the-ministry-of-labour-.md) | Active | `161406` |
 | 2006-05-11 | Sub-Decree No. 47 ANKr.BK | [Composition and Functioning of the Labor Advisory Committee](b-institutional-committee-establishments/sub-decree-no-47-ankr-bk-composition-and-functioning-of-the-labor-advisory-commi.md) | Active | `160754` |
 | 2006-07-07 | Prakas No. 138 MLVT/PrK | [Appointment of the Labor Advisory Committee (2006)](b-institutional-committee-establishments/prakas-no-138-mlvt-prk-appointment-of-the-labor-advisory-committee-2006.md) | Active | `161405` |
 | 2009-04-27 | Sub-Decree No. 67 | [Establishment and Operation of the National Employment Agency](b-institutional-committee-establishments/sub-decree-no-67-establishment-and-operation-of-the-national-employment-agency.md) | Active | `161293` |
@@ -43,11 +44,11 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 1997-01-08 | Circular No. 01 SKO | [Implementation of Occupational Health and Safety and Respect for the Rights and Dignity of Employees](c-general-administration-public-services/circular-no-01-sko-implementation-of-occupational-health-and-safety-and-respect-.md) | Unknown | — |
+| 1997-01-08 | Circular No. 01 SKO | [Implementation of Occupational Health and Safety and Respect for the Rights and Dignity of Employees](c-general-administration-public-services/circular-no-01-sko-implementation-of-occupational-health-and-safety-and-respect-.md) | Unknown | `161420` |
 | 1997-06-05 | Notice No. 16 | [Notice on Movement of Staff, Workers and Employees](c-general-administration-public-services/notice-no-16-notice-on-movement-of-staff-workers-and-employees.md) | Active | `161328` |
 | 1998-10-01 | Circular No. 40 SKO | [Posting of Regulatory Instruments](c-general-administration-public-services/circular-no-40-sko-posting-of-regulatory-instruments.md) | Unknown | `130052` |
 | 1999-09-22 | Circular No. 021 MOSALVY | [Appointment of Liaison Personnel in Garment Factories](c-general-administration-public-services/circular-no-021-mosalvy-appointment-of-liaison-personnel-in-garment-factories.md) | Unknown | `160795` |
-| 2003-07-09 | Notification No. 11 MOSALVY | [Requirements for Civil Status Documents in Job Applications to Verify Employee Minimum Age](c-general-administration-public-services/notification-no-11-mosalvy-requirements-for-civil-status-documents-in-job-applic.md) | Unknown | — |
+| 2003-07-09 | Notification No. 11 MOSALVY | [Requirements for Civil Status Documents in Job Applications to Verify Employee Minimum Age](c-general-administration-public-services/notification-no-11-mosalvy-requirements-for-civil-status-documents-in-job-applic.md) | Unknown | `161439` |
 | 2010-09-13 | Sub-Decree No. 117 | [Collection and Compilation of Labour Market Information](c-general-administration-public-services/sub-decree-no-117-collection-and-compilation-of-labour-market-information.md) | Active | `161294` |
 | 2013-06-17 | Circular No. 10 | [Delegation of Tasks to Provincial Governors for Factory Management](c-general-administration-public-services/circular-no-10-delegation-of-tasks-to-provincial-governors-for-factory-managemen.md) | Active | `160796` |
 | 2023-03-02 | Notification No. 004/23 MLVT/SJN.MH | [Deadline and Procedures for Issuance and Renewal of Foreigner Work Permits and Employment Books](c-general-administration-public-services/notification-no-004-23-mlvt-sjn-mh-deadline-and-procedures-for-issuance-and-rene.md) | Unknown | — |

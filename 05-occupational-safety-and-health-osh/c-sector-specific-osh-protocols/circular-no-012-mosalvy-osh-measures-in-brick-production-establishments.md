@@ -8,20 +8,20 @@ subcategory: "C. Sector-Specific OSH Protocols"
 date: 2000-06-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161423
+ftk_indexed: true
 tags: [cambodia, labour-law, osh, brick-kilns]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets occupational health and safety measures for brick production establishments."
 ---
 # OSH Measures in Brick Production Establishments
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets occupational health and safety measures for brick production establishments.
 
 - **Issue No.:** Circular No. 012 MOSALVY
 - **Date:** 2000-06-02
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › C. Sector-Specific OSH Protocols
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161423` — full text available in the FTK document library.
 
 ## Notes
 

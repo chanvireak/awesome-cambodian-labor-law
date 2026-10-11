@@ -8,20 +8,20 @@ subcategory: "A. Company Declarations, Books & Record Keeping"
 date: 2000-12-27
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161432
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires enterprises to notify job vacancies."
 ---
 # Notification of Job Vacancies
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires enterprises to notify job vacancies.
 
 - **Issue No.:** Instruction No. 26 MOSALVY
 - **Date:** 2000-12-27
 - **Status:** Unknown
 - **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161432` — full text available in the FTK document library.
 
 ## Notes
 

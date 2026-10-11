@@ -8,20 +8,20 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2003-05-06
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161438
+ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Instructs labour officials to exhaust all means of conciliation before a collective labour dispute escalates."
 ---
 # Exhausting Means to Resolve Collective Labor Disputes
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Instructs labour officials to exhaust all means of conciliation before a collective labour dispute escalates.
 
 - **Issue No.:** Instruction No. 08 MOSALVY
 - **Date:** 2003-05-06
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161438` — full text available in the FTK document library.
 
 ## Notes
 

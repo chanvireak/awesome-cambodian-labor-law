@@ -9,7 +9,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 | 1999-03-01 | Prakas No. 080/99 MOSALVY | [Overtime Work Beyond Normal Working Hours](a-working-hours-overtime-protocols/prakas-no-080-99-mosalvy-overtime-work-beyond-normal-working-hours.md) | Superseded | `121549` |
-| 1999-08-06 | Notification No. 014 MOSALVY | [Excessive Overtime Causing Occupational Accidents](a-working-hours-overtime-protocols/notification-no-014-mosalvy-excessive-overtime-causing-occupational-accidents.md) | Unknown | — |
+| 1999-08-06 | Notification No. 014 MOSALVY | [Excessive Overtime Causing Occupational Accidents](a-working-hours-overtime-protocols/notification-no-014-mosalvy-excessive-overtime-causing-occupational-accidents.md) | Unknown | `161429` |
 | 2001-11-29 | Prakas No. 316 MOSALVY | [Employment Outside Standard Working Hours](a-working-hours-overtime-protocols/prakas-no-316-mosalvy-employment-outside-standard-working-hours.md) | Unknown | `161158` |
 | 2002-06-10 | Prakas No. 142 MOSALVY | [Distribution of Weekly Hours for Saturday Afternoon Time Off](a-working-hours-overtime-protocols/prakas-no-142-mosalvy-distribution-of-weekly-hours-for-saturday-afternoon-time-o.md) | Unknown | `161160` |
 | 2002-06-10 | Prakas No. 143 MOSALVY | [Distribution of Working Hours Averaged over 12 Weeks](a-working-hours-overtime-protocols/prakas-no-143-mosalvy-distribution-of-working-hours-averaged-over-12-weeks.md) | Unknown | `121554` |
@@ -19,9 +19,12 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
+| 2001-07-17 | Notice No. 18 MOSALVY | [Leave for Workers to Vote in the Commune Council Elections (2001)](b-weekly-day-off-special-leave/notice-no-18-mosalvy-leave-for-workers-to-vote-in-the-commune-council-elections-.md) | Active | `161434` |
 | 2001-10-11 | Prakas No. 267 MOSALVY | [Special Leave](b-weekly-day-off-special-leave/prakas-no-267-mosalvy-special-leave.md) | Unknown | `134741` |
 | 2001-12-31 | Notice No. 31 MOSALVY | [Leave for Workers to Vote in the 2002 Commune Elections](b-weekly-day-off-special-leave/notice-no-31-mosalvy-leave-for-workers-to-vote-in-the-2002-commune-elections.md) | Active | `161404` |
+| 2002-01-31 | Notice No. 03 MOSALVY | [Facilitating Workers to Vote in the Commune Council Elections (2002)](b-weekly-day-off-special-leave/notice-no-03-mosalvy-facilitating-workers-to-vote-in-the-commune-council-electio.md) | Active | `161435` |
 | 2002-04-11 | Prakas No. 100/02 MOSALVY | [Suspension of Weekly Day Off](b-weekly-day-off-special-leave/prakas-no-100-02-mosalvy-suspension-of-weekly-day-off.md) | Superseded | `161159` |
+| 2003-01-02 | Notice No. 01 MOSALVY | [Facilitating Workers to Vote in the 2003 National Assembly Elections](b-weekly-day-off-special-leave/notice-no-01-mosalvy-facilitating-workers-to-vote-in-the-2003-national-assembly-.md) | Active | `161437` |
 | 2020-02-21 | Instruction No. 010/20 MLVT/SNN.KhL | [Payment for Special Leaves](b-weekly-day-off-special-leave/instruction-no-010-20-mlvt-snn-khl-payment-for-special-leaves.md) | Unknown | `161212` |
 
 ## C. Public Holidays

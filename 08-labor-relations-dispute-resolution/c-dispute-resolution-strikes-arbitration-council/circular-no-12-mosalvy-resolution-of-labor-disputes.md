@@ -8,20 +8,20 @@ subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2002-07-05
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161424
+ftk_indexed: true
 tags: [cambodia, labour-law, dispute-resolution]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets procedures for resolving labour disputes."
 ---
 # Resolution of Labor Disputes
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets procedures for resolving labour disputes.
 
 - **Issue No.:** Circular No. 12 MOSALVY
 - **Date:** 2002-07-05
 - **Status:** Unknown
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161424` — full text available in the FTK document library.
 
 ## Notes
 

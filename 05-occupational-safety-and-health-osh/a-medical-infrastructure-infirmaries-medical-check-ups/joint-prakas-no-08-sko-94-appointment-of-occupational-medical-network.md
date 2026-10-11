@@ -8,20 +8,20 @@ subcategory: "A. Medical Infrastructure, Infirmaries & Medical Check-Ups"
 date: 1994-01-19
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161409
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Establishes the occupational medical network for enterprises."
 ---
 # Appointment of Occupational Medical Network
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Establishes the occupational medical network for enterprises.
 
 - **Issue No.:** Joint Prakas No. 08 SKO/94
 - **Date:** 1994-01-19
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › A. Medical Infrastructure, Infirmaries & Medical Check-Ups
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161409` — full text available in the FTK document library.
 
 ## Notes
 

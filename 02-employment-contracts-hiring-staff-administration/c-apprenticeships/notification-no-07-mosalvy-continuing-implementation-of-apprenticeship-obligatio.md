@@ -8,20 +8,20 @@ subcategory: "C. Apprenticeships"
 date: 2002-03-26
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161436
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires enterprises that did not begin apprenticeship obligations in 2001 to do so, including testing of existing workers."
 ---
 # Continuing Implementation of Apprenticeship Obligations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires enterprises that did not begin apprenticeship obligations in 2001 to do so, including testing of existing workers.
 
 - **Issue No.:** Notification No. 07 MOSALVY
 - **Date:** 2002-03-26
 - **Status:** Unknown
 - **Category:** Employment Contracts, Hiring & Staff Administration › C. Apprenticeships
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161436` — full text available in the FTK document library.
 
 ## Notes
 
