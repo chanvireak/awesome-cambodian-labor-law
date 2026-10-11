@@ -132,7 +132,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2016-03-17 | Prakas No. 109 MLVT/PrK | [Health Care Benefits](c-health-care-scheme/prakas-no-109-mlvt-prk-health-care-benefits.md) | Unknown | — |
 | 2016-04-04 | Inter-Ministerial Prakas No. 133 | [Payment Mechanism for Health Care Service Fees](c-health-care-scheme/inter-ministerial-prakas-no-133-payment-mechanism-for-health-care-service-fees.md) | Active | `160937` |
 | 2016-06-13 | Prakas No. 220 | [Health Care Contribution Rates and Payment Procedures](c-health-care-scheme/prakas-no-220-health-care-contribution-rates-and-payment-procedures.md) | Active | `160938` |
-| 2016-06-21 | Prakas No. 238 MLVT/PrK | [List of Chronic Diseases Under the Health Care Scheme](c-health-care-scheme/prakas-no-238-mlvt-prk-list-of-chronic-diseases-under-the-health-care-scheme.md) | Abrogated | `160939` |
+| 2016-06-21 | Prakas No. 238 MLVT/PrK | [List of Chronic Diseases Under the Health Care Scheme](c-health-care-scheme/prakas-no-238-mlvt-prk-list-of-chronic-diseases-under-the-health-care-scheme.md) | Repealed | `160939` |
 | 2016-07-25 | Inter-Ministerial Prakas No. 291 MLVT/PrK | [Agreement Between NSSF and Health Facilities](c-health-care-scheme/inter-ministerial-prakas-no-291-mlvt-prk-agreement-between-nssf-and-health-facil.md) | Unknown | `160940` |
 | 2017-02-03 | Notice No. 014/17 | [Wages and Daily Allowances for Female Workers During Maternity Leave](c-health-care-scheme/notice-no-014-17-wages-and-daily-allowances-for-female-workers-during-maternity-.md) | Active | `160956` |
 | 2017-02-08 | Prakas No. 049/17 KB/Pr.K | [Inclusion of Health Prevention Services in Health Care Scheme](c-health-care-scheme/prakas-no-049-17-kb-pr-k-inclusion-of-health-prevention-services-in-health-care-.md) | Active | `160941` |
@@ -169,7 +169,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2022-07-05 | Prakas No. 170/22 MLVT/PrK.NSSF | [Starting Date for Pension Scheme Contributions](d-pension-scheme/prakas-no-170-22-mlvt-prk-nssf-starting-date-for-pension-scheme-contributions.md) | Unknown | `160968` |
 | 2022-07-11 | Instruction No. 035/22 | [Dissemination Campaign for Pension Scheme for Workers](d-pension-scheme/instruction-no-035-22-dissemination-campaign-for-pension-scheme-for-workers.md) | Active | `160970` |
 | 2022-09-05 | Decision No. 029/22 | [Registration, Contributions and Claims under Voluntary Pension Scheme](d-pension-scheme/decision-no-029-22-registration-contributions-and-claims-under-voluntary-pension.md) | Active | `160969` |
-| October 2027 | Policy Target | [NSSF Pension Scheme Phase 2 (8% Contribution)](d-pension-scheme/policy-target-nssf-pension-scheme-phase-2-8-contribution.md) | Pending | — |
+| October 2027 | Policy Target | [NSSF Pension Scheme Phase 2 (8% Contribution)](d-pension-scheme/policy-target-nssf-pension-scheme-phase-2-8-contribution.md) | Unknown | — |
 
 ## E. Public Sector Social Security
 

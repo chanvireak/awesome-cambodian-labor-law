@@ -6,7 +6,7 @@ type: Sub-Decree
 category: "Fundamental Labor Law & General Administration"
 subcategory: "B. Institutional & Committee Establishments"
 date: 2014-11-14
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 143046
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Organises the Ministry of Labour and Vocational Training (MLVT): struc
 
 - **Issue No.:** Sub-Decree No. 283 ANKr.BK
 - **Date:** 2014-11-14
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Fundamental Labor Law & General Administration › B. Institutional & Committee Establishments
 - **FTK document ID:** `143046` — full text available in the FTK document library.
 

@@ -6,7 +6,7 @@ type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2001-11-29
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160766
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Set the procedure for resolving individual labour disputes; abrogated 
 
 - **Issue No.:** Prakas No. 318 MOSALVY
 - **Date:** 2001-11-29
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
 - **FTK document ID:** `160766` — full text available in the FTK document library.
 

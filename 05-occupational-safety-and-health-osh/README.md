@@ -51,7 +51,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-02-21 | Guideline No. 18/25 MLVT/SNN.AK | [Promoting Healthy Lifestyle Behaviour of Workers](b-general-workplace-hygiene-environment-safety/guideline-no-18-25-mlvt-snn-ak-promoting-healthy-lifestyle-behaviour-of-workers.md) | Active | `143004` |
 | 2025-03-17 | Additional Guideline No. 30/25 MLVT/SNN.AK | [OSH Measures During Dry-Season Weather](b-general-workplace-hygiene-environment-safety/additional-guideline-no-30-25-mlvt-snn-ak-osh-measures-during-dry-season-weather.md) | Active | `143001` |
 | 2025-10-13 | Guideline No. 147 MLVT/SNN.AK | [Safety and Health Measures During Flooding](b-general-workplace-hygiene-environment-safety/guideline-no-147-mlvt-snn-ak-safety-and-health-measures-during-flooding.md) | Active | `142965` |
-| 2025/2026 | Draft Legislation | [Occupational Safety and Health Law](b-general-workplace-hygiene-environment-safety/draft-legislation-occupational-safety-and-health-law.md) | Pending | — |
+| 2025/2026 | Draft Legislation | [Occupational Safety and Health Law](b-general-workplace-hygiene-environment-safety/draft-legislation-occupational-safety-and-health-law.md) | Unknown | — |
 | 2026-05-13 | Guideline No. 040/26 MLVT/SNN.AK | [Prohibition of E-cigarettes in Enterprises](b-general-workplace-hygiene-environment-safety/guideline-no-040-26-mlvt-snn-ak-prohibition-of-e-cigarettes-in-enterprises.md) | Active | `142934` |
 | Q1 2023 | Policy Document | [Third Master Plan on OSH (2023–2027)](b-general-workplace-hygiene-environment-safety/policy-document-third-master-plan-on-osh-2023-2027.md) | Active | — |
 

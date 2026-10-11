@@ -6,7 +6,7 @@ type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "A. Trade Unions & Representation"
 date: 2001-11-05
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160762
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Governed staff delegates in enterprises; revoked by Prakas No. 302 (20
 
 - **Issue No.:** Prakas No. 286
 - **Date:** 2001-11-05
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Labor Relations & Dispute Resolution › A. Trade Unions & Representation
 - **FTK document ID:** `160762` — full text available in the FTK document library.
 

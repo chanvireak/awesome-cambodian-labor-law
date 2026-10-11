@@ -6,7 +6,7 @@ type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "A. Trade Unions & Representation"
 date: 2001-11-22
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160764
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Set rules on representative status and collective bargaining; revoked 
 
 - **Issue No.:** Prakas No. 305
 - **Date:** 2001-11-22
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Labor Relations & Dispute Resolution › A. Trade Unions & Representation
 - **FTK document ID:** `160764` — full text available in the FTK document library.
 

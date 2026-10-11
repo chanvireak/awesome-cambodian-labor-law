@@ -9,11 +9,11 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 | 2000-11-27 | Prakas No. 313 | [Roles and Duties of Staff Delegates and Trade Unions](a-trade-unions-representation/prakas-no-313-roles-and-duties-of-staff-delegates-and-trade-unions.md) | Active | `160761` |
-| 2001-11-05 | Prakas No. 286 | [Staff Delegates in Enterprises and Establishments](a-trade-unions-representation/prakas-no-286-staff-delegates-in-enterprises-and-establishments.md) | Abrogated | `160762` |
-| 2001-11-22 | Prakas No. 305 | [Representative Status of Workers' Organisations and Collective Bargaining Rights](a-trade-unions-representation/prakas-no-305-representative-status-of-workers-organisations-and-collective-barg.md) | Abrogated | `160764` |
+| 2001-11-05 | Prakas No. 286 | [Staff Delegates in Enterprises and Establishments](a-trade-unions-representation/prakas-no-286-staff-delegates-in-enterprises-and-establishments.md) | Repealed | `160762` |
+| 2001-11-22 | Prakas No. 305 | [Representative Status of Workers' Organisations and Collective Bargaining Rights](a-trade-unions-representation/prakas-no-305-representative-status-of-workers-organisations-and-collective-barg.md) | Repealed | `160764` |
 | 2002-09-26 | Notification No. 16 | [Registration of Workers' Organisations and Confirmation of Representativeness](a-trade-unions-representation/notification-no-16-registration-of-workers-organisations-and-confirmation-of-rep.md) | Active | `160801` |
 | 2004-07-07 | Notification No. 013 | [Procedures for Elections to Determine Most-Representative Status](a-trade-unions-representation/notification-no-013-procedures-for-elections-to-determine-most-representative-st.md) | Active | `160802` |
-| 2006-02-15 | Prakas No. 021 | [Registration of Workers' Professional Organisations](a-trade-unions-representation/prakas-no-021-registration-of-workers-professional-organisations.md) | Abrogated | `160769` |
+| 2006-02-15 | Prakas No. 021 | [Registration of Workers' Professional Organisations](a-trade-unions-representation/prakas-no-021-registration-of-workers-professional-organisations.md) | Repealed | `160769` |
 | 2008-04-22 | Notification No. 033/08 | [Procedures for Determining Representativeness and Elections](a-trade-unions-representation/notification-no-033-08-procedures-for-determining-representativeness-and-electio.md) | Active | `160803` |
 | 2015-10-16 | Notification No. 288 | [Lists of Candidates for Union Leadership Elections](a-trade-unions-representation/notification-no-288-lists-of-candidates-for-union-leadership-elections.md) | Active | `160804` |
 | 2016-05-17 | Royal Kram No. NS/RKM/0516/007 | [Law on Trade Unions](a-trade-unions-representation/royal-kram-no-ns-rkm-0516-007-law-on-trade-unions.md) | Unknown | `130404` |
@@ -48,13 +48,13 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | :---- | :---- | :---- | :---- | :---- |
 | 2000-03-06 | Circular No. 005 MOSALVY | [Right to Strike](c-dispute-resolution-strikes-arbitration-council/circular-no-005-mosalvy-right-to-strike.md) | Unknown | `130457` |
 | 2000-08-29 | Notification No. 20 MOSALVY | [Implementation of Circular on Right to Strike](c-dispute-resolution-strikes-arbitration-council/notification-no-20-mosalvy-implementation-of-circular-on-right-to-strike.md) | Unknown | — |
-| 2001-11-29 | Prakas No. 317 MOSALVY | [Procedures for Resolving Collective Labor Disputes](c-dispute-resolution-strikes-arbitration-council/prakas-no-317-mosalvy-procedures-for-resolving-collective-labor-disputes.md) | Abrogated | `160765` |
-| 2001-11-29 | Prakas No. 318 MOSALVY | [Procedures for Resolving Individual Labor Disputes](c-dispute-resolution-strikes-arbitration-council/prakas-no-318-mosalvy-procedures-for-resolving-individual-labor-disputes.md) | Abrogated | `160766` |
+| 2001-11-29 | Prakas No. 317 MOSALVY | [Procedures for Resolving Collective Labor Disputes](c-dispute-resolution-strikes-arbitration-council/prakas-no-317-mosalvy-procedures-for-resolving-collective-labor-disputes.md) | Repealed | `160765` |
+| 2001-11-29 | Prakas No. 318 MOSALVY | [Procedures for Resolving Individual Labor Disputes](c-dispute-resolution-strikes-arbitration-council/prakas-no-318-mosalvy-procedures-for-resolving-individual-labor-disputes.md) | Repealed | `160766` |
 | 2002-07-05 | Circular No. 12 MOSALVY | [Resolution of Labor Disputes](c-dispute-resolution-strikes-arbitration-council/circular-no-12-mosalvy-resolution-of-labor-disputes.md) | Unknown | — |
-| 2002-12-11 | Prakas No. 338 | [Arbitration Council](c-dispute-resolution-strikes-arbitration-council/prakas-no-338-arbitration-council.md) | Abrogated | `160767` |
+| 2002-12-11 | Prakas No. 338 | [Arbitration Council](c-dispute-resolution-strikes-arbitration-council/prakas-no-338-arbitration-council.md) | Repealed | `160767` |
 | 2003-05-06 | Instruction No. 08 MOSALVY | [Exhausting Means to Resolve Collective Labor Disputes](c-dispute-resolution-strikes-arbitration-council/instruction-no-08-mosalvy-exhausting-means-to-resolve-collective-labor-disputes.md) | Unknown | — |
 | 2003-05-09 | Prakas No. 174 MOSALVY | [Establishment of the Secretariat of the Arbitration Council](c-dispute-resolution-strikes-arbitration-council/prakas-no-174-mosalvy-establishment-of-the-secretariat-of-the-arbitration-counci.md) | Unknown | — |
-| 2004-04-21 | Prakas No. 099 MOSALVY | [Arbitration Council](c-dispute-resolution-strikes-arbitration-council/prakas-no-099-mosalvy-arbitration-council.md) | Abrogated | `160768` |
+| 2004-04-21 | Prakas No. 099 MOSALVY | [Arbitration Council](c-dispute-resolution-strikes-arbitration-council/prakas-no-099-mosalvy-arbitration-council.md) | Repealed | `160768` |
 | 2012-09-05 | Sub-Decree No. 136 | [Revision of the Committee for Resolving Strikes and Demonstrations in All Sectors](c-dispute-resolution-strikes-arbitration-council/sub-decree-no-136-revision-of-the-committee-for-resolving-strikes-and-demonstrat.md) | Active | `160755` |
 | 2013-03-27 | Directive No. 03 | [Maintaining Public Security and Order in Factory and Industrial Zones](c-dispute-resolution-strikes-arbitration-council/directive-no-03-maintaining-public-security-and-order-in-factory-and-industrial-.md) | Active | `160794` |
 | 2013-10-21 | Sub-Decree No. 489 ANKr.BK | [Revision of the Committee for Resolving Strikes and Demonstrations](c-dispute-resolution-strikes-arbitration-council/sub-decree-no-489-ankr-bk-revision-of-the-committee-for-resolving-strikes-and-de.md) | Unknown | `160756` |

@@ -35,7 +35,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 | 1997-03-20 | Inter-Ministerial Prakas No. 86 | [Joint Prakas on Daily Reference Wage, Repealed in 2015](c-specific-allowances-wage-payment-procedures/inter-ministerial-prakas-no-86-joint-prakas-on-daily-reference-wage-repealed-in-.md) | Active | `161149` |
-| 1999-02-04 | Prakas No. 010/99 MOSALVY | [Remuneration for Work on Paid Public Holidays](c-specific-allowances-wage-payment-procedures/prakas-no-010-99-mosalvy-remuneration-for-work-on-paid-public-holidays.md) | Abrogated | `161150` |
+| 1999-02-04 | Prakas No. 010/99 MOSALVY | [Remuneration for Work on Paid Public Holidays](c-specific-allowances-wage-payment-procedures/prakas-no-010-99-mosalvy-remuneration-for-work-on-paid-public-holidays.md) | Repealed | `161150` |
 | 2007-08-14 | Circular No. 185 MLVT/SR | [Night Work Wages](c-specific-allowances-wage-payment-procedures/circular-no-185-mlvt-sr-night-work-wages.md) | Unknown | `130793` |
 | 2008-04-17 | Notice No. 032/08 | [Allowance to Support Livelihood of Textile, Garment and Footwear Workers](c-specific-allowances-wage-payment-procedures/notice-no-032-08-allowance-to-support-livelihood-of-textile-garment-and-footwear.md) | Active | `161222` |
 | 2010-07-09 | Notice No. 049/10 | [Wages and Other Benefits in Textile, Garment and Footwear Sector](c-specific-allowances-wage-payment-procedures/notice-no-049-10-wages-and-other-benefits-in-textile-garment-and-footwear-sector.md) | Active | `161223` |

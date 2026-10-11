@@ -6,7 +6,7 @@ type: Prakas
 category: "Remuneration, Seniority & Financial Benefits"
 subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 1999-02-04
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 161150
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Sets remuneration rules for work performed on paid public holidays; re
 
 - **Issue No.:** Prakas No. 010/99 MOSALVY
 - **Date:** 1999-02-04
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Remuneration, Seniority & Financial Benefits › C. Specific Allowances & Wage Payment Procedures
 - **FTK document ID:** `161150` — full text available in the FTK document library.
 

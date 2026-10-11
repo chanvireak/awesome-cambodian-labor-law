@@ -6,7 +6,7 @@ type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2002-12-11
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160767
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Established the Arbitration Council; revoked by Prakas No. 009 (2004).
 
 - **Issue No.:** Prakas No. 338
 - **Date:** 2002-12-11
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
 - **FTK document ID:** `160767` — full text available in the FTK document library.
 

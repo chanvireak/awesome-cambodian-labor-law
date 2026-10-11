@@ -6,7 +6,7 @@ type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "A. Trade Unions & Representation"
 date: 2006-02-15
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160769
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Governed registration of workers' organisations; revoked by Prakas No.
 
 - **Issue No.:** Prakas No. 021
 - **Date:** 2006-02-15
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Labor Relations & Dispute Resolution › A. Trade Unions & Representation
 - **FTK document ID:** `160769` — full text available in the FTK document library.
 

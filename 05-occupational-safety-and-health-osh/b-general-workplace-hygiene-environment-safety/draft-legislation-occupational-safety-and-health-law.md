@@ -6,7 +6,7 @@ type: Draft Legislation
 category: "Occupational Safety and Health (OSH)"
 subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date_text: "2025/2026"
-status: "Pending"
+status: "Unknown"
 jurisdiction: Cambodia
 ftk_doc_id: 
 ftk_indexed: false
@@ -19,7 +19,7 @@ summary: "Not yet indexed in the FTK library — listed here for completeness."
 
 - **Issue No.:** Draft Legislation
 - **Date:** 2025/2026
-- **Status:** Pending
+- **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
 - **FTK document ID:** — not yet indexed in the FTK library.
 

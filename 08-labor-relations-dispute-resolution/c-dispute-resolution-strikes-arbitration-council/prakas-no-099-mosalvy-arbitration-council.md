@@ -6,7 +6,7 @@ type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2004-04-21
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160768
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Established the Arbitration Council; abrogated by Prakas No. 098/26 (2
 
 - **Issue No.:** Prakas No. 099 MOSALVY
 - **Date:** 2004-04-21
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Labor Relations & Dispute Resolution › C. Dispute Resolution, Strikes & Arbitration Council
 - **FTK document ID:** `160768` — full text available in the FTK document library.
 

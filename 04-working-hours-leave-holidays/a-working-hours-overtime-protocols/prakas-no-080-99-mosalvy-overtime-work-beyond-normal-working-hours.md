@@ -6,7 +6,7 @@ type: Prakas
 category: "Working Hours, Leave & Holidays"
 subcategory: "A. Working Hours & Overtime Protocols"
 date: 1999-03-01
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 121549
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Sets rules and premium rates for overtime work beyond normal working h
 
 - **Issue No.:** Prakas No. 080/99 MOSALVY
 - **Date:** 1999-03-01
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Working Hours, Leave & Holidays › A. Working Hours & Overtime Protocols
 - **FTK document ID:** `121549` — full text available in the FTK document library.
 

@@ -6,7 +6,7 @@ type: Prakas
 category: "National Social Security Fund (NSSF)"
 subcategory: "C. Health Care Scheme"
 date: 2016-06-21
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 160939
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Determines the list of chronic diseases covered by the health-care sch
 
 - **Issue No.:** Prakas No. 238 MLVT/PrK
 - **Date:** 2016-06-21
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** National Social Security Fund (NSSF) › C. Health Care Scheme
 - **FTK document ID:** `160939` — full text available in the FTK document library.
 

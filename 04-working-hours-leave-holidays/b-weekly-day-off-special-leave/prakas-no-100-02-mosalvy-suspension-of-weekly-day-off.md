@@ -6,7 +6,7 @@ type: Prakas
 category: "Working Hours, Leave & Holidays"
 subcategory: "B. Weekly Day Off & Special Leave"
 date: 2002-04-11
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 161159
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Concerns suspension of the weekly day off; repealed in 2025 by Prakas 
 
 - **Issue No.:** Prakas No. 100/02 MOSALVY
 - **Date:** 2002-04-11
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Working Hours, Leave & Holidays › B. Weekly Day Off & Special Leave
 - **FTK document ID:** `161159` — full text available in the FTK document library.
 

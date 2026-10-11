@@ -23,7 +23,7 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**623 regulations · 560 indexed in FTK (90%) · snapshot 2026-10-09**
+**623 regulations · 560 indexed in FTK (90%) · snapshot 2026-10-11**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
@@ -78,13 +78,16 @@ summary: "Sets the 2026 minimum wage for textile, garment, footwear and travel-g
 
 ## Status conventions
 
+The index uses a **closed set of six** statuses. The same six values are used in the FTK
+document library's `Status` field, so a status reads identically on either side.
+
 | Status | Meaning |
 | :-- | :-- |
 | **Active** | In force. |
-| **Abrogated / Aborted** | Repealed. |
+| **Amended** | In force as amended. |
 | **Superseded** | Replaced by a later instrument. |
-| **Expired** | Period-based (e.g. an annual wage or holiday calendar). |
-| **Pending** | Adopted but not yet in force, or a draft. |
+| **Repealed** | Repealed or abrogated. |
+| **Expired** | Period-based, or lapsed by its own terms (e.g. an annual wage or holiday calendar). |
 | **Unknown** | Status not recorded in the source. |
 
 ## Scope & sourcing

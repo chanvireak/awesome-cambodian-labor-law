@@ -6,7 +6,7 @@ type: Prakas
 category: "Working Hours, Leave & Holidays"
 subcategory: "C. Public Holidays"
 date: 2021-12-30
-status: "Abrogated"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 161185
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Sets formalities and procedures for working on paid public holidays; r
 
 - **Issue No.:** Prakas No. 357/21
 - **Date:** 2021-12-30
-- **Status:** Abrogated
+- **Status:** Repealed
 - **Category:** Working Hours, Leave & Holidays › C. Public Holidays
 - **FTK document ID:** `161185` — full text available in the FTK document library.
 
