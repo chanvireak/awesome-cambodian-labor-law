@@ -1,5 +1,5 @@
 ---
-title: "Labour Advisory Committee Meeting on the Minimum Wage (July 2000)"
+title: "Minimum Wage Meeting of the Labour Advisory Committee (July 2000)"
 aliases: ["Notice No. 017 MOSALVY"]
 issue_no: "Notice No. 017 MOSALVY"
 type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
@@ -13,7 +13,7 @@ ftk_indexed: true
 tags: [cambodia, labour-law, minimum-wage, wages]
 summary: "Announces the outcome of the Labour Advisory Committee meeting on the garment minimum wage."
 ---
-# Labour Advisory Committee Meeting on the Minimum Wage (July 2000)
+# Minimum Wage Meeting of the Labour Advisory Committee (July 2000)
 
 > **Summary.** Announces the outcome of the Labour Advisory Committee meeting on the garment minimum wage.
 

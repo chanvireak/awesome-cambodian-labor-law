@@ -1,5 +1,5 @@
 ---
-title: "Labour Advisory Committee Meeting on Wages (December 2003)"
+title: "Wage Meeting of the Labour Advisory Committee (December 2003)"
 aliases: ["Notice No. 016 MOSALVY"]
 issue_no: "Notice No. 016 MOSALVY"
 type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
@@ -13,7 +13,7 @@ ftk_indexed: true
 tags: [cambodia, labour-law, wages]
 summary: "Announces the outcome of the Labour Advisory Committee session on wages and the rising cost of living."
 ---
-# Labour Advisory Committee Meeting on Wages (December 2003)
+# Wage Meeting of the Labour Advisory Committee (December 2003)
 
 > **Summary.** Announces the outcome of the Labour Advisory Committee session on wages and the rising cost of living.
 

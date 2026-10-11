@@ -10,8 +10,8 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | :---- | :---- | :---- | :---- | :---- |
 | 1996-12-26 | Inter-Ministerial Notification | [Preparing Appropriate Wages for Garment Workers Based on Effort](a-minimum-wage-determination/inter-ministerial-notification-preparing-appropriate-wages-for-garment-workers-b.md) | Unknown | `161425` |
 | 2000-06-22 | Notice No. 15 MOSALVY | [Minimum Wage for the Garment and Footwear Sector (2000)](a-minimum-wage-determination/notice-no-15-mosalvy-minimum-wage-for-the-garment-and-footwear-sector-2000.md) | Active | `161403` |
-| 2000-07-18 | Notice No. 017 MOSALVY | [Labour Advisory Committee Meeting on the Minimum Wage (July 2000)](a-minimum-wage-determination/notice-no-017-mosalvy-labour-advisory-committee-meeting-on-the-minimum-wage-july.md) | Active | `161430` |
-| 2003-12-12 | Notice No. 016 MOSALVY | [Labour Advisory Committee Meeting on Wages (December 2003)](a-minimum-wage-determination/notice-no-016-mosalvy-labour-advisory-committee-meeting-on-wages-december-2003.md) | Active | `161440` |
+| 2000-07-18 | Notice No. 017 MOSALVY | [Minimum Wage Meeting of the Labour Advisory Committee (July 2000)](a-minimum-wage-determination/notice-no-017-mosalvy-minimum-wage-meeting-of-the-labour-advisory-committee-july.md) | Active | `161430` |
+| 2003-12-12 | Notice No. 016 MOSALVY | [Wage Meeting of the Labour Advisory Committee (December 2003)](a-minimum-wage-determination/notice-no-016-mosalvy-wage-meeting-of-the-labour-advisory-committee-december-200.md) | Active | `161440` |
 | 2018-07-06 | Royal Kram No. NS/RKM/0718/015 | [Minimum Wage Law](a-minimum-wage-determination/royal-kram-no-ns-rkm-0718-015-minimum-wage-law.md) | Active | `85756` |
 | 2022-11-25 | Inter-Ministerial Prakas No. 326/22 MLVT/PrK.KhL | [Daily Reference Wage](a-minimum-wage-determination/inter-ministerial-prakas-no-326-22-mlvt-prk-khl-daily-reference-wage.md) | Unknown | `150741` |
 | 2023-09-29 | Prakas No. 283/23 MLVT/PrK.KhL | [2024 Minimum Wage for Textile, Garment, Footwear, Travel Goods](a-minimum-wage-determination/prakas-no-283-23-mlvt-prk-khl-2024-minimum-wage-for-textile-garment-footwear-tra.md) | Expired | — |

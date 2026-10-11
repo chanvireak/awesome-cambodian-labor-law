@@ -1,5 +1,5 @@
 ---
-title: "Leave for Workers to Vote in the Commune Council Elections (2001)"
+title: "Leave to Vote in the 2001 Commune Elections"
 aliases: ["Notice No. 18 MOSALVY"]
 issue_no: "Notice No. 18 MOSALVY"
 type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
@@ -13,7 +13,7 @@ ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Instructs employers to allow workers to take leave to vote in the commune council elections, at the request of the National Election Committee."
 ---
-# Leave for Workers to Vote in the Commune Council Elections (2001)
+# Leave to Vote in the 2001 Commune Elections
 
 > **Summary.** Instructs employers to allow workers to take leave to vote in the commune council elections, at the request of the National Election Committee.
 

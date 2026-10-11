@@ -1,5 +1,5 @@
 ---
-title: "Facilitating Workers to Vote in the Commune Council Elections (2002)"
+title: "Leave to Vote in the 2002 Commune Elections"
 aliases: ["Notice No. 03 MOSALVY"]
 issue_no: "Notice No. 03 MOSALVY"
 type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
@@ -13,7 +13,7 @@ ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Instructs employers to facilitate workers taking leave to vote in the commune council elections."
 ---
-# Facilitating Workers to Vote in the Commune Council Elections (2002)
+# Leave to Vote in the 2002 Commune Elections
 
 > **Summary.** Instructs employers to facilitate workers taking leave to vote in the commune council elections.
 

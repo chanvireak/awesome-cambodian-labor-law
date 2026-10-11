@@ -1,5 +1,5 @@
 ---
-title: "Facilitating Workers to Vote in the 2003 National Assembly Elections"
+title: "Leave to Vote in the 2003 National Assembly Elections"
 aliases: ["Notice No. 01 MOSALVY"]
 issue_no: "Notice No. 01 MOSALVY"
 type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
@@ -13,7 +13,7 @@ ftk_indexed: true
 tags: [cambodia, labour-law]
 summary: "Instructs employers to facilitate workers taking leave to vote, at the request of the National Election Committee."
 ---
-# Facilitating Workers to Vote in the 2003 National Assembly Elections
+# Leave to Vote in the 2003 National Assembly Elections
 
 > **Summary.** Instructs employers to facilitate workers taking leave to vote, at the request of the National Election Committee.
 
