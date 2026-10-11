@@ -8,20 +8,20 @@ subcategory: "B. Institutional & Committee Establishments"
 date: 2019-04-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 79696
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Appoints the members of the ninth-term Labour Advisory Committee."
 ---
 # Appointment of Members to the Labor Advisory Committee (9th Mandate)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Appoints the members of the ninth-term Labour Advisory Committee.
 
 - **Issue No.:** Prakas No. 125/19 MLVT/PrK.VK
 - **Date:** 2019-04-02
 - **Status:** Unknown
 - **Category:** Fundamental Labor Law & General Administration › B. Institutional & Committee Establishments
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `79696` — full text available in the FTK document library.
 
 ## Notes
 

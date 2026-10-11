@@ -8,20 +8,20 @@ subcategory: "B. Contract Suspensions & State Subsidies"
 date: 2022-01-18
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 79996
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Ends the suspension allowance for garment, footwear, travel-goods and bag workers."
 ---
 # Termination of Subsidy Payments (Textile/Garment/Footwear/Travel Goods Sectors)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Ends the suspension allowance for garment, footwear, travel-goods and bag workers.
 
 - **Issue No.:** Notification
 - **Date:** 2022-01-18
 - **Status:** Unknown
 - **Category:** Crisis Management & COVID-19 Interventions › B. Contract Suspensions & State Subsidies
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `79996` — full text available in the FTK document library.
 
 ## Notes
 

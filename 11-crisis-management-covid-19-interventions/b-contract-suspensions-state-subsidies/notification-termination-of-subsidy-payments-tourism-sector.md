@@ -8,20 +8,20 @@ subcategory: "B. Contract Suspensions & State Subsidies"
 date: 2022-06-14
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 80048
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Ends suspension benefits for tourism workers, except Siem Reap hotels."
 ---
 # Termination of Subsidy Payments (Tourism Sector)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Ends suspension benefits for tourism workers, except Siem Reap hotels.
 
 - **Issue No.:** Notification
 - **Date:** 2022-06-14
 - **Status:** Unknown
 - **Category:** Crisis Management & COVID-19 Interventions › B. Contract Suspensions & State Subsidies
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `80048` — full text available in the FTK document library.
 
 ## Notes
 

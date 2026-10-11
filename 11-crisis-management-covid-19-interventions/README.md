@@ -26,8 +26,8 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | :---- | :---- | :---- | :---- | :---- |
 | 2020-02-28 | Instruction No. 014/20 MLVT/SNN.KhL | [Suspension of Contracts and NSSF (Raw Material Shortages)](b-contract-suspensions-state-subsidies/instruction-no-014-20-mlvt-snn-khl-suspension-of-contracts-and-nssf-raw-material.md) | Expired | `121500` |
 | 2020-04-17 | Instruction No. 045/20 MLVT/SNN.KhL | [Suspension of Contracts and NSSF (Garment/Tourism Impacts)](b-contract-suspensions-state-subsidies/instruction-no-045-20-mlvt-snn-khl-suspension-of-contracts-and-nssf-garment-tour.md) | Expired | `79774` |
-| 2022-01-18 | Notification | [Termination of Subsidy Payments (Textile/Garment/Footwear/Travel Goods Sectors)](b-contract-suspensions-state-subsidies/notification-termination-of-subsidy-payments-textile-garment-footwear-travel-goo.md) | Unknown | — |
-| 2022-06-14 | Notification | [Termination of Subsidy Payments (Tourism Sector)](b-contract-suspensions-state-subsidies/notification-termination-of-subsidy-payments-tourism-sector.md) | Unknown | — |
+| 2022-01-18 | Notification | [Termination of Subsidy Payments (Textile/Garment/Footwear/Travel Goods Sectors)](b-contract-suspensions-state-subsidies/notification-termination-of-subsidy-payments-textile-garment-footwear-travel-goo.md) | Unknown | `79996` |
+| 2022-06-14 | Notification | [Termination of Subsidy Payments (Tourism Sector)](b-contract-suspensions-state-subsidies/notification-termination-of-subsidy-payments-tourism-sector.md) | Unknown | `80048` |
 | 2023-02-22 | Notification | [Disbursal of Subsidies to Tourism Employees (Final Round)](b-contract-suspensions-state-subsidies/notification-disbursal-of-subsidies-to-tourism-employees-final-round.md) | Unknown | `121506` |
 | 2023-03-15 | Instruction No. 020/23 MLVT/SJN.KhL | [Suspension of Employment Contracts Due to Global Economic Crisis](b-contract-suspensions-state-subsidies/instruction-no-020-23-mlvt-sjn-khl-suspension-of-employment-contracts-due-to-glo.md) | Active | `161214` |
 

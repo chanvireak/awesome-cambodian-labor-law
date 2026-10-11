@@ -23,7 +23,7 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**720 regulations · 711 indexed in FTK (99%) · snapshot 2026-10-11**
+**720 regulations · 717 indexed in FTK (100%) · snapshot 2026-10-11**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
