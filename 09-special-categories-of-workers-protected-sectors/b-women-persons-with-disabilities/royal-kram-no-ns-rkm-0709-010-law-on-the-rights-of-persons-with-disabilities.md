@@ -8,20 +8,20 @@ subcategory: "B. Women & Persons with Disabilities"
 date: 2009-07-03
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121513
+ftk_indexed: true
 tags: [cambodia, labour-law, disability]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Promulgates the Law on the Protection and Promotion of the Rights of Persons with Disabilities."
 ---
 # Law on the Rights of Persons with Disabilities
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Promulgates the Law on the Protection and Promotion of the Rights of Persons with Disabilities.
 
 - **Issue No.:** Royal Kram No. NS/RKM/0709/010
 - **Date:** 2009-07-03
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › B. Women & Persons with Disabilities
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121513` — full text available in the FTK document library.
 
 ## Notes
 

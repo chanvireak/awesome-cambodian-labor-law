@@ -8,20 +8,20 @@ subcategory: "B. Work Permits & Employment Cards"
 date: 2019-03-29
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 79692
+ftk_indexed: true
 tags: [cambodia, labour-law, foreign-workers, employment-contracts]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets procedures for registering foreign workers' employment contracts."
 ---
 # Registration of Foreigners' Employment Contracts
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets procedures for registering foreign workers' employment contracts.
 
 - **Issue No.:** Instruction No. 043/19 MLVT/SNN.KhL
 - **Date:** 2019-03-29
 - **Status:** Unknown
 - **Category:** Foreign Workforce Management › B. Work Permits & Employment Cards
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `79692` — full text available in the FTK document library.
 
 ## Notes
 

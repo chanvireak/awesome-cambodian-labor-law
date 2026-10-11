@@ -2,7 +2,7 @@
 title: "Night Work Wages"
 aliases: ["Circular No. 024 MOSALVY"]
 issue_no: "Circular No. 024 MOSALVY"
-type: ផ្នែកទី៤: សារាចរ
+type: Instruction Circular
 category: "Remuneration, Seniority & Financial Benefits"
 subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 1999-10-19

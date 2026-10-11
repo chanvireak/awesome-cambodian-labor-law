@@ -2,7 +2,7 @@
 title: "Change of Arbitration Council Members (2004)"
 aliases: ["Prakas No. 029 MOSALVY"]
 issue_no: "Prakas No. 029 MOSALVY"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2004-02-09

@@ -2,7 +2,7 @@
 title: "Employment Books for Cambodian Workers"
 aliases: ["Notice No. 13 SKA"]
 issue_no: "Notice No. 13 SKA"
-type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
+type: Notice
 category: "Foreign Workforce Management"
 subcategory: "B. Work Permits & Employment Cards"
 date: 1997-05-09

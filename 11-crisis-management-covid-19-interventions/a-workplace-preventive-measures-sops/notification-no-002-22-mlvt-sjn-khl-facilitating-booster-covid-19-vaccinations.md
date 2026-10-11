@@ -8,20 +8,20 @@ subcategory: "A. Workplace Preventive Measures & SOPs"
 date: 2022-01-12
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121503
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Promotes COVID-19 booster vaccination for workers and employees."
 ---
 # Facilitating Booster COVID-19 Vaccinations
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Promotes COVID-19 booster vaccination for workers and employees.
 
 - **Issue No.:** Notification No. 002/22 MLVT/SJN.KhL
 - **Date:** 2022-01-12
 - **Status:** Unknown
 - **Category:** Crisis Management & COVID-19 Interventions › A. Workplace Preventive Measures & SOPs
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121503` — full text available in the FTK document library.
 
 ## Notes
 

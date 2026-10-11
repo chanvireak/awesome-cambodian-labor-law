@@ -8,20 +8,20 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2016-05-02
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121645
+ftk_indexed: true
 tags: [cambodia, labour-law, nssf]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires the re-registration of workers and employees under the social security scheme."
 ---
 # Registration of Employees in the NSSF
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires the re-registration of workers and employees under the social security scheme.
 
 - **Issue No.:** Notification No. 127 MLVT/SJN
 - **Date:** 2016-05-02
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121645` — full text available in the FTK document library.
 
 ## Notes
 

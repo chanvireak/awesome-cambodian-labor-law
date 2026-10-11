@@ -2,7 +2,7 @@
 title: "Appointment of Labor Advisory Committee Members (2001)"
 aliases: ["Prakas No. 328 MOSALVY"]
 issue_no: "Prakas No. 328 MOSALVY"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Fundamental Labor Law & General Administration"
 subcategory: "B. Institutional & Committee Establishments"
 date: 2001-12-13

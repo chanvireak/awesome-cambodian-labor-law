@@ -8,20 +8,20 @@ subcategory: "A. Primary Labor Law & Amendments"
 date: 2021-10-05
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121509
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Amends multiple articles of the Labour Law (the third amendment)."
 ---
 # Amendment to Multiple Articles of the Labor Law
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Amends multiple articles of the Labour Law (the third amendment).
 
 - **Issue No.:** Royal Kram No. NS/RKM/1021/011
 - **Date:** 2021-10-05
 - **Status:** Active
 - **Category:** Fundamental Labor Law & General Administration › A. Primary Labor Law & Amendments
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121509` — full text available in the FTK document library.
 
 ## Notes
 

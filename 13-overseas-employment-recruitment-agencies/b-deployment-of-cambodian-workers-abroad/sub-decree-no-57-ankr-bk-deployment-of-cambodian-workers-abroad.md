@@ -2,7 +2,7 @@
 title: "Deployment of Cambodian Workers Abroad"
 aliases: ["Sub-Decree No. 57 ANKr.BK"]
 issue_no: "Sub-Decree No. 57 ANKr.BK"
-type: ផ្នែកទី២: អនុក្រឹត្យ
+type: Sub-Decree
 category: "Overseas Employment & Recruitment Agencies"
 subcategory: "B. Deployment of Cambodian Workers Abroad"
 date: 1995-07-20

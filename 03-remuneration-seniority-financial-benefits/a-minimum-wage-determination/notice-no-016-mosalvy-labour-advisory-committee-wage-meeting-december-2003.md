@@ -2,7 +2,7 @@
 title: "Labour Advisory Committee Wage Meeting (December 2003)"
 aliases: ["Notice No. 016 MOSALVY"]
 issue_no: "Notice No. 016 MOSALVY"
-type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
+type: Notice
 category: "Remuneration, Seniority & Financial Benefits"
 subcategory: "A. Minimum Wage Determination"
 date: 2003-12-12

@@ -2,7 +2,7 @@
 title: "Appointment of the Arbitration Council (July 2004)"
 aliases: ["Prakas No. 269 MOSALVY"]
 issue_no: "Prakas No. 269 MOSALVY"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2004-07-13

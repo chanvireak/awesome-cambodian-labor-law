@@ -2,7 +2,7 @@
 title: "Organization and Functioning of the Ministry of Labour and Vocational Training"
 aliases: ["Sub-Decree No. 52 ANKr.BK"]
 issue_no: "Sub-Decree No. 52 ANKr.BK"
-type: ផ្នែកទី២: អនុក្រឹត្យ
+type: Sub-Decree
 category: "Fundamental Labor Law & General Administration"
 subcategory: "B. Institutional & Committee Establishments"
 date: 2005-04-01

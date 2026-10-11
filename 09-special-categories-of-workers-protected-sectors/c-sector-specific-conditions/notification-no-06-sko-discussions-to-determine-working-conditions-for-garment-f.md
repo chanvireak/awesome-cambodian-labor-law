@@ -5,22 +5,23 @@ issue_no: "Notification No. 06 SKO"
 type: Notification
 category: "Special Categories of Workers & Protected Sectors"
 subcategory: "C. Sector-Specific Conditions"
-date_text: Unknown
+date: 1997-03-03
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161426
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Announces the working conditions agreed for garment factory employees in Phnom Penh, including apprentice wage rates, training periods and trial conditions."
 ---
 # Discussions to Determine Working Conditions for Garment Factory Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Announces the working conditions agreed for garment factory employees in Phnom Penh, including apprentice wage rates, training periods and trial conditions.
 
 - **Issue No.:** Notification No. 06 SKO
+- **Date:** 1997-03-03
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › C. Sector-Specific Conditions
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161426` — full text available in the FTK document library.
 
 ## Notes
 

@@ -9,9 +9,9 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 | 1997-03-13 | Royal Kram No. CS/RKM/0397/01 | [Labor Law](a-primary-labor-law-amendments/royal-kram-no-cs-rkm-0397-01-labor-law.md) | Active | `142734` |
-| 2007-07-20 | Royal Kram No. NS/RKM/0707/020 | [Amendment to Articles 139 and 144 of the Labor Law](a-primary-labor-law-amendments/royal-kram-no-ns-rkm-0707-020-amendment-to-articles-139-and-144-of-the-labor-law.md) | Active | — |
+| 2007-07-20 | Royal Kram No. NS/RKM/0707/020 | [Amendment to Articles 139 and 144 of the Labor Law](a-primary-labor-law-amendments/royal-kram-no-ns-rkm-0707-020-amendment-to-articles-139-and-144-of-the-labor-law.md) | Active | `121508` |
 | 2018-06-26 | Royal Kram No. NS/RKM/0618/010 | [Amendment to Multiple Articles of the Labor Law](a-primary-labor-law-amendments/royal-kram-no-ns-rkm-0618-010-amendment-to-multiple-articles-of-the-labor-law.md) | Active | `121507` |
-| 2021-10-05 | Royal Kram No. NS/RKM/1021/011 | [Amendment to Multiple Articles of the Labor Law](a-primary-labor-law-amendments/royal-kram-no-ns-rkm-1021-011-amendment-to-multiple-articles-of-the-labor-law.md) | Active | — |
+| 2021-10-05 | Royal Kram No. NS/RKM/1021/011 | [Amendment to Multiple Articles of the Labor Law](a-primary-labor-law-amendments/royal-kram-no-ns-rkm-1021-011-amendment-to-multiple-articles-of-the-labor-law.md) | Active | `121509` |
 
 ## B. Institutional & Committee Establishments
 
@@ -51,5 +51,5 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2003-07-09 | Notification No. 11 MOSALVY | [Requirements for Civil Status Documents in Job Applications to Verify Employee Minimum Age](c-general-administration-public-services/notification-no-11-mosalvy-requirements-for-civil-status-documents-in-job-applic.md) | Unknown | `161439` |
 | 2010-09-13 | Sub-Decree No. 117 | [Collection and Compilation of Labour Market Information](c-general-administration-public-services/sub-decree-no-117-collection-and-compilation-of-labour-market-information.md) | Active | `161294` |
 | 2013-06-17 | Circular No. 10 | [Delegation of Tasks to Provincial Governors for Factory Management](c-general-administration-public-services/circular-no-10-delegation-of-tasks-to-provincial-governors-for-factory-managemen.md) | Active | `160796` |
-| 2023-03-02 | Notification No. 004/23 MLVT/SJN.MH | [Deadline and Procedures for Issuance and Renewal of Foreigner Work Permits and Employment Books](c-general-administration-public-services/notification-no-004-23-mlvt-sjn-mh-deadline-and-procedures-for-issuance-and-rene.md) | Unknown | — |
+| 2023-03-02 | Notification No. 004/23 MLVT/SJN.MH | [Deadline and Procedures for Issuance and Renewal of Foreigner Work Permits and Employment Books](c-general-administration-public-services/notification-no-004-23-mlvt-sjn-mh-deadline-and-procedures-for-issuance-and-rene.md) | Unknown | `121650` |
 | 2025-03-13 | Inter-Ministerial Prakas No. 193 MEF.PrK | [Provision of Public Services by MLVT](c-general-administration-public-services/inter-ministerial-prakas-no-193-mef-prk-provision-of-public-services-by-mlvt.md) | Unknown | `117130` |

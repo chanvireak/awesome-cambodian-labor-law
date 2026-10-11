@@ -42,7 +42,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2017-12-07 | Notice No. 338 | [Extension of Deadline to Apply for Foreign Labour Use for 2018](b-work-permits-employment-cards/notice-no-338-extension-of-deadline-to-apply-for-foreign-labour-use-for-2018.md) | Active | `161332` |
 | 2018-01-09 | Notice No. 001/18 | [Registration of Private Domestic Job Placement Agencies](b-work-permits-employment-cards/notice-no-001-18-registration-of-private-domestic-job-placement-agencies.md) | Active | `161333` |
 | 2019-03-27 | Notice No. 008/19 | [Extension of Validity of Foreigners' Work Cards and Work Books](b-work-permits-employment-cards/notice-no-008-19-extension-of-validity-of-foreigners-work-cards-and-work-books.md) | Active | `161334` |
-| 2019-03-29 | Instruction No. 043/19 MLVT/SNN.KhL | [Registration of Foreigners' Employment Contracts](b-work-permits-employment-cards/instruction-no-043-19-mlvt-snn-khl-registration-of-foreigners-employment-contrac.md) | Unknown | — |
+| 2019-03-29 | Instruction No. 043/19 MLVT/SNN.KhL | [Registration of Foreigners' Employment Contracts](b-work-permits-employment-cards/instruction-no-043-19-mlvt-snn-khl-registration-of-foreigners-employment-contrac.md) | Unknown | `79692` |
 | 2019-04-30 | Notification No. 012/19 MLVT/SJN.MH | [Foreigner Work Permits and Employment Cards (New Format)](b-work-permits-employment-cards/notification-no-012-19-mlvt-sjn-mh-foreigner-work-permits-and-employment-cards-n.md) | Unknown | `143014` |
 | 2019-11-22 | Notice No. 042/19 | [Extension of Deadline to Apply for Foreign Labour Use for 2020](b-work-permits-employment-cards/notice-no-042-19-extension-of-deadline-to-apply-for-foreign-labour-use-for-2020.md) | Active | `161337` |
 | 2023-06-06 | Notice No. 018/23 | [Warning on Fraudulent Recruitment and Money Collection from Citizens](b-work-permits-employment-cards/notice-no-018-23-warning-on-fraudulent-recruitment-and-money-collection-from-cit.md) | Active | `161344` |
@@ -51,7 +51,6 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2023-12-28 | Instruction No. 110/23 MLVT/SNN.MH | [Work Permits for Foreign Employers/Shareholders named on a Patent Tax Certificate](b-work-permits-employment-cards/instruction-no-110-23-mlvt-snn-mh-work-permits-for-foreign-employers-shareholder.md) | Unknown | `161354` |
 | 2025-05-05 | Notice No. 015/25 | [Application to Extend Validity of Foreigners' Work Permits and Workbooks 2025](b-work-permits-employment-cards/notice-no-015-25-application-to-extend-validity-of-foreigners-work-permits-and-w.md) | Active | `161365` |
 | 2025-05-06 | Notice No. 15/25 MLVT/SJN.MH | [Extension of Foreign Work Permit and Employment Card Validity 2025](b-work-permits-employment-cards/notice-no-15-25-mlvt-sjn-mh-extension-of-foreign-work-permit-and-employment-card.md) | Expired | `142988` |
-| 2025-05-06 | Notification (Unnumbered) | [Extension of Deadline for 2025 Work Permits](b-work-permits-employment-cards/notification-unnumbered-extension-of-deadline-for-2025-work-permits.md) | Active | — |
 | 2025-12-24 | Notice No. 038/25 MLVT/SJN.MH | [Applications for Foreign Work Permits and Work Books for 2026](b-work-permits-employment-cards/notice-no-038-25-mlvt-sjn-mh-applications-for-foreign-work-permits-and-work-book.md) | Active | `142955` |
 
 ## C. Enforcement & Penalties
@@ -60,4 +59,4 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | :---- | :---- | :---- | :---- | :---- |
 | 2014-07-16 | Prakas No. 2662 | [Foreign Labour Inspection in the Kingdom of Cambodia](c-enforcement-penalties/prakas-no-2662-foreign-labour-inspection-in-the-kingdom-of-cambodia.md) | Repealed | `161312` |
 | 2016-03-10 | Prakas No. 2703 | [Strengthening Foreign Labour Inspection in the Kingdom of Cambodia](c-enforcement-penalties/prakas-no-2703-strengthening-foreign-labour-inspection-in-the-kingdom-of-cambodi.md) | Repealed | `161318` |
-| 2023-01-17 | Guidelines No. 517 MLVT/AK | [Penalties for Employing Foreign Labor without Permits](c-enforcement-penalties/guidelines-no-517-mlvt-ak-penalties-for-employing-foreign-labor-without-permits.md) | Unknown | — |
+| 2023-01-17 | Guidelines No. 517 MLVT/AK | [Penalties for Employing Foreign Labor without Permits](c-enforcement-penalties/guidelines-no-517-mlvt-ak-penalties-for-employing-foreign-labor-without-permits.md) | Unknown | `121651` |

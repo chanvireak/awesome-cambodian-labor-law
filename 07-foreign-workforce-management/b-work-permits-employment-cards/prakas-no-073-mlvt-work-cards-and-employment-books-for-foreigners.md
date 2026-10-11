@@ -2,7 +2,7 @@
 title: "Work Cards and Employment Books for Foreigners"
 aliases: ["Prakas No. 073 MLVT"]
 issue_no: "Prakas No. 073 MLVT"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Foreign Workforce Management"
 subcategory: "B. Work Permits & Employment Cards"
 date: 2005-03-23

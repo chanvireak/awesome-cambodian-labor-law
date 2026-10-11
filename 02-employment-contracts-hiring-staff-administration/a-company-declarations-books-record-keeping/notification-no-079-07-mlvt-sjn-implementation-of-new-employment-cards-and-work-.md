@@ -8,20 +8,20 @@ subcategory: "A. Company Declarations, Books & Record Keeping"
 date: 2007-05-18
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121644
+ftk_indexed: true
 tags: [cambodia, labour-law, work-permits]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Announces the implementation of new employment cards and work permits."
 ---
 # Implementation of New Employment Cards and Work Permits
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Announces the implementation of new employment cards and work permits.
 
 - **Issue No.:** Notification No. 079/07 MLVT/SJN
 - **Date:** 2007-05-18
 - **Status:** Unknown
 - **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121644` — full text available in the FTK document library.
 
 ## Notes
 

@@ -2,7 +2,7 @@
 title: "Labour Advisory Committee Wage Meeting (July 2000)"
 aliases: ["Notice No. 017 MOSALVY"]
 issue_no: "Notice No. 017 MOSALVY"
-type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
+type: Notice
 category: "Remuneration, Seniority & Financial Benefits"
 subcategory: "A. Minimum Wage Determination"
 date: 2000-07-18

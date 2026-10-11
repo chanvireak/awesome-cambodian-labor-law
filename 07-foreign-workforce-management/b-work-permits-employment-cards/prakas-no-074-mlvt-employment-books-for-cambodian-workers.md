@@ -2,7 +2,7 @@
 title: "Employment Books for Cambodian Workers"
 aliases: ["Prakas No. 074 MLVT"]
 issue_no: "Prakas No. 074 MLVT"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Foreign Workforce Management"
 subcategory: "B. Work Permits & Employment Cards"
 date: 2005-03-23

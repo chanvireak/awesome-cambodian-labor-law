@@ -2,7 +2,7 @@
 title: "Labor Inspection Posts in Phnom Penh Districts"
 aliases: ["Prakas No. 237 MOSALVY"]
 issue_no: "Prakas No. 237 MOSALVY"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Compliance, Labor Inspections & Penalties"
 subcategory: "A. Inspection Frameworks & Inspector Conduct"
 date: 2001-09-27

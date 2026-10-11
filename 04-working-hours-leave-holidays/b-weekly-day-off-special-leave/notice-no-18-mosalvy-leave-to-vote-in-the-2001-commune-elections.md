@@ -2,7 +2,7 @@
 title: "Leave to Vote in the 2001 Commune Elections"
 aliases: ["Notice No. 18 MOSALVY"]
 issue_no: "Notice No. 18 MOSALVY"
-type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
+type: Notice
 category: "Working Hours, Leave & Holidays"
 subcategory: "B. Weekly Day Off & Special Leave"
 date: 2001-07-17

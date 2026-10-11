@@ -2,7 +2,7 @@
 title: "Appointment of the Arbitration Council (April 2004)"
 aliases: ["Prakas No. 103 MOSALVY"]
 issue_no: "Prakas No. 103 MOSALVY"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2004-04-26

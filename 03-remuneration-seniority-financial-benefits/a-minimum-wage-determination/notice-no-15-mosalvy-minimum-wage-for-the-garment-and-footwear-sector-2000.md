@@ -2,7 +2,7 @@
 title: "Minimum Wage for the Garment and Footwear Sector (2000)"
 aliases: ["Notice No. 15 MOSALVY"]
 issue_no: "Notice No. 15 MOSALVY"
-type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
+type: Notice
 category: "Remuneration, Seniority & Financial Benefits"
 subcategory: "A. Minimum Wage Determination"
 date: 2000-06-22

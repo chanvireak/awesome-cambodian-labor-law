@@ -8,20 +8,20 @@ subcategory: "B. General Workplace Hygiene, Environment & Safety"
 date: 2017-12-25
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121676
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets measures to prevent fainting caused by indoor and outdoor working environments."
 ---
 # Preventing Fainting Due to Internal/External Environments
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets measures to prevent fainting caused by indoor and outdoor working environments.
 
 - **Issue No.:** Notification No. 356 MLVT/SJN.PK
 - **Date:** 2017-12-25
 - **Status:** Unknown
 - **Category:** Occupational Safety and Health (OSH) › B. General Workplace Hygiene, Environment & Safety
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121676` — full text available in the FTK document library.
 
 ## Notes
 

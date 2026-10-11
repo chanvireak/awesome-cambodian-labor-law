@@ -8,20 +8,20 @@ subcategory: "B. Contract Suspensions & State Subsidies"
 date: 2020-02-28
 status: "Expired"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121500
+ftk_indexed: true
 tags: [cambodia, labour-law, nssf, employment-contracts]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets procedures for suspending employment contracts and NSSF contributions during raw-material shortages."
 ---
 # Suspension of Contracts and NSSF (Raw Material Shortages)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets procedures for suspending employment contracts and NSSF contributions during raw-material shortages.
 
 - **Issue No.:** Instruction No. 014/20 MLVT/SNN.KhL
 - **Date:** 2020-02-28
 - **Status:** Expired
 - **Category:** Crisis Management & COVID-19 Interventions › B. Contract Suspensions & State Subsidies
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121500` — full text available in the FTK document library.
 
 ## Notes
 

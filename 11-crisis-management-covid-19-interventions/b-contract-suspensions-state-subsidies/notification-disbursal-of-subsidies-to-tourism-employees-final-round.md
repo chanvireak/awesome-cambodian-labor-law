@@ -8,20 +8,20 @@ subcategory: "B. Contract Suspensions & State Subsidies"
 date: 2023-02-22
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121506
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Announces the final round of government subsidy payments to suspended tourism-sector workers."
 ---
 # Disbursal of Subsidies to Tourism Employees (Final Round)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Announces the final round of government subsidy payments to suspended tourism-sector workers.
 
 - **Issue No.:** Notification
 - **Date:** 2023-02-22
 - **Status:** Unknown
 - **Category:** Crisis Management & COVID-19 Interventions › B. Contract Suspensions & State Subsidies
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121506` — full text available in the FTK document library.
 
 ## Notes
 

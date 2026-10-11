@@ -8,20 +8,20 @@ subcategory: "C. Enforcement & Penalties"
 date: 2023-01-17
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121651
+ftk_indexed: true
 tags: [cambodia, labour-law, foreign-workers]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets the penalties for employing foreign labour without a work permit."
 ---
 # Penalties for Employing Foreign Labor without Permits
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets the penalties for employing foreign labour without a work permit.
 
 - **Issue No.:** Guidelines No. 517 MLVT/AK
 - **Date:** 2023-01-17
 - **Status:** Unknown
 - **Category:** Foreign Workforce Management › C. Enforcement & Penalties
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121651` — full text available in the FTK document library.
 
 ## Notes
 

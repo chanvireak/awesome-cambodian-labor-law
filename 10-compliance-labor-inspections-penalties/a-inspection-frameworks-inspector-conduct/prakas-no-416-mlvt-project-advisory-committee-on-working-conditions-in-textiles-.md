@@ -2,7 +2,7 @@
 title: "Project Advisory Committee on Working Conditions in Textiles and Garments"
 aliases: ["Prakas No. 416 MLVT"]
 issue_no: "Prakas No. 416 MLVT"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Compliance, Labor Inspections & Penalties"
 subcategory: "A. Inspection Frameworks & Inspector Conduct"
 date: 2004-11-18

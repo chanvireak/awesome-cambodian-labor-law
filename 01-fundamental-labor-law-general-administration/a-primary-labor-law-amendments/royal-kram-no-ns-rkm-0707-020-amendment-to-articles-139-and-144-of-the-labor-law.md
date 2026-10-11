@@ -8,20 +8,20 @@ subcategory: "A. Primary Labor Law & Amendments"
 date: 2007-07-20
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121508
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Amends Articles 139 and 144 of the Labour Law."
 ---
 # Amendment to Articles 139 and 144 of the Labor Law
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Amends Articles 139 and 144 of the Labour Law.
 
 - **Issue No.:** Royal Kram No. NS/RKM/0707/020
 - **Date:** 2007-07-20
 - **Status:** Active
 - **Category:** Fundamental Labor Law & General Administration › A. Primary Labor Law & Amendments
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121508` — full text available in the FTK document library.
 
 ## Notes
 

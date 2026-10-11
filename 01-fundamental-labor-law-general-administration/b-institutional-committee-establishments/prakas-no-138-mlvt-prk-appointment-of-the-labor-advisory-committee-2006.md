@@ -2,7 +2,7 @@
 title: "Appointment of the Labor Advisory Committee (2006)"
 aliases: ["Prakas No. 138 MLVT/PrK"]
 issue_no: "Prakas No. 138 MLVT/PrK"
-type: ផ្នែកទី៦: ប្រកាសថ្មី
+type: Prakas
 category: "Fundamental Labor Law & General Administration"
 subcategory: "B. Institutional & Committee Establishments"
 date: 2006-07-07

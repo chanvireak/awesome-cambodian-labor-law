@@ -2,7 +2,7 @@
 title: "Work Cards and Employment Books for Foreign Workers"
 aliases: ["Notice No. 12 SKA"]
 issue_no: "Notice No. 12 SKA"
-type: ផ្នែកទី៥: សេចក្តីជូនដំណឹង
+type: Notice
 category: "Foreign Workforce Management"
 subcategory: "B. Work Permits & Employment Cards"
 date: 1997-05-29

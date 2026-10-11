@@ -8,20 +8,20 @@ subcategory: "A. Inspection Frameworks & Inspector Conduct"
 date: 2020-02-27
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 79756
+ftk_indexed: true
 tags: [cambodia, labour-law, labour-inspection]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Establishes an inter-ministerial inspection team for the manufacturing sector."
 ---
 # Inter-Ministerial Inspection Team (Manufacturing)
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Establishes an inter-ministerial inspection team for the manufacturing sector.
 
 - **Issue No.:** Inter-Ministerial Prakas No. 073/20 MLVT/PrK.KhL
 - **Date:** 2020-02-27
 - **Status:** Unknown
 - **Category:** Compliance, Labor Inspections & Penalties › A. Inspection Frameworks & Inspector Conduct
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `79756` — full text available in the FTK document library.
 
 ## Notes
 

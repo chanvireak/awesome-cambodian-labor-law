@@ -8,20 +8,20 @@ subcategory: "B. Audits, Self-Declarations & Automated Systems"
 date: 2020-12-31
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121626
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Launches automated public services for labour and vocational training."
 ---
 # Public Services Related to Labor via Automated System
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Launches automated public services for labour and vocational training.
 
 - **Issue No.:** Prakas No. 430/20 MLVT/PrK.KhL
 - **Date:** 2020-12-31
 - **Status:** Unknown
 - **Category:** Compliance, Labor Inspections & Penalties › B. Audits, Self-Declarations & Automated Systems
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121626` — full text available in the FTK document library.
 
 ## Notes
 

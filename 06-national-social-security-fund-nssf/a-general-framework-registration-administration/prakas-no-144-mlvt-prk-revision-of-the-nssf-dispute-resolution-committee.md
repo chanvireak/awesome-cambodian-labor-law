@@ -8,20 +8,20 @@ subcategory: "A. General Framework, Registration & Administration"
 date: 2014-06-27
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121588
+ftk_indexed: true
 tags: [cambodia, labour-law, nssf, dispute-resolution]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Amends the composition of the NSSF dispute resolution committee."
 ---
 # Revision of the NSSF Dispute Resolution Committee
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Amends the composition of the NSSF dispute resolution committee.
 
 - **Issue No.:** Prakas No. 144 MLVT/PrK
 - **Date:** 2014-06-27
 - **Status:** Unknown
 - **Category:** National Social Security Fund (NSSF) › A. General Framework, Registration & Administration
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121588` — full text available in the FTK document library.
 
 ## Notes
 

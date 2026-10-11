@@ -2,7 +2,7 @@
 title: "Appointment of the Arbitration Council (2005)"
 aliases: ["Prakas No. 513 MLVT"]
 issue_no: "Prakas No. 513 MLVT"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2005-04-19

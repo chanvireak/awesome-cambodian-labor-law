@@ -8,20 +8,20 @@ subcategory: "A. Child Labor & Minors"
 date: 2019-06-05
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 121673
+ftk_indexed: true
 tags: [cambodia, labour-law, child-labour, brick-kilns]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Prohibits the employment of children in brick production areas."
 ---
 # Prohibiting Children in Brick Production Areas
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Prohibits the employment of children in brick production areas.
 
 - **Issue No.:** Instruction No. 056/19 MLVT/SNN.KhL
 - **Date:** 2019-06-05
 - **Status:** Active
 - **Category:** Special Categories of Workers & Protected Sectors › A. Child Labor & Minors
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `121673` — full text available in the FTK document library.
 
 ## Notes
 

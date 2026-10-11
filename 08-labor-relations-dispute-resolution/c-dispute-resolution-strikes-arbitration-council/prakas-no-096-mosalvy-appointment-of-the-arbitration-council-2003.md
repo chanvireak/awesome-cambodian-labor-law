@@ -2,7 +2,7 @@
 title: "Appointment of the Arbitration Council (2003)"
 aliases: ["Prakas No. 096 MOSALVY"]
 issue_no: "Prakas No. 096 MOSALVY"
-type: ផ្នែកទី៣: ប្រកាស
+type: Prakas
 category: "Labor Relations & Dispute Resolution"
 subcategory: "C. Dispute Resolution, Strikes & Arbitration Council"
 date: 2003-03-12
