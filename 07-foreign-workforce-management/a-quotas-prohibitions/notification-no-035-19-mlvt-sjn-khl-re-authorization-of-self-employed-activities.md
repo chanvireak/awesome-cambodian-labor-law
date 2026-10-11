@@ -8,20 +8,20 @@ subcategory: "A. Quotas & Prohibitions"
 date: 2019-10-05
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161336
+ftk_indexed: true
 tags: [cambodia, labour-law, foreign-workers]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires foreigners to obtain re-authorisation before resuming self-employed activities."
 ---
 # Re-authorization of Self-Employed Activities by Foreigners
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires foreigners to obtain re-authorisation before resuming self-employed activities.
 
 - **Issue No.:** Notification No. 035/19 MLVT/SJN.KhL
 - **Date:** 2019-10-05
 - **Status:** Unknown
 - **Category:** Foreign Workforce Management › A. Quotas & Prohibitions
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161336` — full text available in the FTK document library.
 
 ## Notes
 

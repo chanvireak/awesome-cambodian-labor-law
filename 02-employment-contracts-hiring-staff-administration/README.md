@@ -9,13 +9,13 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 | 2000-12-27 | Instruction No. 26 MOSALVY | [Notification of Job Vacancies](a-company-declarations-books-record-keeping/instruction-no-26-mosalvy-notification-of-job-vacancies.md) | Unknown | — |
-| 2000-12-28 | Notification No. 27 MOSALVY | [Declaration of Staff Movements](a-company-declarations-books-record-keeping/notification-no-27-mosalvy-declaration-of-staff-movements.md) | Unknown | — |
-| 2001-03-20 | Joint Prakas No. 56 MOSALVY | [Taxes for Work Permits and Employment Cards](a-company-declarations-books-record-keeping/joint-prakas-no-56-mosalvy-taxes-for-work-permits-and-employment-cards.md) | Unknown | — |
+| 2000-12-28 | Notification No. 27 MOSALVY | [Declaration of Staff Movements](a-company-declarations-books-record-keeping/notification-no-27-mosalvy-declaration-of-staff-movements.md) | Unknown | `161329` |
+| 2001-03-20 | Joint Prakas No. 56 MOSALVY | [Taxes for Work Permits and Employment Cards](a-company-declarations-books-record-keeping/joint-prakas-no-56-mosalvy-taxes-for-work-permits-and-employment-cards.md) | Unknown | `161299` |
 | 2001-10-11 | Prakas No. 268 MOSALVY | [Establishment's Payroll Ledger/Declaration Book](a-company-declarations-books-record-keeping/prakas-no-268-mosalvy-establishment-s-payroll-ledger-declaration-book.md) | Superseded | `161154` |
 | 2001-10-11 | Prakas No. 269 MOSALVY | [Establishment of the Payroll Ledger](a-company-declarations-books-record-keeping/prakas-no-269-mosalvy-establishment-of-the-payroll-ledger.md) | Superseded | `161155` |
 | 2001-11-05 | Prakas No. 288 MOSALVY | [Declaration of Opening and Closing of Enterprises](a-company-declarations-books-record-keeping/prakas-no-288-mosalvy-declaration-of-opening-and-closing-of-enterprises.md) | Superseded | `161156` |
 | 2007-05-18 | Notification No. 079/07 MLVT/SJN | [Implementation of New Employment Cards and Work Permits](a-company-declarations-books-record-keeping/notification-no-079-07-mlvt-sjn-implementation-of-new-employment-cards-and-work-.md) | Unknown | — |
-| 2014-08-20 | Prakas No. 197 MLVT/PrK | [Employment Cards for Cambodian Employees](a-company-declarations-books-record-keeping/prakas-no-197-mlvt-prk-employment-cards-for-cambodian-employees.md) | Unknown | — |
+| 2014-08-20 | Prakas No. 197 MLVT/PrK | [Employment Cards for Cambodian Employees](a-company-declarations-books-record-keeping/prakas-no-197-mlvt-prk-employment-cards-for-cambodian-employees.md) | Unknown | `161315` |
 | 2025-05-05 | Prakas No. 110/25 | [Notification of Opening, Restructuring, or Closure](a-company-declarations-books-record-keeping/prakas-no-110-25-notification-of-opening-restructuring-or-closure.md) | Active | `142640` |
 | 2025-05-06 | Prakas No. 111/25 | [Enterprise Payroll Ledger & LACMS Integration](a-company-declarations-books-record-keeping/prakas-no-111-25-enterprise-payroll-ledger-lacms-integration.md) | Active | `142639` |
 | 2025-05-06 | Prakas No. 113/25 | [Enterprise Establishment Book & QR Codes](a-company-declarations-books-record-keeping/prakas-no-113-25-enterprise-establishment-book-qr-codes.md) | Active | `142637` |

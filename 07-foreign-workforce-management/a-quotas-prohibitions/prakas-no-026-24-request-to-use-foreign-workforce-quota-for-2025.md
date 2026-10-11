@@ -8,20 +8,20 @@ subcategory: "A. Quotas & Prohibitions"
 date: 2024-09-11
 status: "Expired"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161362
+ftk_indexed: true
 tags: [cambodia, labour-law, foreign-workers]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets out procedures for requesting authorisation to employ foreign labour."
 ---
 # Request to Use Foreign Workforce Quota for 2025
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets out procedures for requesting authorisation to employ foreign labour.
 
 - **Issue No.:** Prakas No. 026/24
 - **Date:** 2024-09-11
 - **Status:** Expired
 - **Category:** Foreign Workforce Management › A. Quotas & Prohibitions
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161362` — full text available in the FTK document library.
 
 ## Notes
 

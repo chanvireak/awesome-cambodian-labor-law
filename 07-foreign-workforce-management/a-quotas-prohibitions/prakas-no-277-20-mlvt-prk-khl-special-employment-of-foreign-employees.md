@@ -8,20 +8,20 @@ subcategory: "A. Quotas & Prohibitions"
 date: 2020-08-14
 status: "Active"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161325
+ftk_indexed: true
 tags: [cambodia, labour-law, foreign-workers]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Sets out conditions for employing foreign workers on a special basis."
 ---
 # Special Employment of Foreign Employees
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Sets out conditions for employing foreign workers on a special basis.
 
 - **Issue No.:** Prakas No. 277/20 MLVT/PrK.KhL
 - **Date:** 2020-08-14
 - **Status:** Active
 - **Category:** Foreign Workforce Management › A. Quotas & Prohibitions
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161325` — full text available in the FTK document library.
 
 ## Notes
 
