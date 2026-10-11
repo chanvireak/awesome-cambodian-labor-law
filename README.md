@@ -23,7 +23,7 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**688 regulations · 633 indexed in FTK (92%) · snapshot 2026-10-11**
+**697 regulations · 644 indexed in FTK (92%) · snapshot 2026-10-11**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
@@ -35,7 +35,7 @@ This is the trust signal: the summary you read here was derived from the documen
 | 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 7 | 172 |
 | 7 | [Foreign Workforce Management](07-foreign-workforce-management/README.md) | 3 | 39 |
 | 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 54 |
-| 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 20 |
+| 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 29 |
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 35 |
 | 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 18 |
 | 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 145 |

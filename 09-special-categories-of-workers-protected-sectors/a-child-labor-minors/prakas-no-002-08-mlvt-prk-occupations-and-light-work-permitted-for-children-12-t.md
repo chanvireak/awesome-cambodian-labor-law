@@ -8,20 +8,20 @@ subcategory: "A. Child Labor & Minors"
 date: 2008-01-08
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161384
+ftk_indexed: true
 tags: [cambodia, labour-law, child-labour, work-permits]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Lists the occupations and the light work that children aged 12 to 15 may perform."
 ---
 # Occupations and Light Work Permitted for Children 12 to 15
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Lists the occupations and the light work that children aged 12 to 15 may perform.
 
 - **Issue No.:** Prakas No. 002/08 MLVT/PrK
 - **Date:** 2008-01-08
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › A. Child Labor & Minors
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161384` — full text available in the FTK document library.
 
 ## Notes
 

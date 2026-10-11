@@ -8,20 +8,20 @@ subcategory: "A. Child Labor & Minors"
 date: 2002-06-10
 status: "Unknown"
 jurisdiction: Cambodia
-ftk_doc_id: 
-ftk_indexed: false
+ftk_doc_id: 161377
+ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Not yet indexed in the FTK library — listed here for completeness."
+summary: "Requires vocational training for minors permitted to work underground."
 ---
 # Vocational Training for Minors Working Underground
 
-> **Summary.** Not yet indexed in the FTK library — listed here for completeness.
+> **Summary.** Requires vocational training for minors permitted to work underground.
 
 - **Issue No.:** Prakas No. 145 MOSALVY
 - **Date:** 2002-06-10
 - **Status:** Unknown
 - **Category:** Special Categories of Workers & Protected Sectors › A. Child Labor & Minors
-- **FTK document ID:** — not yet indexed in the FTK library.
+- **FTK document ID:** `161377` — full text available in the FTK document library.
 
 ## Notes
 
