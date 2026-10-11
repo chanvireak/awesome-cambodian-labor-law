@@ -17,8 +17,10 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 2005-01-17 | Royal Kram No. NS/RKM/0105/003 | [Establishment of the MLVT](b-institutional-committee-establishments/royal-kram-no-ns-rkm-0105-003-establishment-of-the-mlvt.md) | Unknown | — |
+| 2001-12-13 | Prakas No. 328 MOSALVY | [Appointment of Labor Advisory Committee Members (2001)](b-institutional-committee-establishments/prakas-no-328-mosalvy-appointment-of-labor-advisory-committee-members-2001.md) | Active | `161396` |
+| 2005-01-17 | Royal Kram No. NS/RKM/0105/003 | [Establishment of the MLVT](b-institutional-committee-establishments/royal-kram-no-ns-rkm-0105-003-establishment-of-the-mlvt.md) | Unknown | `161394` |
 | 2006-05-11 | Sub-Decree No. 47 ANKr.BK | [Composition and Functioning of the Labor Advisory Committee](b-institutional-committee-establishments/sub-decree-no-47-ankr-bk-composition-and-functioning-of-the-labor-advisory-commi.md) | Active | `160754` |
+| 2006-07-07 | Prakas No. 138 MLVT/PrK | [Appointment of the Labor Advisory Committee (2006)](b-institutional-committee-establishments/prakas-no-138-mlvt-prk-appointment-of-the-labor-advisory-committee-2006.md) | Active | `161405` |
 | 2009-04-27 | Sub-Decree No. 67 | [Establishment and Operation of the National Employment Agency](b-institutional-committee-establishments/sub-decree-no-67-establishment-and-operation-of-the-national-employment-agency.md) | Active | `161293` |
 | 2014-03-07 | Prakas No. 001 | [Organisation and Functioning of the Departmental Offices of the General Secretariat](b-institutional-committee-establishments/prakas-no-001-organisation-and-functioning-of-the-departmental-offices-of-the-ge.md) | Active | `160770` |
 | 2014-11-14 | Sub-Decree No. 283 ANKr.BK | [Organization and Functioning of the MLVT](b-institutional-committee-establishments/sub-decree-no-283-ankr-bk-organization-and-functioning-of-the-mlvt.md) | Repealed | `143046` |

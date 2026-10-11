@@ -8,6 +8,8 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
+| 2001-09-27 | Prakas No. 237 MOSALVY | [Labor Inspection Posts in Phnom Penh Districts](a-inspection-frameworks-inspector-conduct/prakas-no-237-mosalvy-labor-inspection-posts-in-phnom-penh-districts.md) | Active | `161395` |
+| 2004-11-18 | Prakas No. 416 MLVT | [Project Advisory Committee on Working Conditions in Textiles and Garments](a-inspection-frameworks-inspector-conduct/prakas-no-416-mlvt-project-advisory-committee-on-working-conditions-in-textiles-.md) | Active | `161400` |
 | 2014-02-21 | Prakas No. 036/14 | [Uniform Specifications for the Single Labour Inspector](a-inspection-frameworks-inspector-conduct/prakas-no-036-14-uniform-specifications-for-the-single-labour-inspector.md) | Active | `161166` |
 | 2014-02-21 | Prakas No. 037/14 | [Establishment of the Single Labour Inspection Team](a-inspection-frameworks-inspector-conduct/prakas-no-037-14-establishment-of-the-single-labour-inspection-team.md) | Active | `161167` |
 | 2016-07-12 | Sub-Decree No. 140 | [Uniforms, Identification Badges, and Rank Insignia for Labour Inspectors](a-inspection-frameworks-inspector-conduct/sub-decree-no-140-uniforms-identification-badges-and-rank-insignia-for-labour-in.md) | Active | `161148` |
