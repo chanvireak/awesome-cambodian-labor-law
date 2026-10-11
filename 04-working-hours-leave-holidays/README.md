@@ -8,7 +8,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 1999-03-01 | Prakas No. 080/99 MOSALVY | [Overtime Work Beyond Normal Working Hours](a-working-hours-overtime-protocols/prakas-no-080-99-mosalvy-overtime-work-beyond-normal-working-hours.md) | Repealed | `121549` |
+| 1999-03-01 | Prakas No. 080/99 MOSALVY | [Overtime Work Beyond Normal Working Hours](a-working-hours-overtime-protocols/prakas-no-080-99-mosalvy-overtime-work-beyond-normal-working-hours.md) | Superseded | `121549` |
 | 1999-08-06 | Notification No. 014 MOSALVY | [Excessive Overtime Causing Occupational Accidents](a-working-hours-overtime-protocols/notification-no-014-mosalvy-excessive-overtime-causing-occupational-accidents.md) | Unknown | — |
 | 2001-11-29 | Prakas No. 316 MOSALVY | [Employment Outside Standard Working Hours](a-working-hours-overtime-protocols/prakas-no-316-mosalvy-employment-outside-standard-working-hours.md) | Unknown | `161158` |
 | 2002-06-10 | Prakas No. 142 MOSALVY | [Distribution of Weekly Hours for Saturday Afternoon Time Off](a-working-hours-overtime-protocols/prakas-no-142-mosalvy-distribution-of-weekly-hours-for-saturday-afternoon-time-o.md) | Unknown | `161160` |
@@ -20,7 +20,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
 | 2001-10-11 | Prakas No. 267 MOSALVY | [Special Leave](b-weekly-day-off-special-leave/prakas-no-267-mosalvy-special-leave.md) | Unknown | `134741` |
-| 2002-04-11 | Prakas No. 100/02 MOSALVY | [Suspension of Weekly Day Off](b-weekly-day-off-special-leave/prakas-no-100-02-mosalvy-suspension-of-weekly-day-off.md) | Repealed | `161159` |
+| 2002-04-11 | Prakas No. 100/02 MOSALVY | [Suspension of Weekly Day Off](b-weekly-day-off-special-leave/prakas-no-100-02-mosalvy-suspension-of-weekly-day-off.md) | Superseded | `161159` |
 | 2020-02-21 | Instruction No. 010/20 MLVT/SNN.KhL | [Payment for Special Leaves](b-weekly-day-off-special-leave/instruction-no-010-20-mlvt-snn-khl-payment-for-special-leaves.md) | Unknown | `161212` |
 
 ## C. Public Holidays
@@ -40,10 +40,10 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2020-07-16 | Prakas No. 242/20 | [Compensatory Leave 17-21 August 2020 for Khmer New Year](c-public-holidays/prakas-no-242-20-compensatory-leave-17-21-august-2020-for-khmer-new-year.md) | Active | `161180` |
 | 2020-12-03 | Prakas No. 397/20 | [Paid Public Holidays for 2021](c-public-holidays/prakas-no-397-20-paid-public-holidays-for-2021.md) | Active | `161181` |
 | 2021-10-27 | Prakas No. 277/21 | [Paid Public Holidays for 2022](c-public-holidays/prakas-no-277-21-paid-public-holidays-for-2022.md) | Active | `161184` |
-| 2021-12-30 | Prakas No. 357/21 | [Formalities for Working on Paid Public Holidays](c-public-holidays/prakas-no-357-21-formalities-for-working-on-paid-public-holidays.md) | Repealed | `161185` |
+| 2021-12-30 | Prakas No. 357/21 | [Formalities for Working on Paid Public Holidays](c-public-holidays/prakas-no-357-21-formalities-for-working-on-paid-public-holidays.md) | Superseded | `161185` |
 | 2022-05-04 | Instruction 028/22 | [Paid Public Holidays Falling on a Sunday](c-public-holidays/instruction-028-22-paid-public-holidays-falling-on-a-sunday.md) | Active | `121672` |
 | 2022-09-07 | Prakas No. 243/22 | [Paid Public Holidays for 2023](c-public-holidays/prakas-no-243-22-paid-public-holidays-for-2023.md) | Active | `161187` |
-| 2023-09-26 | Prakas No. 274/23 | [Paid Public Holidays for the Year 2024](c-public-holidays/prakas-no-274-23-paid-public-holidays-for-the-year-2024.md) | Expired | `142645` |
+| 2023-09-26 | Prakas No. 274/23 | [Paid Public Holidays for the Year 2024](c-public-holidays/prakas-no-274-23-paid-public-holidays-for-the-year-2024.md) | Superseded | `142645` |
 | 2024-01-05 | Prakas No. 001/24 | [Holiday for Peace Day in Cambodia](c-public-holidays/prakas-no-001-24-holiday-for-peace-day-in-cambodia.md) | Active | `161192` |
 | 2024-01-05 | Prakas No. 009/24 MLVT/PrK.KhL | [Paid Leave for Peace Day in Cambodia](c-public-holidays/prakas-no-009-24-mlvt-prk-khl-paid-leave-for-peace-day-in-cambodia.md) | Active | `142644` |
 | 2024-01-16 | Prakas No. 014/24 | [Paid Public Holidays for 2024](c-public-holidays/prakas-no-014-24-paid-public-holidays-for-2024.md) | Active | `161193` |

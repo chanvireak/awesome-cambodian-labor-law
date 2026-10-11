@@ -6,7 +6,7 @@ type: Prakas
 category: "Employment Contracts, Hiring & Staff Administration"
 subcategory: "A. Company Declarations, Books & Record Keeping"
 date: 2001-11-05
-status: "Repealed"
+status: "Superseded"
 jurisdiction: Cambodia
 ftk_doc_id: 161156
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Requires enterprises and establishments to declare notification of the
 
 - **Issue No.:** Prakas No. 288 MOSALVY
 - **Date:** 2001-11-05
-- **Status:** Repealed
+- **Status:** Superseded
 - **Category:** Employment Contracts, Hiring & Staff Administration › A. Company Declarations, Books & Record Keeping
 - **FTK document ID:** `161156` — full text available in the FTK document library.
 

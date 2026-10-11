@@ -6,7 +6,7 @@ type: Prakas
 category: "Working Hours, Leave & Holidays"
 subcategory: "C. Public Holidays"
 date: 2023-09-26
-status: "Expired"
+status: "Superseded"
 jurisdiction: Cambodia
 ftk_doc_id: 142645
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Lists the paid public holidays for 2024."
 
 - **Issue No.:** Prakas No. 274/23
 - **Date:** 2023-09-26
-- **Status:** Expired
+- **Status:** Superseded
 - **Category:** Working Hours, Leave & Holidays › C. Public Holidays
 - **FTK document ID:** `142645` — full text available in the FTK document library.
 

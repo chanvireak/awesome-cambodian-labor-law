@@ -6,7 +6,7 @@ type: Sub-Decree
 category: "Education & Vocational Training"
 subcategory: "C. Institution Establishment, Transformation & Upgrading"
 date: 2008-08-11
-status: "Active"
+status: "Repealed"
 jurisdiction: Cambodia
 ftk_doc_id: 161028
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Upgrades and renames the Kampot Provincial Vocational Training Centre 
 
 - **Issue No.:** Sub-Decree No. 110
 - **Date:** 2008-08-11
-- **Status:** Active
+- **Status:** Repealed
 - **Category:** Education & Vocational Training › C. Institution Establishment, Transformation & Upgrading
 - **FTK document ID:** `161028` — full text available in the FTK document library.
 

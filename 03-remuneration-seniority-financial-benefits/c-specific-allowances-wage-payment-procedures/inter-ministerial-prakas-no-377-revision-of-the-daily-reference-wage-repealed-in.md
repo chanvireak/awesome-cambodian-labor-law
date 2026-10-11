@@ -6,7 +6,7 @@ type: Prakas
 category: "Remuneration, Seniority & Financial Benefits"
 subcategory: "C. Specific Allowances & Wage Payment Procedures"
 date: 2015-09-14
-status: "Active"
+status: "Superseded"
 jurisdiction: Cambodia
 ftk_doc_id: 161168
 ftk_indexed: true
@@ -19,7 +19,7 @@ summary: "Joint Prakas revising the daily reference wage; repealed by Joint Prak
 
 - **Issue No.:** Inter-Ministerial Prakas No. 377
 - **Date:** 2015-09-14
-- **Status:** Active
+- **Status:** Superseded
 - **Category:** Remuneration, Seniority & Financial Benefits › C. Specific Allowances & Wage Payment Procedures
 - **FTK document ID:** `161168` — full text available in the FTK document library.
 
