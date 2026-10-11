@@ -32,6 +32,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2019-06-10 | Instruction No. 058/19 MLVT/SNN.KhL | [Payment of New Seniority Indemnity from 2019 Onwards](b-seniority-indemnity-rules-back-pay/instruction-no-058-19-mlvt-snn-khl-payment-of-new-seniority-indemnity-from-2019-.md) | Unknown | `161211` |
 | 2019-07-08 | Notification No. 023/19 MLVT/SJN.KhL | [Back Pay and New Seniority Indemnity Payments (Garment Sector)](b-seniority-indemnity-rules-back-pay/notification-no-023-19-mlvt-sjn-khl-back-pay-and-new-seniority-indemnity-payment.md) | Unknown | `161229` |
 | 2021-01-21 | Notification No. 003/21 MLVT/SJN.KhL | [Back Pay and 2020-2021 Seniority Indemnity (Manufacturing Sector)](b-seniority-indemnity-rules-back-pay/notification-no-003-21-mlvt-sjn-khl-back-pay-and-2020-2021-seniority-indemnity-m.md) | Unknown | `161232` |
+| 2020-06-02 | Notice No. 20 | [Postponement of Seniority Indemnity Payment (Pre-2019 and 2020)](b-seniority-indemnity-rules-back-pay/notice-no-20-postponement-of-seniority-indemnity-payment-pre-2019-and-2020.md) | Active | `121502` |
 
 ## C. Specific Allowances & Wage Payment Procedures
 
@@ -50,3 +51,4 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2018-09-21 | Prakas No. 442 MLVT/PrK.KhL | [Payment of Wages to Employees](c-specific-allowances-wage-payment-procedures/prakas-no-442-mlvt-prk-khl-payment-of-wages-to-employees.md) | Unknown | `161175` |
 | 2019-04-05 | Instruction No. 044/19 MLVT/SNN.KhL | [Application of Wage/Seniority for Diplomatic & UN Staff](c-specific-allowances-wage-payment-procedures/instruction-no-044-19-mlvt-snn-khl-application-of-wage-seniority-for-diplomatic-.md) | Unknown | `161208` |
 | 2026-03-26 | Notice No. 13/26 MLVT/SJN.KhL | [Temporary Travel & Accommodation Allowance for Garment Workers](c-specific-allowances-wage-payment-procedures/notice-no-13-26-mlvt-sjn-khl-temporary-travel-accommodation-allowance-for-garmen.md) | Active | `142940` |
+| 2018-09-21 | Prakas No. (unnumbered) | [Twice-Monthly Wage Payment to Workers and Employees](c-specific-allowances-wage-payment-procedures/prakas-no-unnumbered-twice-monthly-wage-payment-to-workers-and-employees.md) | Active | `121558` |

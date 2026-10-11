@@ -23,19 +23,19 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**720 regulations · 717 indexed in FTK (100%) · snapshot 2026-10-11**
+**737 regulations · 734 indexed in FTK (100%) · snapshot 2026-10-11**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
-| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 35 |
-| 2 | [Employment Contracts, Hiring & Staff Administration](02-employment-contracts-hiring-staff-administration/README.md) | 3 | 20 |
-| 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 32 |
+| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 37 |
+| 2 | [Employment Contracts, Hiring & Staff Administration](02-employment-contracts-hiring-staff-administration/README.md) | 3 | 21 |
+| 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 34 |
 | 4 | [Working Hours, Leave & Holidays](04-working-hours-leave-holidays/README.md) | 3 | 42 |
-| 5 | [Occupational Safety and Health (OSH)](05-occupational-safety-and-health-osh/README.md) | 3 | 48 |
-| 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 7 | 172 |
-| 7 | [Foreign Workforce Management](07-foreign-workforce-management/README.md) | 3 | 42 |
-| 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 62 |
-| 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 29 |
+| 5 | [Occupational Safety and Health (OSH)](05-occupational-safety-and-health-osh/README.md) | 3 | 51 |
+| 6 | [National Social Security Fund (NSSF)](06-national-social-security-fund-nssf/README.md) | 7 | 175 |
+| 7 | [Foreign Workforce Management](07-foreign-workforce-management/README.md) | 3 | 43 |
+| 8 | [Labor Relations & Dispute Resolution](08-labor-relations-dispute-resolution/README.md) | 3 | 66 |
+| 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 30 |
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 37 |
 | 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 18 |
 | 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 145 |

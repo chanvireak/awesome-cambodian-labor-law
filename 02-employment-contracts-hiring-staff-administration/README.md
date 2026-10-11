@@ -30,6 +30,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-04-28 | Prakas No. 103/25 | [Management of Labor Contractors](b-contracts-seniority-rules-internal-regulations/prakas-no-103-25-management-of-labor-contractors.md) | Active | `161197` |
 | 2025-08-20 | Instruction No. 138/25 | [Suspension of Employment Contracts](b-contracts-seniority-rules-internal-regulations/instruction-no-138-25-suspension-of-employment-contracts.md) | Active | `161216` |
 | 2025-09-27 | Guideline No. 138/25 MLVT/SNN.KhL | [Suspension of Employment Contracts (Articles 71–72)](b-contracts-seniority-rules-internal-regulations/guideline-no-138-25-mlvt-snn-khl-suspension-of-employment-contracts-articles-71-.md) | Active | `142966` |
+| 2003-01-19 | Notice (unnumbered) MLVT | [Personal Documents Required for Job Applications](b-contracts-seniority-rules-internal-regulations/notice-unnumbered-mlvt-personal-documents-required-for-job-applications.md) | Unknown | `121643` |
 
 ## C. Apprenticeships
 

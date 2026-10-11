@@ -18,6 +18,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2020-12-31 | Prakas No. 429/20 MLVT/PrK.KhL | [Physical/Medical Examination of Cambodian Employees](a-medical-infrastructure-infirmaries-medical-check-ups/prakas-no-429-20-mlvt-prk-khl-physical-medical-examination-of-cambodian-employee.md) | Unknown | `161263` |
 | 2020-12-31 | Prakas No. 433/20 | [Agreement on Health Check Services for Cambodian Workers](a-medical-infrastructure-infirmaries-medical-check-ups/prakas-no-433-20-agreement-on-health-check-services-for-cambodian-workers.md) | Active | `161264` |
 | 2025-01-14 | Decision No. 001/25 | [Appointment of National Occupational Safety and Health Committee Members](a-medical-infrastructure-infirmaries-medical-check-ups/decision-no-001-25-appointment-of-national-occupational-safety-and-health-commit.md) | Active | `161266` |
+| 2020-03-30 | Prakas No. 020 | [Physical Examination of Khmer Workers and Employees](a-medical-infrastructure-infirmaries-medical-check-ups/prakas-no-020-physical-examination-of-khmer-workers-and-employees.md) | Active | `121542` |
 
 ## B. General Workplace Hygiene, Environment & Safety
 
@@ -53,6 +54,8 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025/2026 | Draft Legislation | [Occupational Safety and Health Law](b-general-workplace-hygiene-environment-safety/draft-legislation-occupational-safety-and-health-law.md) | Unknown | — |
 | 2026-05-13 | Guideline No. 040/26 MLVT/SNN.AK | [Prohibition of E-cigarettes in Enterprises](b-general-workplace-hygiene-environment-safety/guideline-no-040-26-mlvt-snn-ak-prohibition-of-e-cigarettes-in-enterprises.md) | Active | `142934` |
 | Q1 2023 | Policy Document | [Third Master Plan on OSH (2023–2027)](b-general-workplace-hygiene-environment-safety/policy-document-third-master-plan-on-osh-2023-2027.md) | Active | — |
+| 2000-02-10 | Prakas No. 04 | [Provision of Hygienic Drinking Water](b-general-workplace-hygiene-environment-safety/prakas-no-04-provision-of-hygienic-drinking-water.md) | Unknown | `121571` |
+| 2019-01-18 | Notice (unnumbered) MLVT | [Water Storage and Workplace Safety Measures in Enterprises](b-general-workplace-hygiene-environment-safety/notice-unnumbered-mlvt-water-storage-and-workplace-safety-measures-in-enterprise.md) | Active | `121675` |
 
 ## C. Sector-Specific OSH Protocols
 

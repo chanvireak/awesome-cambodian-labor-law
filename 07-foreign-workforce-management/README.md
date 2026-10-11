@@ -52,6 +52,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-05-05 | Notice No. 015/25 | [Application to Extend Validity of Foreigners' Work Permits and Workbooks 2025](b-work-permits-employment-cards/notice-no-015-25-application-to-extend-validity-of-foreigners-work-permits-and-w.md) | Active | `161365` |
 | 2025-05-06 | Notice No. 15/25 MLVT/SJN.MH | [Extension of Foreign Work Permit and Employment Card Validity 2025](b-work-permits-employment-cards/notice-no-15-25-mlvt-sjn-mh-extension-of-foreign-work-permit-and-employment-card.md) | Expired | `142988` |
 | 2025-12-24 | Notice No. 038/25 MLVT/SJN.MH | [Applications for Foreign Work Permits and Work Books for 2026](b-work-permits-employment-cards/notice-no-038-25-mlvt-sjn-mh-applications-for-foreign-work-permits-and-work-book.md) | Active | `142955` |
+| 2024-12-27 | Guideline No. 11023 | [Issuance of Foreign Work Permits for Foreign Employees](b-work-permits-employment-cards/guideline-no-11023-issuance-of-foreign-work-permits-for-foreign-employees.md) | Active | `121652` |
 
 ## C. Enforcement & Penalties
 

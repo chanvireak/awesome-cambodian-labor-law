@@ -120,6 +120,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2020-10-21 | Sub-Decree No. 179 | [Contribution Rates and Payment Procedures for Public Sector Occupational Risk Scheme](b-occupational-risk-scheme/sub-decree-no-179-contribution-rates-and-payment-procedures-for-public-sector-oc.md) | Active | `160904` |
 | 2021-03-10 | Inter-Ministerial Prakas No. 057/21 | [Implementation of Occupational Risk Social Security Scheme for the Public Sector](b-occupational-risk-scheme/inter-ministerial-prakas-no-057-21-implementation-of-occupational-risk-social-se.md) | Active | `160918` |
 | 2023-07-13 | Prakas No. 194/23 | [Conditions and Procedures for Funeral Benefits under the Occupational Risk Scheme](b-occupational-risk-scheme/prakas-no-194-23-conditions-and-procedures-for-funeral-benefits-under-the-occupa.md) | Active | `160920` |
+| 2018-10-18 | Prakas No. 480 | [Amendment of Prakas No. 109 on Employment Injury Compensation](b-occupational-risk-scheme/prakas-no-480-amendment-of-prakas-no-109-on-employment-injury-compensation.md) | Active | `121599` |
 
 ## C. Health Care Scheme
 
@@ -157,6 +158,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-03-04 | Joint Prakas (unnumbered) | [Extending Government Maternity Benefit to National Police and Prison Officers](c-health-care-scheme/joint-prakas-unnumbered-extending-government-maternity-benefit-to-national-polic.md) | Active | `142528` |
 | 2025-07-04 | Joint Prakas No. 075/25 | [Expanding Pregnant-Women & Under-2 Benefit Programme to Police and Prison Officers](c-health-care-scheme/joint-prakas-no-075-25-expanding-pregnant-women-under-2-benefit-programme-to-pol.md) | Active | `160987` |
 | 2026-02-16 | Joint Prakas No. 54/26 | [Government Incentive Programme for Pregnant NSSF Members and Children Under 2](c-health-care-scheme/joint-prakas-no-54-26-government-incentive-programme-for-pregnant-nssf-members-a.md) | Active | `142634` |
+| 2023-01-20 | Prakas No. 116 | [Conditions and Procedures for Sickness, Maternity and Funeral Benefits](c-health-care-scheme/prakas-no-116-conditions-and-procedures-for-sickness-maternity-and-funeral-benef.md) | Active | `121604` |
 
 ## D. Pension Scheme
 
@@ -194,6 +196,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2024-08-01 | Notice No. 020/24 | [Registration of Self-Employed Persons and Dependents via NSSF Member App](f-self-employed-persons-scheme/notice-no-020-24-registration-of-self-employed-persons-and-dependents-via-nssf-m.md) | Active | `160978` |
 | 2025-01-15 | Notice No. 005/25 | [Registration Conditions for Self-Employed and Informal Economy Workers](f-self-employed-persons-scheme/notice-no-005-25-registration-conditions-for-self-employed-and-informal-economy-.md) | Active | `160979` |
 | 2025-02-27 | Notice No. គ្មាន | [Prevention of Fraud in Payment of NSSF Contributions](f-self-employed-persons-scheme/notice-no-prevention-of-fraud-in-payment-of-nssf-contributions.md) | Active | `160980` |
+| 2023-11-23 | Joint Prakas No. 336/23 | [Contribution Rates and Implementation Date of the Voluntary Health Care Scheme](f-self-employed-persons-scheme/joint-prakas-no-336-23-contribution-rates-and-implementation-date-of-the-volunta.md) | Active | `121605` |
 
 ## G. Social Assistance Programme
 

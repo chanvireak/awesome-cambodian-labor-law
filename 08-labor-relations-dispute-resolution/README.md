@@ -34,6 +34,9 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2024-04-18 | Prakas No. 093/24 | [Criteria for the 2025 Peaceful Community Enterprise Award](a-trade-unions-representation/prakas-no-093-24-criteria-for-the-2025-peaceful-community-enterprise-award.md) | Active | `160782` |
 | 2024-08-05 | Royal Kram (2024) | [Law on Trade Unions and Associations of Workers/Employees](a-trade-unions-representation/royal-kram-2024-law-on-trade-unions-and-associations-of-workers-employees.md) | Active | `142736` |
 | 2024-12-02 | Prakas No. 259/24 | [Qualifications of Enterprise Administration and Human Resources Officers](a-trade-unions-representation/prakas-no-259-24-qualifications-of-enterprise-administration-and-human-resources.md) | Active | `160784` |
+| 2016-06-27 | Prakas No. 21 | [Appeal Procedures Against Decisions of Delegated Officials](a-trade-unions-representation/prakas-no-21-appeal-procedures-against-decisions-of-delegated-officials.md) | Active | `121608` |
+| 2016-12-27 | Prakas No. 240 | [Delegation of Functions under the Law on Trade Unions](a-trade-unions-representation/prakas-no-240-delegation-of-functions-under-the-law-on-trade-unions.md) | Active | `121606` |
+| 2018-07-02 | Prakas No. (unnumbered) | [Deduction of Union Dues and Agency Service Fees](a-trade-unions-representation/prakas-no-unnumbered-deduction-of-union-dues-and-agency-service-fees.md) | Active | `121609` |
 
 ## B. Collective Bargaining Agreements (CBAs)
 
@@ -80,3 +83,4 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-03-04 | Prakas No. 073/25 | [Procedures for Resolving Individual Labor Disputes](c-dispute-resolution-strikes-arbitration-council/prakas-no-073-25-procedures-for-resolving-individual-labor-disputes.md) | Active | `160785` |
 | 2025-03-04 | Prakas No. 074/25 | [Procedures for Resolving Collective Labor Disputes](c-dispute-resolution-strikes-arbitration-council/prakas-no-074-25-procedures-for-resolving-collective-labor-disputes.md) | Active | `160786` |
 | 2026-04-13 | Prakas No. 098 | [Arbitration Council](c-dispute-resolution-strikes-arbitration-council/prakas-no-098-arbitration-council.md) | Active | `160787` |
+| 2016-07-29 | Prakas No. (unnumbered) | [Delegation of Functions for Collective Labor Dispute Claims](c-dispute-resolution-strikes-arbitration-council/prakas-no-unnumbered-delegation-of-functions-for-collective-labor-dispute-claims.md) | Active | `121619` |
