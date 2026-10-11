@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161150
 ftk_indexed: true
 tags: [cambodia, labour-law, public-holidays]
-summary: "Sets remuneration rules for work performed on paid public holidays; repealed in 2025 by Prakas No. 112/25."
+summary: "Sets remuneration rules for work performed on paid public holidays. Repealed by Prakas No. 112/25 of 6 May 2025."
 ---
 # Remuneration for Work on Paid Public Holidays
 
-> **Summary.** Sets remuneration rules for work performed on paid public holidays; repealed in 2025 by Prakas No. 112/25.
+> **Summary.** Sets remuneration rules for work performed on paid public holidays. Repealed by Prakas No. 112/25 of 6 May 2025.
 
 - **Issue No.:** Prakas No. 010/99 MOSALVY
 - **Date:** 1999-02-04

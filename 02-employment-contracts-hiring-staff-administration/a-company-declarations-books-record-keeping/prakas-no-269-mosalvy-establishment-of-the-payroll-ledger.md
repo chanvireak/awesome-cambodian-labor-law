@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161155
 ftk_indexed: true
 tags: [cambodia, labour-law, payroll]
-summary: "Establishes the payroll ledger (wage book) requirement for enterprises; repealed in 2025 by Prakas No. 111/25."
+summary: "Establishes the payroll ledger (wage book) requirement for enterprises. Repealed by Prakas No. 111/25 of 6 May 2025."
 ---
 # Establishment of the Payroll Ledger
 
-> **Summary.** Establishes the payroll ledger (wage book) requirement for enterprises; repealed in 2025 by Prakas No. 111/25.
+> **Summary.** Establishes the payroll ledger (wage book) requirement for enterprises. Repealed by Prakas No. 111/25 of 6 May 2025.
 
 - **Issue No.:** Prakas No. 269 MOSALVY
 - **Date:** 2001-10-11

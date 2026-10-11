@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161149
 ftk_indexed: true
 tags: [cambodia, labour-law, wages]
-summary: "Joint Prakas setting the daily reference wage; repealed by Joint Prakas No. 377 of 2015."
+summary: "Joint Prakas setting the daily reference wage. Repealed by Inter-Ministerial Prakas No. 377 of 14 September 2015."
 ---
 # Joint Prakas on Daily Reference Wage, Repealed in 2015
 
-> **Summary.** Joint Prakas setting the daily reference wage; repealed by Joint Prakas No. 377 of 2015.
+> **Summary.** Joint Prakas setting the daily reference wage. Repealed by Inter-Ministerial Prakas No. 377 of 14 September 2015.
 
 - **Issue No.:** Inter-Ministerial Prakas No. 86
 - **Date:** 1997-03-20

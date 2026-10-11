@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161168
 ftk_indexed: true
 tags: [cambodia, labour-law, wages]
-summary: "Joint Prakas revising the daily reference wage; repealed by Joint Prakas No. 326/22 of 2022."
+summary: "Joint Prakas revising the daily reference wage. Repealed by Inter-Ministerial Prakas No. 326/22 of 25 November 2022."
 ---
 # Revision of the Daily Reference Wage, Repealed in 2022
 
-> **Summary.** Joint Prakas revising the daily reference wage; repealed by Joint Prakas No. 326/22 of 2022.
+> **Summary.** Joint Prakas revising the daily reference wage. Repealed by Inter-Ministerial Prakas No. 326/22 of 25 November 2022.
 
 - **Issue No.:** Inter-Ministerial Prakas No. 377
 - **Date:** 2015-09-14

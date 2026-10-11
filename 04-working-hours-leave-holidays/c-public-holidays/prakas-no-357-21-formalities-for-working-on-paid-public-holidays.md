@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161185
 ftk_indexed: true
 tags: [cambodia, labour-law, public-holidays]
-summary: "Sets formalities and procedures for working on paid public holidays; repealed in 2025 by Prakas No. 112/25."
+summary: "Sets formalities and procedures for working on paid public holidays. Repealed by Prakas No. 112/25 of 6 May 2025."
 ---
 # Formalities for Working on Paid Public Holidays
 
-> **Summary.** Sets formalities and procedures for working on paid public holidays; repealed in 2025 by Prakas No. 112/25.
+> **Summary.** Sets formalities and procedures for working on paid public holidays. Repealed by Prakas No. 112/25 of 6 May 2025.
 
 - **Issue No.:** Prakas No. 357/21
 - **Date:** 2021-12-30

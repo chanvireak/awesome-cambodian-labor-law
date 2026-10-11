@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161154
 ftk_indexed: true
 tags: [cambodia, labour-law, payroll]
-summary: "Requires establishments to keep a payroll ledger and declaration book recording the wages paid to employees."
+summary: "Requires establishments to keep a payroll ledger and declaration book recording the wages paid to employees. Repealed by Prakas No. 113/25 of 6 May 2025."
 ---
 # Establishment's Payroll Ledger/Declaration Book
 
-> **Summary.** Requires establishments to keep a payroll ledger and declaration book recording the wages paid to employees.
+> **Summary.** Requires establishments to keep a payroll ledger and declaration book recording the wages paid to employees. Repealed by Prakas No. 113/25 of 6 May 2025.
 
 - **Issue No.:** Prakas No. 268 MOSALVY
 - **Date:** 2001-10-11

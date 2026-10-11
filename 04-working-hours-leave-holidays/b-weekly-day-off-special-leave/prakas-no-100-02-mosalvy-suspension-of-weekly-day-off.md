@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161159
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Concerns suspension of the weekly day off; repealed in 2025 by Prakas No. 112/25."
+summary: "Concerns suspension of the weekly day off. Repealed by Prakas No. 112/25 of 6 May 2025."
 ---
 # Suspension of Weekly Day Off
 
-> **Summary.** Concerns suspension of the weekly day off; repealed in 2025 by Prakas No. 112/25.
+> **Summary.** Concerns suspension of the weekly day off. Repealed by Prakas No. 112/25 of 6 May 2025.
 
 - **Issue No.:** Prakas No. 100/02 MOSALVY
 - **Date:** 2002-04-11

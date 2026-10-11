@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 142645
 ftk_indexed: true
 tags: [cambodia, labour-law, public-holidays]
-summary: "Lists the paid public holidays for 2024."
+summary: "Lists the paid public holidays for 2024. Repealed by Prakas No. 014/24 of 16 January 2024."
 ---
 # Paid Public Holidays for the Year 2024
 
-> **Summary.** Lists the paid public holidays for 2024.
+> **Summary.** Lists the paid public holidays for 2024. Repealed by Prakas No. 014/24 of 16 January 2024.
 
 - **Issue No.:** Prakas No. 274/23
 - **Date:** 2023-09-26

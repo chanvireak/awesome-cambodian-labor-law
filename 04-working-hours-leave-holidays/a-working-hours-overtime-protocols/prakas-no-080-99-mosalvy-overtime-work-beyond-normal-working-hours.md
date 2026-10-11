@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 121549
 ftk_indexed: true
 tags: [cambodia, labour-law, overtime]
-summary: "Sets rules and premium rates for overtime work beyond normal working hours."
+summary: "Sets rules and premium rates for overtime work beyond normal working hours. Repealed by Prakas No. 112/25 of 6 May 2025."
 ---
 # Overtime Work Beyond Normal Working Hours
 
-> **Summary.** Sets rules and premium rates for overtime work beyond normal working hours.
+> **Summary.** Sets rules and premium rates for overtime work beyond normal working hours. Repealed by Prakas No. 112/25 of 6 May 2025.
 
 - **Issue No.:** Prakas No. 080/99 MOSALVY
 - **Date:** 1999-03-01

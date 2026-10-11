@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161028
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Upgrades and renames the Kampot Provincial Vocational Training Centre as the Kampot Polytechnic Institute."
+summary: "Upgrades and renames the Kampot Provincial Vocational Training Centre as the Kampot Polytechnic Institute. Repealed; no repealing instrument is named in the source."
 ---
 # Upgrading and Renaming Kampot Provincial Vocational Training Centre to Kampot Polytechnic Institute
 
-> **Summary.** Upgrades and renames the Kampot Provincial Vocational Training Centre as the Kampot Polytechnic Institute.
+> **Summary.** Upgrades and renames the Kampot Provincial Vocational Training Centre as the Kampot Polytechnic Institute. Repealed; no repealing instrument is named in the source.
 
 - **Issue No.:** Sub-Decree No. 110
 - **Date:** 2008-08-11

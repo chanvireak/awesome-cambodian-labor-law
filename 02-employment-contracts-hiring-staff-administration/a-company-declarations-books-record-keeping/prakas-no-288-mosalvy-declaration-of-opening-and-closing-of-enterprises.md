@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 161156
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Requires enterprises and establishments to declare notification of their opening and closing; repealed in 2025."
+summary: "Requires enterprises and establishments to declare notification of their opening and closing. Repealed by Prakas No. 110/25 of 5 May 2025."
 ---
 # Declaration of Opening and Closing of Enterprises
 
-> **Summary.** Requires enterprises and establishments to declare notification of their opening and closing; repealed in 2025.
+> **Summary.** Requires enterprises and establishments to declare notification of their opening and closing. Repealed by Prakas No. 110/25 of 5 May 2025.
 
 - **Issue No.:** Prakas No. 288 MOSALVY
 - **Date:** 2001-11-05
