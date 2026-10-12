@@ -28,6 +28,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
+| 2026-04-24 | Notice No. 012 S.D.K | [Recognition of Prior Learning for Cambodian Returnee Migrant Workers from Thailand](b-deployment-of-cambodian-workers-abroad/notice-no-012-s-d-k-recognition-of-prior-learning-for-cambodian-returnee-migrant.md) | Active | `161144` |
 | 1995-07-20 | Sub-Decree No. 57 ANKr.BK | [Deployment of Cambodian Workers Abroad](b-deployment-of-cambodian-workers-abroad/sub-decree-no-57-ankr-bk-deployment-of-cambodian-workers-abroad.md) | Active | `161408` |
 | 2013-02-13 | Prakas No. 046/13 | [Recruitment Process and Pre-Departure Orientation for Workers](b-deployment-of-cambodian-workers-abroad/prakas-no-046-13-recruitment-process-and-pre-departure-orientation-for-workers.md) | Active | `161305` |
 | 2014-06-20 | Sub-Decree No. 205 | [Provision of Ordinary Passports to Cambodian Workers and Students](b-deployment-of-cambodian-workers-abroad/sub-decree-no-205-provision-of-ordinary-passports-to-cambodian-workers-and-stude.md) | Active | `161296` |

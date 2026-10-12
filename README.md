@@ -38,8 +38,8 @@ This is the trust signal: the summary you read here was derived from the documen
 | 9 | [Special Categories of Workers & Protected Sectors](09-special-categories-of-workers-protected-sectors/README.md) | 4 | 30 |
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 37 |
 | 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 18 |
-| 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 145 |
-| 13 | [Overseas Employment & Recruitment Agencies](13-overseas-employment-recruitment-agencies/README.md) | 3 | 38 |
+| 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 144 |
+| 13 | [Overseas Employment & Recruitment Agencies](13-overseas-employment-recruitment-agencies/README.md) | 3 | 39 |
 
 Each category folder has its own `README.md` index, and each sub-category folder holds one Markdown note per regulation.
 
