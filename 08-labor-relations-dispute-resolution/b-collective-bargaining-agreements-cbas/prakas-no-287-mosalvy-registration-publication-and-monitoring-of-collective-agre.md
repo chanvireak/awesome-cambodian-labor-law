@@ -1,5 +1,5 @@
 ---
-title: "Registration and Monitoring of CBAs"
+title: "Registration, Publication and Monitoring of Collective Agreements"
 aliases: ["Prakas No. 287 MOSALVY"]
 issue_no: "Prakas No. 287 MOSALVY"
 type: Prakas
@@ -11,11 +11,11 @@ jurisdiction: Cambodia
 ftk_doc_id: 160763
 ftk_indexed: true
 tags: [cambodia, labour-law]
-summary: "Sets the procedures for registering, publicising and monitoring collective bargaining agreements."
+summary: "Sets procedures for registering, publishing and monitoring collective agreements, repealing Prakas Nos. 249 (1997) and 197 (1998)."
 ---
-# Registration and Monitoring of CBAs
+# Registration, Publication and Monitoring of Collective Agreements
 
-> **Summary.** Sets the procedures for registering, publicising and monitoring collective bargaining agreements.
+> **Summary.** Sets procedures for registering, publishing and monitoring collective agreements, repealing Prakas Nos. 249 (1997) and 197 (1998).
 
 - **Issue No.:** Prakas No. 287 MOSALVY
 - **Date:** 2001-11-05
