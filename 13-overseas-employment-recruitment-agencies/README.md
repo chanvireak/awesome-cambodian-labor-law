@@ -23,6 +23,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-07-31 | Notice (Unnumbered) – Hong Kong | [Private Recruitment Agencies Authorized to Dispatch Cambodian Workers to Hong Kong](a-private-recruitment-agencies/notice-unnumbered-hong-kong-private-recruitment-agencies-authorized-to-dispatch--2.md) | Active | `161367` |
 | 2025-07-31 | Notice (Unnumbered) – Japan | [Private Recruitment Agencies Authorized for Japan Apprenticeship and Skilled Worker Dispatch](a-private-recruitment-agencies/notice-unnumbered-japan-private-recruitment-agencies-authorized-for-japan-appren-2.md) | Active | `161369` |
 | 2025-07-31 | Notice (Unnumbered) – Singapore | [Private Recruitment Agencies Authorized to Dispatch Cambodian Workers to Singapore](a-private-recruitment-agencies/notice-unnumbered-singapore-private-recruitment-agencies-authorized-to-dispatch--2.md) | Active | `161368` |
+| 2026-05-07 | Notice (unnumbered) MLVT | [List of Licensed Private Recruitment Agencies for Khmer Trainees to Japan](a-private-recruitment-agencies/notice-unnumbered-mlvt-list-of-licensed-private-recruitment-agencies-for-khmer-t.md) | Active | `142918` |
 
 ## B. Deployment of Cambodian Workers Abroad
 
@@ -39,6 +40,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2022-04-21 | Notice No. 008/22 | [Resumption of OCWC Card and Travel Document Renewal for Workers in Thailand](b-deployment-of-cambodian-workers-abroad/notice-no-008-22-resumption-of-ocwc-card-and-travel-document-renewal-for-workers.md) | Active | `161339` |
 | 2024-01-02 | Notice (Unnumbered) – South Korea | [Ordinary Passport Services for Cambodian Citizens and Workers in South Korea](b-deployment-of-cambodian-workers-abroad/notice-unnumbered-south-korea-ordinary-passport-services-for-cambodian-citizens-.md) | Active | `161355` |
 | 2024-08-19 | Notice No. 024/24 | [Procedures for Dispatching Cambodian Workers Abroad and Processing Documents](b-deployment-of-cambodian-workers-abroad/notice-no-024-24-procedures-for-dispatching-cambodian-workers-abroad-and-process.md) | Active | `161360` |
+| 2026-02-21 | Notice (unnumbered) MLVT | [Legal Dispatch of Khmer Migrant Workers Abroad](b-deployment-of-cambodian-workers-abroad/notice-unnumbered-mlvt-legal-dispatch-of-khmer-migrant-workers-abroad.md) | Active | `160274` |
 
 ## C. Skills & Language Testing for Overseas Employment
 

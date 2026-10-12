@@ -23,7 +23,7 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**739 regulations · 736 indexed in FTK (100%) · snapshot 2026-10-12**
+**741 regulations · 738 indexed in FTK (100%) · snapshot 2026-10-12**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
@@ -39,7 +39,7 @@ This is the trust signal: the summary you read here was derived from the documen
 | 10 | [Compliance, Labor Inspections & Penalties](10-compliance-labor-inspections-penalties/README.md) | 3 | 38 |
 | 11 | [Crisis Management & COVID-19 Interventions](11-crisis-management-covid-19-interventions/README.md) | 3 | 18 |
 | 12 | [Education & Vocational Training](12-education-vocational-training/README.md) | 7 | 144 |
-| 13 | [Overseas Employment & Recruitment Agencies](13-overseas-employment-recruitment-agencies/README.md) | 3 | 39 |
+| 13 | [Overseas Employment & Recruitment Agencies](13-overseas-employment-recruitment-agencies/README.md) | 3 | 41 |
 
 Each category folder has its own `README.md` index, and each sub-category folder holds one Markdown note per regulation.
 
