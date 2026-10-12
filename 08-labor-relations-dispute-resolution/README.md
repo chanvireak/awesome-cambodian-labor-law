@@ -42,7 +42,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 
 | Date | Issue No. | Short Title | Status | FTK |
 | :---- | :---- | :---- | :---- | :---- |
-| 2000-02-29 | Prakas No. 081 MOSALVY | [Working Conditions for Professions without CBAs](b-collective-bargaining-agreements-cbas/prakas-no-081-mosalvy-working-conditions-for-professions-without-cbas.md) | Unknown | `160760` |
+| 2000-02-01 | Prakas No. 081 | [Working Conditions for Professions Without a Collective Agreement](b-collective-bargaining-agreements-cbas/prakas-no-081-working-conditions-for-professions-without-a-collective-agreement.md) | Unknown | `160760` |
 | 2001-11-05 | Prakas No. 287 MOSALVY | [Registration and Monitoring of CBAs](b-collective-bargaining-agreements-cbas/prakas-no-287-mosalvy-registration-and-monitoring-of-cbas.md) | Unknown | `160763` |
 
 ## C. Dispute Resolution, Strikes & Arbitration Council
