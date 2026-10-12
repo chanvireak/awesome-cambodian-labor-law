@@ -55,3 +55,4 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2016-06-06 | Prakas No. 659 | [Monetary Fines for Violations of the Labour Law](c-fines-penalties/prakas-no-659-monetary-fines-for-violations-of-the-labour-law.md) | Active | `161170` |
 | 2023-07-31 | Inter-Ministerial Prakas No. 498 MEF.PrK.ATC | [Penalties for Labor Law Violations](c-fines-penalties/inter-ministerial-prakas-no-498-mef-prk-atc-penalties-for-labor-law-violations.md) | Active | `161190` |
 | 2026-01-25 | Notice No. 03/26 MLVT/SJN.KhL | [Penalties for Enterprises Demanding National ID from Returning Thai Workers](c-fines-penalties/notice-no-03-26-mlvt-sjn-khl-penalties-for-enterprises-demanding-national-id-fro.md) | Active | `142945` |
+| 2023-07-31 | Prakas No. 499 Sahakap. Prak. Athich | [Revenue Sharing from Fines on Labor Law Violators](c-fines-penalties/prakas-no-499-sahakap-prak-athich-revenue-sharing-from-fines-on-labor-law-violat.md) | Active | `125670` |
