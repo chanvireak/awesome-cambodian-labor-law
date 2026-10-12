@@ -23,11 +23,11 @@ This is the trust signal: the summary you read here was derived from the documen
 
 ## Browse the library
 
-**738 regulations · 735 indexed in FTK (100%) · snapshot 2026-10-12**
+**739 regulations · 736 indexed in FTK (100%) · snapshot 2026-10-12**
 
 | # | Category | Sub-categories | Instruments |
 | :-- | :-- | :-- | :-- |
-| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 37 |
+| 1 | [Fundamental Labor Law & General Administration](01-fundamental-labor-law-general-administration/README.md) | 3 | 38 |
 | 2 | [Employment Contracts, Hiring & Staff Administration](02-employment-contracts-hiring-staff-administration/README.md) | 3 | 21 |
 | 3 | [Remuneration, Seniority & Financial Benefits](03-remuneration-seniority-financial-benefits/README.md) | 3 | 34 |
 | 4 | [Working Hours, Leave & Holidays](04-working-hours-leave-holidays/README.md) | 3 | 42 |
