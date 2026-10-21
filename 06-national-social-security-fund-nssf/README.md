@@ -159,6 +159,8 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2025-07-04 | Joint Prakas No. 075/25 | [Expanding Pregnant-Women & Under-2 Benefit Programme to Police and Prison Officers](c-health-care-scheme/joint-prakas-no-075-25-expanding-pregnant-women-under-2-benefit-programme-to-pol.md) | Active | `160987` |
 | 2026-02-16 | Joint Prakas No. 54/26 | [Government Incentive Programme for Pregnant NSSF Members and Children Under 2](c-health-care-scheme/joint-prakas-no-54-26-government-incentive-programme-for-pregnant-nssf-members-a.md) | Active | `142634` |
 | 2023-01-20 | Prakas No. 116 | [Conditions and Procedures for Sickness, Maternity and Funeral Benefits](c-health-care-scheme/prakas-no-116-conditions-and-procedures-for-sickness-maternity-and-funeral-benef.md) | Active | `121604` |
+| 2016-05-05 | Inter-Ministerial Prakas No. 173 LV/PrK | [Provider Payment Methods for Health Care](c-health-care-scheme/inter-ministerial-prakas-no-173-lv-prk-provider-payment-methods-for-health-care.md) | Active | `162303` |
+| 2018-01-01 | Joint Prakas (unnumbered) | [Provider Payment Mechanism for Social Health Insurance and Occupational Risk Insurance](c-health-care-scheme/joint-prakas-unnumbered-provider-payment-mechanism-for-social-health-insurance-a.md) | Unknown | `138766` |
 
 ## D. Pension Scheme
 
