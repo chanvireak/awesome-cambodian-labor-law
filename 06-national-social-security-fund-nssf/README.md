@@ -98,6 +98,7 @@ Part of the [Awesome Cambodian Labour Law](../README.md) index.
 | 2026-02-25 | Decision No. 4/26 | [Amendment of Article 3 of the NSSF Internal Regulations](a-general-framework-registration-administration/decision-no-4-26-amendment-of-article-3-of-the-nssf-internal-regulations.md) | Active | `160874` |
 | 2026-04-24 | Sub-Decree No. 382 | [Adjustment of the Second-Term Governing Board of the National Social Security Fund](a-general-framework-registration-administration/sub-decree-no-382-adjustment-of-the-second-term-governing-board-of-the-national-.md) | Active | `160836` |
 | 2026-04-27 | Inter-Ministerial Prakas No. 352 | [Appointment of Signatories for Advance Payments and Deputies at the NSSF](a-general-framework-registration-administration/inter-ministerial-prakas-no-352-appointment-of-signatories-for-advance-payments-.md) | Active | `160857` |
+| 2026-10-19 | Joint Prakas No. 234 K.B/Pr.K | [Minimum and Maximum Contributory Wage Base for Social Security](a-general-framework-registration-administration/joint-prakas-no-234-k-b-pr-k-minimum-and-maximum-contributory-wage-base-for-soci.md) | Active | `162376` |
 
 ## B. Occupational Risk Scheme
 
